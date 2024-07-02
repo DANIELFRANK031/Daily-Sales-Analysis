@@ -1,0 +1,2823 @@
+,SALES,ORDERDATE,STATUS,PRODUCTLINE,COUNTRY,DEALSIZE
+0,2765.9,2003-05-07,Shipped,Motorcycles,France,Small
+1,3884.34,2003-07-01,Shipped,Motorcycles,France,Medium
+2,3746.7,2003-08-25,Shipped,Motorcycles,USA,Medium
+3,5205.27,2003-10-10,Shipped,Motorcycles,USA,Medium
+4,3479.76,2003-10-28,Shipped,Motorcycles,USA,Medium
+5,2497.77,2003-11-11,Shipped,Motorcycles,France,Small
+6,5512.32,2003-11-18,Shipped,Motorcycles,Norway,Medium
+7,2168.54,2003-12-01,Shipped,Motorcycles,USA,Small
+8,4708.44,2004-01-15,Shipped,Motorcycles,France,Medium
+9,3965.66,2004-02-20,Shipped,Motorcycles,Australia,Medium
+10,2333.12,2004-04-05,Shipped,Motorcycles,USA,Small
+11,3188.64,2004-05-18,Shipped,Motorcycles,USA,Medium
+12,3676.76,2004-06-28,Shipped,Motorcycles,USA,Medium
+13,4177.35,2004-07-23,Shipped,Motorcycles,France,Medium
+14,4099.68,2004-08-27,Shipped,Motorcycles,USA,Medium
+15,2597.39,2004-09-30,Shipped,Motorcycles,Finland,Small
+16,4394.38,2004-10-15,Shipped,Motorcycles,Norway,Medium
+17,4358.04,2004-11-02,Shipped,Motorcycles,USA,Medium
+18,4396.14,2004-11-15,Shipped,Motorcycles,USA,Medium
+19,7737.93,2004-11-24,Shipped,Motorcycles,Austria,Large
+20,1451.0,2004-12-17,Shipped,Motorcycles,Australia,Small
+21,733.11,2005-02-03,Shipped,Motorcycles,France,Small
+22,3207.12,2005-03-03,Shipped,Motorcycles,USA,Medium
+23,2434.56,2005-04-08,Shipped,Motorcycles,UK,Small
+24,7516.08,2005-05-13,Disputed,Motorcycles,Spain,Large
+25,5404.62,2003-01-29,Shipped,Classic Cars,Norway,Medium
+26,7209.11,2003-03-24,Shipped,Classic Cars,Sweden,Large
+27,7329.06,2003-05-28,Shipped,Classic Cars,Spain,Large
+28,7374.1,2003-07-24,Shipped,Classic Cars,USA,Large
+29,10993.5,2003-09-19,Shipped,Classic Cars,Singapore,Large
+30,4860.24,2003-10-20,Shipped,Classic Cars,USA,Medium
+31,8014.82,2003-11-06,Shipped,Classic Cars,Australia,Large
+32,5372.57,2003-11-13,Shipped,Classic Cars,USA,Medium
+33,7290.36,2003-11-25,Shipped,Classic Cars,France,Large
+34,9064.89,2003-12-05,Shipped,Classic Cars,Canada,Large
+35,6075.3,2004-01-29,Shipped,Classic Cars,USA,Medium
+36,6463.23,2004-03-10,Shipped,Classic Cars,USA,Medium
+37,6120.34,2004-05-04,Shipped,Classic Cars,USA,Medium
+38,7680.64,2004-06-15,Shipped,Classic Cars,Japan,Large
+39,4905.39,2004-07-19,Shipped,Classic Cars,Australia,Medium
+40,8014.82,2004-08-17,Shipped,Classic Cars,Italy,Large
+41,7136.19,2004-09-08,Shipped,Classic Cars,Sweden,Large
+42,10172.7,2004-10-11,Shipped,Classic Cars,France,Large
+43,11623.7,2004-10-21,Shipped,Classic Cars,USA,Large
+44,6000.4,2004-11-04,Shipped,Classic Cars,USA,Medium
+45,3003.0,2004-11-18,Shipped,Classic Cars,USA,Medium
+46,3944.7,2004-11-29,Shipped,Classic Cars,Australia,Medium
+47,5691.84,2004-12-10,Shipped,Classic Cars,USA,Medium
+48,4514.92,2005-01-20,Shipped,Classic Cars,USA,Medium
+49,8254.8,2005-02-17,Shipped,Classic Cars,USA,Large
+50,2416.56,2005-03-09,Shipped,Classic Cars,Australia,Small
+51,4140.23,2005-05-01,Shipped,Classic Cars,Canada,Medium
+52,12001.0,2005-05-31,In Process,Classic Cars,Spain,Large
+53,3896.49,2003-02-24,Shipped,Motorcycles,USA,Medium
+54,2793.86,2003-04-29,Shipped,Motorcycles,Australia,Small
+55,3307.77,2003-07-01,Shipped,Motorcycles,France,Medium
+56,5192.95,2003-08-25,Shipped,Motorcycles,USA,Medium
+57,5016.83,2003-10-10,Shipped,Motorcycles,USA,Medium
+58,3660.93,2003-10-28,Shipped,Motorcycles,USA,Medium
+59,4695.6,2003-11-11,Shipped,Motorcycles,France,Medium
+60,3660.92,2003-11-18,Shipped,Motorcycles,Norway,Medium
+61,3025.92,2003-12-01,Shipped,Motorcycles,USA,Medium
+62,3009.09,2004-01-12,Shipped,Motorcycles,Japan,Medium
+63,5422.39,2004-02-20,Shipped,Motorcycles,Australia,Medium
+64,2852.08,2004-04-03,Shipped,Motorcycles,USA,Small
+65,5756.52,2004-05-18,Shipped,Motorcycles,USA,Medium
+66,4472.0,2004-06-28,Shipped,Motorcycles,USA,Medium
+67,2904.44,2004-07-23,Shipped,Motorcycles,France,Small
+68,6484.59,2004-08-27,Shipped,Motorcycles,USA,Medium
+69,3757.26,2004-09-27,Shipped,Motorcycles,France,Medium
+70,4043.96,2004-10-15,Shipped,Motorcycles,USA,Medium
+71,5566.5,2004-11-02,Shipped,Motorcycles,USA,Medium
+72,3176.0,2004-11-15,Shipped,Motorcycles,USA,Medium
+73,2756.8,2004-11-23,Shipped,Motorcycles,Japan,Small
+74,1329.9,2004-12-17,Shipped,Motorcycles,Australia,Small
+75,5288.01,2005-02-02,Shipped,Motorcycles,Australia,Medium
+76,2225.5,2005-03-03,Shipped,Motorcycles,USA,Small
+77,5833.8,2005-04-07,Shipped,Motorcycles,France,Medium
+78,5887.35,2005-05-13,Disputed,Motorcycles,Spain,Medium
+79,6065.55,2003-02-24,Shipped,Motorcycles,USA,Medium
+80,9264.86,2003-04-29,Shipped,Motorcycles,Australia,Large
+81,7023.98,2003-07-01,Shipped,Motorcycles,France,Large
+82,5176.38,2003-08-25,Shipped,Motorcycles,USA,Medium
+83,4132.7,2003-10-10,Shipped,Motorcycles,USA,Medium
+84,4183.0,2003-10-28,Shipped,Motorcycles,USA,Medium
+85,8892.9,2003-11-11,Shipped,Motorcycles,France,Large
+86,8714.7,2003-11-18,Shipped,Motorcycles,Norway,Large
+87,8065.89,2003-12-01,Shipped,Motorcycles,USA,Large
+88,6123.4,2004-01-12,Shipped,Motorcycles,Japan,Medium
+89,9774.03,2004-02-20,Shipped,Motorcycles,Australia,Large
+90,7023.9,2004-04-05,Shipped,Motorcycles,USA,Large
+91,7078.23,2004-05-18,Shipped,Motorcycles,USA,Large
+92,8336.94,2004-06-28,Shipped,Motorcycles,USA,Large
+93,6901.92,2004-07-23,Shipped,Motorcycles,France,Medium
+94,5438.07,2004-08-27,Shipped,Motorcycles,USA,Medium
+95,6683.34,2004-09-30,Shipped,Motorcycles,Finland,Medium
+96,4570.4,2004-10-15,Shipped,Motorcycles,USA,Medium
+97,7667.14,2004-11-02,Shipped,Motorcycles,USA,Large
+98,5868.2,2004-11-15,Shipped,Motorcycles,USA,Medium
+99,2990.13,2004-11-23,Shipped,Motorcycles,Japan,Small
+100,3664.1,2005-01-05,Shipped,Motorcycles,USA,Medium
+101,3834.38,2005-02-02,Shipped,Motorcycles,Australia,Medium
+102,1822.17,2005-03-03,Shipped,Motorcycles,USA,Small
+103,11886.6,2005-04-08,Shipped,Motorcycles,UK,Large
+104,9218.16,2005-05-13,Disputed,Motorcycles,Spain,Large
+105,7208.0,2003-02-11,Shipped,Classic Cars,Denmark,Large
+106,5004.8,2003-04-28,Shipped,Classic Cars,Austria,Medium
+107,4398.24,2003-06-12,Shipped,Classic Cars,UK,Medium
+108,5597.76,2003-08-10,Shipped,Classic Cars,USA,Medium
+109,4526.08,2003-10-06,Shipped,Classic Cars,Finland,Medium
+110,5924.16,2003-10-23,Cancelled,Classic Cars,Sweden,Medium
+111,3492.48,2003-11-08,Shipped,Classic Cars,France,Medium
+112,3854.24,2003-11-14,Shipped,Classic Cars,UK,Medium
+113,5324.4,2003-11-26,Shipped,Classic Cars,Spain,Medium
+114,5197.92,2004-01-09,Shipped,Classic Cars,USA,Medium
+115,5997.6,2004-02-19,Shipped,Classic Cars,USA,Medium
+116,2910.4,2004-05-07,Cancelled,Classic Cars,USA,Small
+117,3378.24,2004-06-17,Shipped,Classic Cars,Canada,Medium
+118,3508.8,2004-07-21,Shipped,Classic Cars,Belgium,Medium
+119,2992.0,2004-08-20,Shipped,Classic Cars,Canada,Small
+120,3427.2,2004-09-10,Shipped,Classic Cars,USA,Medium
+121,2692.8,2004-10-14,Shipped,Classic Cars,USA,Small
+122,4128.96,2004-11-01,Shipped,Classic Cars,UK,Medium
+123,3051.71,2004-11-05,Shipped,Classic Cars,Norway,Medium
+124,1201.25,2004-11-21,Shipped,Classic Cars,USA,Small
+125,1962.22,2004-12-02,Shipped,Classic Cars,Spain,Small
+126,2624.64,2004-12-15,Shipped,Classic Cars,France,Small
+127,4046.25,2005-01-31,Shipped,Classic Cars,Finland,Medium
+128,4846.7,2005-02-23,Shipped,Classic Cars,USA,Medium
+129,3370.56,2005-03-17,Shipped,Classic Cars,France,Medium
+130,9661.44,2005-04-01,Shipped,Classic Cars,USA,Large
+131,2764.88,2005-05-06,On Hold,Classic Cars,USA,Small
+132,5398.26,2003-01-29,Shipped,Classic Cars,Norway,Medium
+133,4305.28,2003-04-01,Shipped,Classic Cars,France,Medium
+134,3347.74,2003-05-28,Shipped,Classic Cars,Spain,Medium
+135,3188.12,2003-07-24,Shipped,Classic Cars,USA,Medium
+136,3191.2,2003-09-19,Shipped,Classic Cars,Singapore,Medium
+137,3536.82,2003-10-21,Resolved,Classic Cars,Austria,Medium
+138,5362.83,2003-11-06,Shipped,Classic Cars,UK,Medium
+139,3433.36,2003-11-13,Shipped,Classic Cars,USA,Medium
+140,4263.74,2003-11-25,Shipped,Classic Cars,France,Medium
+141,4076.19,2003-12-09,Shipped,Classic Cars,USA,Medium
+142,7020.48,2004-02-04,Shipped,Classic Cars,Singapore,Large
+143,6426.5,2004-03-11,Shipped,Classic Cars,USA,Medium
+144,4591.72,2004-05-04,Shipped,Classic Cars,USA,Medium
+145,4033.38,2004-06-15,Shipped,Classic Cars,Singapore,Medium
+146,4302.08,2004-07-19,Shipped,Classic Cars,Australia,Medium
+147,7020.64,2004-08-19,Shipped,Classic Cars,USA,Large
+148,3855.9,2004-09-08,Shipped,Classic Cars,Sweden,Medium
+149,6680.78,2004-10-13,Shipped,Classic Cars,USA,Medium
+150,6678.0,2004-10-22,Shipped,Classic Cars,Canada,Medium
+151,2851.54,2004-11-04,Shipped,Classic Cars,USA,Small
+152,3188.12,2004-11-19,On Hold,Classic Cars,Sweden,Medium
+153,4428.0,2004-11-29,Shipped,Classic Cars,Australia,Medium
+154,5780.92,2004-12-10,Shipped,Classic Cars,USA,Medium
+155,2297.05,2005-01-20,Shipped,Classic Cars,Australia,Small
+156,6231.54,2005-02-17,Shipped,Classic Cars,USA,Medium
+157,1735.3,2005-03-09,Shipped,Classic Cars,Australia,Small
+158,4427.73,2005-05-01,Shipped,Classic Cars,Canada,Medium
+159,5894.94,2005-05-31,In Process,Classic Cars,France,Medium
+160,5265.15,2003-03-03,Shipped,Classic Cars,Philippines,Medium
+161,7599.9,2003-05-08,Shipped,Classic Cars,France,Large
+162,8008.56,2003-07-02,Shipped,Classic Cars,USA,Large
+163,9245.76,2003-09-05,Shipped,Classic Cars,USA,Large
+164,8296.35,2003-10-10,Shipped,Classic Cars,USA,Large
+165,5019.9,2003-11-04,Shipped,Classic Cars,Australia,Medium
+166,5411.07,2003-11-12,Shipped,Classic Cars,Norway,Medium
+167,3840.9,2003-11-20,Shipped,Classic Cars,Germany,Medium
+168,3930.4,2003-12-02,Shipped,Classic Cars,Spain,Medium
+169,7498.9,2004-01-15,Shipped,Classic Cars,France,Large
+170,4517.91,2004-02-22,Shipped,Classic Cars,Switzerland,Medium
+171,5774.72,2004-04-09,Shipped,Classic Cars,Denmark,Medium
+172,3922.56,2004-06-01,Cancelled,Classic Cars,UK,Medium
+173,9160.36,2004-07-06,Shipped,Classic Cars,Italy,Large
+174,9631.0,2004-08-02,Shipped,Classic Cars,USA,Large
+175,3432.24,2004-08-30,Shipped,Classic Cars,Switzerland,Medium
+176,5521.89,2003-10-04,Shipped,Classic Cars,Germany,Medium
+177,6934.62,2004-10-16,Shipped,Classic Cars,Germany,Medium
+178,6876.11,2004-11-03,Shipped,Classic Cars,Sweden,Medium
+179,2930.27,2004-11-15,Shipped,Classic Cars,USA,Small
+180,3584.25,2004-11-24,Shipped,Classic Cars,Austria,Medium
+181,2817.87,2005-01-06,Shipped,Classic Cars,Finland,Small
+182,3420.0,2005-02-03,Shipped,Classic Cars,France,Medium
+183,2575.04,2005-03-03,Shipped,Classic Cars,Sweden,Small
+184,1961.28,2005-05-17,Shipped,Classic Cars,Austria,Small
+185,8690.36,2003-02-11,Shipped,Classic Cars,Denmark,Large
+186,6034.38,2003-04-16,Shipped,Classic Cars,Singapore,Medium
+187,11279.2,2003-06-03,Shipped,Classic Cars,USA,Large
+188,8023.29,2003-08-08,Shipped,Classic Cars,USA,Large
+189,4904.0,2003-09-28,Shipped,Classic Cars,Spain,Medium
+190,8594.52,2003-10-22,Shipped,Classic Cars,Singapore,Large
+191,7474.5,2003-11-06,Shipped,Classic Cars,Italy,Large
+192,3883.74,2003-11-14,Shipped,Classic Cars,USA,Medium
+193,8887.7,2003-11-26,Shipped,Classic Cars,USA,Large
+194,8602.92,2004-01-02,Shipped,Classic Cars,France,Large
+195,7181.44,2004-02-12,Shipped,Classic Cars,Ireland,Large
+196,8378.58,2004-03-19,Shipped,Classic Cars,Spain,Large
+197,10606.2,2004-05-05,Shipped,Classic Cars,Finland,Large
+198,5818.4,2004-07-20,Shipped,Classic Cars,USA,Medium
+199,7071.27,2004-08-20,Shipped,Classic Cars,USA,Large
+200,8411.56,2004-09-09,Shipped,Classic Cars,Italy,Large
+201,6570.76,2004-10-14,Shipped,Classic Cars,UK,Medium
+202,7975.44,2004-10-22,Shipped,Classic Cars,Denmark,Large
+203,2688.0,2004-11-05,Shipped,Classic Cars,Norway,Small
+204,1888.26,2004-11-20,Shipped,Classic Cars,France,Small
+205,2513.28,2004-11-01,Shipped,Classic Cars,Spain,Small
+206,4764.48,2004-12-15,Shipped,Classic Cars,France,Medium
+207,3560.64,2005-01-23,Shipped,Classic Cars,USA,Medium
+208,3823.64,2005-02-17,Shipped,Classic Cars,USA,Medium
+209,2280.96,2005-03-17,Shipped,Classic Cars,France,Small
+210,8677.8,2005-05-05,Shipped,Classic Cars,USA,Large
+211,3394.98,2003-01-29,Shipped,Trucks and Buses,Norway,Medium
+212,3415.44,2003-03-26,Shipped,Trucks and Buses,USA,Medium
+213,2439.57,2003-05-28,Shipped,Trucks and Buses,Spain,Small
+214,4829.8,2003-07-24,Shipped,Trucks and Buses,USA,Medium
+215,4100.1,2003-09-19,Shipped,Trucks and Buses,Singapore,Medium
+216,6563.06,2003-10-21,Resolved,Trucks and Buses,Austria,Medium
+217,6817.22,2003-11-06,Shipped,Trucks and Buses,Australia,Medium
+218,6163.94,2003-11-13,Shipped,Trucks and Buses,USA,Medium
+219,4933.92,2003-11-25,Shipped,Trucks and Buses,France,Medium
+220,4056.36,2003-12-05,Shipped,Trucks and Buses,Canada,Medium
+221,5759.42,2004-02-02,Shipped,Trucks and Buses,France,Medium
+222,3451.0,2004-03-11,Shipped,Trucks and Buses,USA,Medium
+223,5920.4,2004-05-04,Shipped,Trucks and Buses,USA,Medium
+224,6668.24,2004-06-15,Shipped,Trucks and Buses,Japan,Medium
+225,4094.72,2004-07-19,Shipped,Trucks and Buses,Australia,Medium
+226,2938.5,2004-08-19,Shipped,Trucks and Buses,USA,Small
+227,6387.8,2004-09-08,Shipped,Trucks and Buses,Sweden,Medium
+228,6396.0,2004-10-11,Shipped,Trucks and Buses,France,Medium
+229,2669.1,2004-10-22,Shipped,Trucks and Buses,Canada,Small
+230,4784.13,2004-11-04,Shipped,Trucks and Buses,USA,Medium
+231,3273.93,2004-11-18,Shipped,Trucks and Buses,USA,Medium
+232,3586.43,2004-11-29,Shipped,Trucks and Buses,Australia,Medium
+233,5960.36,2004-12-10,Shipped,Trucks and Buses,USA,Medium
+234,8470.14,2005-01-20,Shipped,Trucks and Buses,Australia,Large
+235,2952.0,2005-02-17,Shipped,Trucks and Buses,USA,Small
+236,2464.8,2005-03-09,Shipped,Trucks and Buses,Australia,Small
+237,6232.0,2005-05-01,Shipped,Trucks and Buses,Canada,Medium
+238,7969.36,2005-05-31,In Process,Trucks and Buses,Spain,Large
+239,3036.6,2003-02-24,Shipped,Motorcycles,USA,Medium
+240,8284.0,2003-05-07,Shipped,Motorcycles,France,Large
+241,2711.2,2003-07-01,Shipped,Motorcycles,France,Small
+242,8339.8,2003-08-25,Shipped,Motorcycles,USA,Large
+243,6238.84,2003-10-10,Shipped,Motorcycles,USA,Medium
+244,4639.25,2003-11-04,Shipped,Motorcycles,Australia,Medium
+245,6747.6,2003-11-11,Shipped,Motorcycles,France,Medium
+246,4512.48,2003-11-18,Shipped,Motorcycles,USA,Medium
+247,4029.0,2003-12-01,Shipped,Motorcycles,USA,Medium
+248,4771.8,2004-01-15,Shipped,Motorcycles,France,Medium
+249,6087.94,2004-02-21,Shipped,Motorcycles,France,Medium
+250,4193.28,2004-04-05,Shipped,Motorcycles,USA,Medium
+251,7552.28,2004-05-18,Shipped,Motorcycles,USA,Large
+252,6434.4,2004-06-28,Shipped,Motorcycles,USA,Medium
+253,5181.5,2004-08-02,Shipped,Motorcycles,USA,Medium
+254,6863.92,2004-08-27,Shipped,Motorcycles,USA,Medium
+255,4157.04,2004-09-30,Shipped,Motorcycles,Finland,Medium
+256,4660.24,2004-10-15,Shipped,Motorcycles,Norway,Medium
+257,4111.8,2004-11-03,Shipped,Motorcycles,USA,Medium
+258,3542.64,2004-11-15,Shipped,Motorcycles,USA,Medium
+259,8118.55,2004-11-24,Shipped,Motorcycles,Austria,Large
+260,3877.06,2005-01-05,Shipped,Motorcycles,USA,Medium
+261,3867.08,2005-02-03,Shipped,Motorcycles,France,Medium
+262,5951.44,2005-03-03,Shipped,Motorcycles,USA,Medium
+263,8648.64,2005-04-08,Shipped,Motorcycles,UK,Large
+264,3447.78,2005-05-13,Disputed,Motorcycles,Spain,Medium
+265,5958.5,2003-01-31,Shipped,Classic Cars,Spain,Medium
+266,5911.64,2003-04-16,Shipped,Classic Cars,Singapore,Medium
+267,7366.44,2003-06-03,Shipped,Classic Cars,USA,Large
+268,4985.64,2003-08-08,Shipped,Classic Cars,USA,Medium
+269,5393.64,2003-09-28,Shipped,Classic Cars,Spain,Medium
+270,4880.02,2003-10-22,Shipped,Classic Cars,Singapore,Medium
+271,8378.69,2003-11-06,Shipped,Classic Cars,Italy,Large
+272,4038.21,2003-11-14,Shipped,Classic Cars,USA,Medium
+273,3807.12,2003-11-26,Shipped,Classic Cars,USA,Medium
+274,3142.36,2004-01-02,Shipped,Classic Cars,France,Medium
+275,4713.6,2004-02-12,Shipped,Classic Cars,Ireland,Medium
+276,7016.31,2004-03-15,Shipped,Classic Cars,Germany,Large
+277,4381.25,2004-05-05,Shipped,Classic Cars,Finland,Medium
+278,4283.01,2004-07-20,Shipped,Classic Cars,USA,Medium
+279,4364.82,2004-08-20,Shipped,Classic Cars,USA,Medium
+280,4242.24,2004-09-09,Shipped,Classic Cars,Italy,Medium
+281,4982.7,2004-10-14,Shipped,Classic Cars,UK,Medium
+282,6393.54,2004-10-22,Shipped,Classic Cars,Denmark,Medium
+283,1466.91,2004-11-05,Shipped,Classic Cars,USA,Small
+284,4059.33,2004-11-20,Shipped,Classic Cars,France,Medium
+285,4801.52,2004-11-01,Shipped,Classic Cars,Spain,Medium
+286,2711.66,2004-12-10,Shipped,Classic Cars,Spain,Small
+287,5862.0,2005-01-26,Shipped,Classic Cars,Japan,Medium
+288,4071.85,2005-02-17,Shipped,Classic Cars,USA,Medium
+289,8236.75,2005-05-05,Shipped,Classic Cars,USA,Large
+290,6130.35,2003-03-03,Shipped,Classic Cars,Philippines,Medium
+291,3693.34,2003-05-08,Shipped,Classic Cars,France,Medium
+292,6031.68,2003-07-02,Shipped,Classic Cars,USA,Medium
+293,3494.94,2003-09-05,Shipped,Classic Cars,USA,Medium
+294,5294.14,2003-10-11,Shipped,Classic Cars,USA,Medium
+295,5464.69,2003-11-04,Shipped,Classic Cars,Austria,Medium
+296,2860.76,2003-11-12,Shipped,Classic Cars,Norway,Small
+297,5590.0,2003-11-20,Shipped,Classic Cars,Germany,Medium
+298,2254.8,2003-12-02,Shipped,Classic Cars,Spain,Small
+299,4946.76,2004-01-16,Shipped,Classic Cars,Spain,Medium
+300,2495.5,2004-02-22,Shipped,Classic Cars,Switzerland,Small
+301,3167.38,2004-04-09,Shipped,Classic Cars,Denmark,Medium
+302,2402.84,2004-06-01,Cancelled,Classic Cars,UK,Small
+303,2454.54,2004-07-06,Shipped,Classic Cars,Italy,Small
+304,5464.69,2004-08-02,Shipped,Classic Cars,USA,Medium
+305,4756.5,2004-08-30,Shipped,Classic Cars,Switzerland,Medium
+306,3984.6,2003-10-04,Shipped,Classic Cars,Germany,Medium
+307,3100.32,2004-10-16,Shipped,Classic Cars,Germany,Medium
+308,4850.3,2004-11-03,Shipped,Classic Cars,Sweden,Medium
+309,3846.98,2004-11-15,Shipped,Classic Cars,USA,Medium
+310,4220.92,2004-11-24,Shipped,Classic Cars,Austria,Medium
+311,3288.82,2005-01-06,Shipped,Classic Cars,Finland,Medium
+312,3987.2,2005-02-08,Shipped,Classic Cars,USA,Medium
+313,1809.5,2005-03-03,Shipped,Classic Cars,Sweden,Small
+314,1092.2,2005-05-17,Shipped,Classic Cars,Austria,Small
+315,4566.05,2003-02-11,Shipped,Classic Cars,Denmark,Medium
+316,5938.14,2003-04-16,Shipped,Classic Cars,Singapore,Medium
+317,8138.76,2003-06-03,Shipped,Classic Cars,USA,Large
+318,9470.94,2003-08-08,Shipped,Classic Cars,USA,Large
+319,7036.89,2003-09-28,Shipped,Classic Cars,Spain,Large
+320,5559.03,2003-10-22,Shipped,Classic Cars,Singapore,Medium
+321,7872.5,2003-11-06,Shipped,Classic Cars,Italy,Large
+322,7886.2,2003-11-14,Shipped,Classic Cars,USA,Large
+323,7232.16,2003-11-26,Shipped,Classic Cars,USA,Large
+324,3114.4,2004-01-02,Shipped,Classic Cars,France,Medium
+325,5045.22,2004-02-12,Shipped,Classic Cars,Ireland,Medium
+326,6952.12,2004-03-19,Shipped,Classic Cars,Spain,Medium
+327,4157.73,2004-05-05,Shipped,Classic Cars,Finland,Medium
+328,7962.24,2004-07-20,Shipped,Classic Cars,USA,Large
+329,3778.8,2004-08-20,Shipped,Classic Cars,USA,Medium
+330,8253.0,2004-09-09,Shipped,Classic Cars,Italy,Large
+331,3633.4,2004-10-14,Shipped,Classic Cars,UK,Medium
+332,6913.8,2004-10-22,Shipped,Classic Cars,Denmark,Medium
+333,2583.6,2004-11-05,Shipped,Classic Cars,Norway,Small
+334,3105.62,2004-11-20,Shipped,Classic Cars,France,Medium
+335,4408.56,2004-12-01,Shipped,Classic Cars,USA,Medium
+336,3042.41,2004-12-15,Shipped,Classic Cars,France,Medium
+337,5941.5,2005-01-26,Shipped,Classic Cars,Japan,Medium
+338,3241.9,2005-02-17,Shipped,Classic Cars,USA,Medium
+339,6109.29,2005-03-23,Shipped,Classic Cars,USA,Medium
+340,3387.78,2005-05-05,Shipped,Classic Cars,USA,Medium
+341,3485.82,2003-03-03,Shipped,Classic Cars,Philippines,Medium
+342,2042.88,2003-05-08,Shipped,Classic Cars,France,Small
+343,1800.24,2003-07-02,Shipped,Classic Cars,USA,Small
+344,1340.64,2003-09-05,Shipped,Classic Cars,USA,Small
+345,1762.08,2003-10-10,Shipped,Classic Cars,USA,Small
+346,2298.24,2003-11-04,Shipped,Classic Cars,Australia,Small
+347,1628.0,2003-11-12,Shipped,Classic Cars,Norway,Small
+348,1939.2,2003-11-20,Shipped,Classic Cars,Germany,Small
+349,3651.56,2003-12-02,Shipped,Classic Cars,Spain,Medium
+350,2591.96,2004-01-15,Shipped,Classic Cars,France,Small
+351,2864.17,2004-02-22,Shipped,Classic Cars,Switzerland,Small
+352,1484.2,2004-04-09,Shipped,Classic Cars,Denmark,Small
+353,2254.25,2004-06-01,Cancelled,Classic Cars,UK,Small
+354,2681.35,2004-07-06,Shipped,Classic Cars,Italy,Small
+355,3184.02,2004-08-02,Shipped,Classic Cars,USA,Medium
+356,2846.63,2004-08-30,Shipped,Classic Cars,Switzerland,Small
+357,1685.42,2003-10-04,Shipped,Classic Cars,Germany,Small
+358,3988.6,2004-10-16,Shipped,Classic Cars,Germany,Medium
+359,2789.96,2004-11-03,Shipped,Classic Cars,Sweden,Small
+360,3607.56,2004-11-15,Shipped,Classic Cars,USA,Medium
+361,3368.16,2004-11-24,Shipped,Classic Cars,Austria,Medium
+362,2775.08,2005-01-06,Shipped,Classic Cars,Finland,Small
+363,1627.92,2005-02-09,Shipped,Classic Cars,Finland,Small
+364,2529.36,2005-03-03,Shipped,Classic Cars,Sweden,Small
+365,3065.78,2005-05-17,Shipped,Classic Cars,Austria,Medium
+366,4615.78,2003-01-31,Shipped,Trucks and Buses,Spain,Medium
+367,5723.78,2003-04-04,Shipped,Trucks and Buses,USA,Medium
+368,2559.6,2003-06-03,Shipped,Trucks and Buses,USA,Small
+369,2140.11,2003-08-01,Shipped,Trucks and Buses,Finland,Small
+370,3327.6,2003-09-21,Shipped,Trucks and Buses,Finland,Medium
+371,6825.6,2003-10-22,Shipped,Trucks and Buses,Singapore,Medium
+372,3543.28,2003-11-06,Shipped,Trucks and Buses,UK,Medium
+373,4516.22,2003-11-14,Shipped,Trucks and Buses,Spain,Medium
+374,6445.46,2003-11-25,Shipped,Trucks and Buses,USA,Medium
+375,3384.36,2003-12-09,Shipped,Trucks and Buses,USA,Medium
+376,4891.68,2004-02-10,Shipped,Trucks and Buses,USA,Medium
+377,4521.96,2004-03-11,Shipped,Trucks and Buses,USA,Medium
+378,5069.66,2004-05-05,Shipped,Trucks and Buses,Spain,Medium
+379,6541.2,2004-06-15,Shipped,Trucks and Buses,Singapore,Medium
+380,3012.27,2004-07-20,Shipped,Trucks and Buses,USA,Medium
+381,5247.18,2004-08-19,Shipped,Trucks and Buses,USA,Medium
+382,2214.87,2004-09-08,Shipped,Trucks and Buses,USA,Small
+383,4773.18,2004-10-13,Shipped,Trucks and Buses,USA,Medium
+384,6185.7,2004-10-22,Shipped,Trucks and Buses,Denmark,Medium
+385,1517.88,2004-11-05,Shipped,Trucks and Buses,USA,Small
+386,6372.6,2004-11-20,Shipped,Trucks and Buses,France,Medium
+387,5232.96,2004-12-01,Shipped,Trucks and Buses,USA,Medium
+388,2694.72,2004-12-10,Shipped,Trucks and Buses,Spain,Small
+389,1749.79,2005-01-23,Shipped,Trucks and Buses,USA,Small
+390,2130.56,2005-02-17,Shipped,Trucks and Buses,USA,Small
+391,5951.34,2005-05-03,Shipped,Trucks and Buses,Spain,Medium
+392,4692.6,2005-05-31,In Process,Trucks and Buses,France,Medium
+393,3731.04,2003-03-03,Shipped,Classic Cars,Philippines,Medium
+394,2142.0,2003-05-08,Shipped,Classic Cars,France,Small
+395,2838.81,2003-07-02,Shipped,Classic Cars,USA,Small
+396,3230.37,2003-09-05,Shipped,Classic Cars,USA,Medium
+397,5182.0,2003-10-11,Shipped,Classic Cars,USA,Medium
+398,4391.1,2003-11-04,Shipped,Classic Cars,Austria,Medium
+399,4477.32,2003-11-12,Shipped,Classic Cars,Norway,Medium
+400,3544.56,2003-11-20,Shipped,Classic Cars,USA,Medium
+401,5195.85,2003-12-02,Shipped,Classic Cars,Spain,Medium
+402,4180.44,2004-01-16,Shipped,Classic Cars,Spain,Medium
+403,2684.43,2004-02-22,Shipped,Classic Cars,Switzerland,Small
+404,1958.88,2004-04-12,Shipped,Classic Cars,Finland,Small
+405,4910.57,2004-06-01,Cancelled,Classic Cars,UK,Medium
+406,4468.4,2004-07-06,Shipped,Classic Cars,Italy,Medium
+407,3127.88,2004-08-04,Shipped,Classic Cars,Singapore,Medium
+408,2675.13,2004-08-30,Shipped,Classic Cars,Switzerland,Small
+409,2807.61,2003-10-04,Shipped,Classic Cars,Germany,Small
+410,2504.75,2004-10-16,Shipped,Classic Cars,Germany,Small
+411,2984.88,2004-11-04,Shipped,Classic Cars,USA,Small
+412,2524.86,2004-11-15,Shipped,Classic Cars,USA,Small
+413,4136.0,2004-11-24,Shipped,Classic Cars,Austria,Medium
+414,4068.7,2005-01-06,Shipped,Classic Cars,Finland,Medium
+415,5182.0,2005-02-09,Shipped,Classic Cars,Finland,Medium
+416,5243.79,2005-03-03,Shipped,Classic Cars,Sweden,Medium
+417,9048.16,2005-04-14,Shipped,Classic Cars,France,Large
+418,3832.64,2005-05-17,Shipped,Classic Cars,Austria,Medium
+419,3920.0,2003-01-29,Shipped,Trucks and Buses,Norway,Medium
+420,4916.66,2003-03-26,Shipped,Trucks and Buses,USA,Medium
+421,3857.0,2003-05-28,Shipped,Trucks and Buses,Spain,Medium
+422,4181.44,2003-07-24,Shipped,Trucks and Buses,USA,Medium
+423,4641.0,2003-09-19,Shipped,Trucks and Buses,Singapore,Medium
+424,3570.12,2003-10-21,Resolved,Trucks and Buses,Austria,Medium
+425,4480.32,2003-11-06,Shipped,Trucks and Buses,Australia,Medium
+426,2033.64,2003-11-13,Shipped,Trucks and Buses,USA,Small
+427,1960.14,2003-11-25,Shipped,Trucks and Buses,France,Small
+428,3966.78,2003-12-05,Shipped,Trucks and Buses,Canada,Medium
+429,5152.0,2004-01-29,Shipped,Trucks and Buses,USA,Medium
+430,3360.0,2004-03-10,Shipped,Trucks and Buses,USA,Medium
+431,3451.0,2004-05-04,Shipped,Trucks and Buses,USA,Medium
+432,5453.0,2004-06-15,Shipped,Trucks and Buses,Japan,Medium
+433,4164.12,2004-07-19,Shipped,Trucks and Buses,Australia,Medium
+434,2800.08,2004-08-17,Shipped,Trucks and Buses,Italy,Small
+435,4687.94,2004-09-08,Shipped,Trucks and Buses,Sweden,Medium
+436,4508.0,2004-10-11,Shipped,Trucks and Buses,France,Medium
+437,4181.44,2004-10-21,Shipped,Trucks and Buses,USA,Medium
+438,2251.04,2004-11-04,Shipped,Trucks and Buses,USA,Small
+439,1167.25,2004-11-18,Shipped,Trucks and Buses,USA,Small
+440,2083.2,2004-11-29,Shipped,Trucks and Buses,Australia,Small
+441,3822.0,2004-12-10,Shipped,Trucks and Buses,USA,Medium
+442,3911.49,2005-01-20,Shipped,Trucks and Buses,Australia,Medium
+443,4704.0,2005-02-17,Shipped,Trucks and Buses,USA,Medium
+444,2467.9,2005-03-09,Shipped,Trucks and Buses,Australia,Small
+445,3213.0,2005-05-01,Shipped,Trucks and Buses,Canada,Medium
+446,7182.0,2005-05-31,In Process,Trucks and Buses,Spain,Large
+447,4379.18,2003-03-10,Shipped,Classic Cars,USA,Medium
+448,5004.8,2003-05-08,Shipped,Classic Cars,France,Medium
+449,3644.75,2003-07-04,Shipped,Classic Cars,France,Medium
+450,2702.04,2003-09-11,Shipped,Classic Cars,Australia,Small
+451,3764.88,2003-10-17,Shipped,Classic Cars,Denmark,Medium
+452,4508.0,2003-11-05,Shipped,Classic Cars,Canada,Medium
+453,5418.16,2003-11-12,Shipped,Classic Cars,Norway,Medium
+454,3300.66,2003-11-20,Shipped,Classic Cars,USA,Medium
+455,6182.4,2003-12-02,Shipped,Classic Cars,USA,Medium
+456,4186.73,2004-01-16,Shipped,Classic Cars,Spain,Medium
+457,4529.28,2004-02-22,Shipped,Classic Cars,Switzerland,Medium
+458,5628.89,2004-04-13,Shipped,Classic Cars,Japan,Medium
+459,3054.48,2004-06-01,Cancelled,Classic Cars,UK,Medium
+460,2526.51,2004-07-06,Shipped,Classic Cars,Italy,Small
+461,4667.86,2004-08-06,Shipped,Classic Cars,USA,Medium
+462,6499.32,2004-08-30,Shipped,Classic Cars,Switzerland,Medium
+463,5917.78,2003-10-05,Shipped,Classic Cars,Norway,Medium
+464,6231.91,2004-10-16,Shipped,Classic Cars,Germany,Medium
+465,5803.14,2004-11-04,Shipped,Classic Cars,USA,Medium
+466,6434.02,2004-11-17,Shipped,Classic Cars,USA,Medium
+467,6454.4,2004-11-24,Shipped,Classic Cars,Australia,Medium
+468,4196.8,2004-12-09,Shipped,Classic Cars,France,Medium
+469,2611.8,2005-01-07,Shipped,Classic Cars,USA,Small
+470,5895.05,2005-02-09,Shipped,Classic Cars,Finland,Medium
+471,3375.72,2005-03-04,Shipped,Classic Cars,USA,Medium
+472,8374.69,2005-04-15,Disputed,Classic Cars,Denmark,Large
+473,4464.24,2005-05-17,Shipped,Classic Cars,Austria,Medium
+474,4808.31,2003-01-10,Shipped,Vintage Cars,USA,Medium
+475,3288.78,2003-03-25,Shipped,Vintage Cars,USA,Medium
+476,3254.72,2003-05-21,Shipped,Vintage Cars,Australia,Medium
+477,3184.94,2003-07-16,Shipped,Vintage Cars,Australia,Medium
+478,5907.5,2003-09-12,Shipped,Vintage Cars,USA,Medium
+479,4389.12,2003-10-18,Shipped,Vintage Cars,USA,Medium
+480,5036.16,2003-11-05,Shipped,Vintage Cars,Italy,Medium
+481,2183.25,2003-11-12,Shipped,Vintage Cars,USA,Small
+482,3106.88,2003-11-21,Shipped,Vintage Cars,Australia,Medium
+483,3735.72,2003-12-03,Shipped,Vintage Cars,Spain,Medium
+484,2413.26,2004-01-29,Shipped,Vintage Cars,USA,Small
+485,2953.75,2004-03-02,Shipped,Vintage Cars,France,Small
+486,4684.8,2004-04-29,Shipped,Vintage Cars,Spain,Medium
+487,3248.7,2004-06-08,Shipped,Vintage Cars,Denmark,Medium
+488,5239.5,2004-08-17,Shipped,Vintage Cars,Italy,Medium
+489,4567.98,2004-09-03,Shipped,Vintage Cars,Norway,Medium
+490,3535.35,2004-10-11,Shipped,Vintage Cars,France,Medium
+491,3843.34,2004-10-21,Shipped,Vintage Cars,USA,Medium
+492,3710.9,2004-11-04,Shipped,Vintage Cars,USA,Medium
+493,4375.98,2004-11-17,Shipped,Vintage Cars,UK,Medium
+494,1516.62,2004-11-29,Shipped,Vintage Cars,USA,Small
+495,2509.0,2004-12-09,Shipped,Vintage Cars,France,Small
+496,9240.44,2005-01-20,Shipped,Vintage Cars,USA,Large
+497,2515.32,2005-02-16,Shipped,Vintage Cars,Spain,Small
+498,5548.9,2005-03-09,Shipped,Vintage Cars,Australia,Medium
+499,4873.05,2005-05-30,In Process,Vintage Cars,USA,Medium
+500,2055.74,2003-01-10,Shipped,Vintage Cars,USA,Small
+501,2354.88,2003-03-25,Shipped,Vintage Cars,USA,Small
+502,2309.58,2003-05-28,Shipped,Vintage Cars,Spain,Small
+503,2113.37,2003-07-16,Shipped,Vintage Cars,Australia,Small
+504,1746.6,2003-09-12,Shipped,Vintage Cars,USA,Small
+505,2304.45,2003-10-18,Shipped,Vintage Cars,USA,Small
+506,2122.08,2003-11-05,Shipped,Vintage Cars,Italy,Small
+507,1742.4,2003-11-12,Shipped,Vintage Cars,USA,Small
+508,2455.02,2003-11-21,Shipped,Vintage Cars,Australia,Small
+509,3053.28,2003-12-03,Shipped,Vintage Cars,Spain,Medium
+510,1423.29,2004-01-29,Shipped,Vintage Cars,USA,Small
+511,1504.12,2004-03-02,Shipped,Vintage Cars,France,Small
+512,1164.4,2004-04-29,Shipped,Vintage Cars,Spain,Small
+513,1500.75,2004-06-08,Shipped,Vintage Cars,Denmark,Small
+514,1557.36,2004-08-17,Shipped,Vintage Cars,Italy,Small
+515,1345.68,2004-09-03,Shipped,Vintage Cars,Norway,Small
+516,1795.24,2004-10-11,Shipped,Vintage Cars,France,Small
+517,1105.25,2004-10-21,Shipped,Vintage Cars,USA,Small
+518,2364.88,2004-11-04,Shipped,Vintage Cars,USA,Small
+519,2427.03,2004-11-17,Shipped,Vintage Cars,UK,Small
+520,1237.95,2004-11-29,Shipped,Vintage Cars,Australia,Small
+521,1593.02,2004-12-09,Shipped,Vintage Cars,France,Small
+522,3156.16,2005-01-20,Shipped,Vintage Cars,USA,Medium
+523,1320.75,2005-02-17,Shipped,Vintage Cars,USA,Small
+524,4998.0,2005-03-09,Shipped,Vintage Cars,Australia,Medium
+525,1293.75,2005-05-30,In Process,Vintage Cars,USA,Small
+526,5433.08,2003-03-18,Shipped,Classic Cars,UK,Medium
+527,3073.72,2003-05-20,Shipped,Classic Cars,France,Medium
+528,4380.2,2003-07-10,Shipped,Classic Cars,France,Medium
+529,5848.68,2003-09-11,Shipped,Classic Cars,Australia,Medium
+530,6153.73,2003-10-17,Shipped,Classic Cars,Denmark,Medium
+531,4965.24,2003-11-05,Shipped,Classic Cars,USA,Medium
+532,5435.64,2003-11-12,Shipped,Classic Cars,Norway,Medium
+533,4258.36,2003-11-20,Shipped,Classic Cars,USA,Medium
+534,4032.0,2003-12-02,Shipped,Classic Cars,USA,Medium
+535,4492.36,2004-01-16,Shipped,Classic Cars,Spain,Medium
+536,4161.38,2004-02-26,Shipped,Classic Cars,USA,Medium
+537,2508.66,2004-04-13,Shipped,Classic Cars,France,Small
+538,3374.88,2004-06-01,Cancelled,Classic Cars,UK,Medium
+539,5196.6,2004-07-06,Shipped,Classic Cars,Italy,Medium
+540,2604.52,2004-08-06,Shipped,Classic Cars,USA,Small
+541,2936.8,2004-09-01,Shipped,Classic Cars,Singapore,Small
+542,3424.64,2003-10-05,Shipped,Classic Cars,Norway,Medium
+543,2923.2,2004-10-16,Shipped,Classic Cars,Spain,Small
+544,4489.76,2004-11-04,Shipped,Classic Cars,USA,Medium
+545,4849.24,2004-11-17,Shipped,Classic Cars,USA,Medium
+546,5848.92,2004-11-24,Shipped,Classic Cars,France,Medium
+547,2758.7,2005-01-12,Resolved,Classic Cars,USA,Small
+548,1449.76,2005-02-10,Shipped,Classic Cars,Spain,Small
+549,7048.14,2005-04-22,On Hold,Classic Cars,USA,Large
+550,5202.94,2005-05-17,Shipped,Classic Cars,Austria,Medium
+551,5279.4,2003-02-17,Shipped,Planes,Italy,Medium
+552,6916.12,2003-04-28,Shipped,Planes,Austria,Medium
+553,2781.66,2003-06-16,Shipped,Planes,USA,Small
+554,5248.0,2003-08-10,Shipped,Planes,USA,Medium
+555,6531.44,2003-10-06,Shipped,Planes,Finland,Medium
+556,5763.72,2003-10-23,Cancelled,Planes,Sweden,Medium
+557,6490.68,2003-11-08,Shipped,Planes,France,Medium
+558,6004.8,2003-11-14,Shipped,Planes,UK,Medium
+559,7483.98,2003-11-27,Shipped,Planes,Philippines,Large
+560,5719.5,2004-01-12,Shipped,Planes,Japan,Medium
+561,6954.08,2004-02-19,Shipped,Planes,USA,Medium
+562,8160.3,2004-05-11,Shipped,Planes,USA,Large
+563,6567.96,2004-06-24,Cancelled,Planes,Spain,Medium
+564,6724.0,2004-07-21,Shipped,Planes,USA,Medium
+565,5747.85,2004-08-21,Shipped,Planes,Norway,Medium
+566,5676.84,2004-09-15,Shipped,Planes,Germany,Medium
+567,7379.97,2004-10-14,Shipped,Planes,USA,Large
+568,3704.13,2004-11-01,Shipped,Planes,UK,Medium
+569,2804.75,2004-11-10,Resolved,Planes,Denmark,Small
+570,5624.79,2004-11-22,Shipped,Planes,Belgium,Medium
+571,3881.28,2004-12-03,Shipped,Planes,UK,Medium
+572,1611.4,2005-01-31,Shipped,Planes,Finland,Small
+573,1364.25,2005-03-01,Resolved,Planes,Spain,Small
+574,4215.09,2005-03-30,Shipped,Planes,France,Medium
+575,6433.82,2005-04-01,Shipped,Planes,USA,Medium
+576,4352.16,2005-05-10,Shipped,Planes,Italy,Medium
+577,5151.0,2003-01-06,Shipped,Vintage Cars,USA,Medium
+578,6069.0,2003-03-18,Shipped,Vintage Cars,UK,Medium
+579,2856.0,2003-05-21,Shipped,Vintage Cars,USA,Small
+580,5375.4,2003-09-12,Shipped,Vintage Cars,USA,Medium
+581,5176.5,2003-10-18,Shipped,Vintage Cars,USA,Medium
+582,3508.8,2003-11-05,Shipped,Vintage Cars,Italy,Medium
+583,7554.8,2003-11-12,Shipped,Vintage Cars,USA,Large
+584,3141.6,2003-11-21,Shipped,Vintage Cars,Australia,Medium
+585,5890.5,2003-12-02,Shipped,Vintage Cars,USA,Medium
+586,5967.0,2004-01-26,Shipped,Vintage Cars,Spain,Medium
+587,3712.8,2004-03-02,Shipped,Vintage Cars,France,Medium
+588,7597.3,2004-04-13,Shipped,Vintage Cars,France,Large
+589,3668.6,2004-08-17,Shipped,Vintage Cars,Italy,Medium
+590,5875.2,2004-09-01,Shipped,Vintage Cars,Singapore,Medium
+591,7310.0,2003-10-06,Shipped,Vintage Cars,UK,Large
+592,8078.4,2004-10-21,Shipped,Vintage Cars,USA,Large
+593,3257.76,2004-11-17,Shipped,Vintage Cars,USA,Medium
+594,7650.0,2004-11-25,Shipped,Vintage Cars,France,Large
+595,4703.81,2005-01-12,Resolved,Vintage Cars,USA,Medium
+596,5399.55,2005-02-10,Shipped,Vintage Cars,Spain,Medium
+597,14082.8,2005-04-22,On Hold,Vintage Cars,USA,Large
+598,5283.6,2005-05-29,In Process,Vintage Cars,Australia,Medium
+599,3130.82,2003-03-03,Shipped,Classic Cars,Philippines,Medium
+600,3112.34,2003-05-08,Shipped,Classic Cars,France,Medium
+601,3806.88,2003-07-02,Shipped,Classic Cars,USA,Medium
+602,2142.14,2003-09-05,Shipped,Classic Cars,USA,Small
+603,3364.9,2003-10-11,Shipped,Classic Cars,USA,Medium
+604,1262.8,2003-11-04,Shipped,Classic Cars,Austria,Small
+605,1626.24,2003-11-12,Shipped,Classic Cars,Norway,Small
+606,4088.7,2003-11-20,Shipped,Classic Cars,USA,Medium
+607,3846.15,2003-12-02,Shipped,Classic Cars,Spain,Medium
+608,1339.8,2004-01-16,Shipped,Classic Cars,Spain,Small
+609,3039.96,2004-02-22,Shipped,Classic Cars,Switzerland,Medium
+610,3400.32,2004-04-12,Shipped,Classic Cars,Finland,Medium
+611,1930.39,2004-06-01,Cancelled,Classic Cars,UK,Small
+612,2464.77,2004-07-06,Shipped,Classic Cars,Italy,Small
+613,2634.94,2004-08-06,Shipped,Classic Cars,USA,Small
+614,3625.16,2004-08-30,Shipped,Classic Cars,Switzerland,Medium
+615,3788.4,2003-10-04,Shipped,Classic Cars,Germany,Medium
+616,1832.6,2004-10-16,Shipped,Classic Cars,Germany,Small
+617,2905.98,2004-11-04,Shipped,Classic Cars,USA,Small
+618,2954.81,2004-11-15,Shipped,Classic Cars,USA,Small
+619,3599.75,2004-11-24,Shipped,Classic Cars,Australia,Medium
+620,3686.54,2005-01-06,Shipped,Classic Cars,Finland,Medium
+621,2100.56,2005-02-09,Shipped,Classic Cars,Finland,Small
+622,3881.78,2005-03-03,Shipped,Classic Cars,Sweden,Medium
+623,4509.12,2005-04-14,Shipped,Classic Cars,France,Medium
+624,3273.27,2005-05-17,Shipped,Classic Cars,Austria,Medium
+625,4432.7,2003-03-10,Shipped,Classic Cars,USA,Medium
+626,4100.99,2003-05-08,Shipped,Classic Cars,France,Medium
+627,5274.72,2003-07-04,Shipped,Classic Cars,France,Medium
+628,4232.0,2003-09-11,Shipped,Classic Cars,Australia,Medium
+629,6145.44,2003-10-17,Shipped,Classic Cars,Denmark,Medium
+630,4680.2,2003-11-05,Shipped,Classic Cars,Canada,Medium
+631,3286.08,2003-11-12,Shipped,Classic Cars,Norway,Medium
+632,7421.3,2003-11-20,Shipped,Classic Cars,USA,Large
+633,6432.64,2003-12-02,Shipped,Classic Cars,USA,Medium
+634,4840.87,2004-01-16,Shipped,Classic Cars,Spain,Medium
+635,3892.08,2004-02-26,Shipped,Classic Cars,USA,Medium
+636,5526.32,2004-04-13,Shipped,Classic Cars,Japan,Medium
+637,4459.62,2004-06-01,Cancelled,Classic Cars,UK,Medium
+638,6203.4,2004-07-06,Shipped,Classic Cars,Italy,Medium
+639,3754.05,2004-08-06,Shipped,Classic Cars,USA,Medium
+640,3516.48,2004-08-30,Shipped,Classic Cars,Switzerland,Medium
+641,7488.04,2003-10-05,Shipped,Classic Cars,Norway,Large
+642,3448.08,2004-10-16,Shipped,Classic Cars,Germany,Medium
+643,3734.0,2004-11-04,Shipped,Classic Cars,USA,Medium
+644,974.1,2004-11-17,Shipped,Classic Cars,USA,Small
+645,3160.74,2004-11-24,Shipped,Classic Cars,Australia,Medium
+646,1746.63,2004-12-09,Shipped,Classic Cars,France,Small
+647,4207.84,2005-01-10,Shipped,Classic Cars,Belgium,Medium
+648,4352.76,2005-02-09,Shipped,Classic Cars,Finland,Medium
+649,1463.7,2005-03-04,Shipped,Classic Cars,USA,Small
+650,7169.28,2005-04-15,Disputed,Classic Cars,Denmark,Large
+651,4594.76,2005-05-17,Shipped,Classic Cars,Austria,Medium
+652,3457.92,2003-01-31,Shipped,Classic Cars,Spain,Medium
+653,7381.16,2003-04-04,Shipped,Classic Cars,USA,Large
+654,7146.9,2003-06-03,Shipped,Classic Cars,USA,Large
+655,5938.53,2003-08-01,Shipped,Classic Cars,Finland,Medium
+656,7110.91,2003-09-21,Shipped,Classic Cars,Finland,Large
+657,5032.95,2003-10-22,Shipped,Classic Cars,Singapore,Medium
+658,3667.6,2003-11-06,Shipped,Classic Cars,Italy,Medium
+659,7381.16,2003-11-14,Shipped,Classic Cars,Spain,Large
+660,5128.11,2003-11-25,Shipped,Classic Cars,USA,Medium
+661,7060.24,2003-12-09,Shipped,Classic Cars,USA,Large
+662,8448.64,2004-02-10,Shipped,Classic Cars,USA,Large
+663,7300.51,2004-03-15,Shipped,Classic Cars,Germany,Large
+664,6549.2,2004-05-05,Shipped,Classic Cars,Spain,Medium
+665,5697.9,2004-06-15,Shipped,Classic Cars,Singapore,Medium
+666,9169.0,2004-07-20,Shipped,Classic Cars,USA,Large
+667,3238.63,2004-08-20,Shipped,Classic Cars,USA,Medium
+668,4554.94,2004-09-08,Shipped,Classic Cars,USA,Medium
+669,3934.44,2004-10-13,Shipped,Classic Cars,USA,Medium
+670,5776.26,2004-10-22,Shipped,Classic Cars,Denmark,Medium
+671,7207.45,2004-11-05,Shipped,Classic Cars,USA,Large
+672,7460.74,2004-11-20,Shipped,Classic Cars,France,Large
+673,6719.54,2004-12-01,Shipped,Classic Cars,USA,Medium
+674,2428.0,2004-12-10,Shipped,Classic Cars,Spain,Small
+675,2602.25,2005-01-23,Shipped,Classic Cars,USA,Small
+676,2200.0,2005-02-17,Shipped,Classic Cars,USA,Small
+677,6712.93,2005-05-03,Shipped,Classic Cars,Spain,Medium
+678,5318.04,2005-05-31,In Process,Classic Cars,France,Medium
+679,3390.0,2003-01-06,Shipped,Vintage Cars,USA,Medium
+680,1608.0,2003-03-18,Shipped,Vintage Cars,UK,Small
+681,2262.96,2003-05-21,Shipped,Vintage Cars,USA,Small
+682,1496.64,2003-09-12,Shipped,Vintage Cars,USA,Small
+683,1879.74,2003-10-18,Shipped,Vintage Cars,USA,Small
+684,1495.26,2003-11-05,Shipped,Vintage Cars,Italy,Small
+685,2323.7,2003-11-12,Shipped,Vintage Cars,USA,Small
+686,2491.86,2003-11-21,Shipped,Vintage Cars,Australia,Small
+687,1643.12,2003-12-02,Shipped,Vintage Cars,USA,Small
+688,1322.16,2004-01-26,Shipped,Vintage Cars,Spain,Small
+689,1423.8,2004-03-02,Shipped,Vintage Cars,France,Small
+690,2397.45,2004-04-13,Shipped,Vintage Cars,France,Small
+691,1574.0,2004-08-17,Shipped,Vintage Cars,Italy,Small
+692,1729.0,2004-09-01,Shipped,Vintage Cars,Singapore,Small
+693,2255.84,2004-10-06,Shipped,Vintage Cars,Spain,Small
+694,1834.5,2004-10-21,Shipped,Vintage Cars,USA,Small
+695,3201.5,2004-11-17,Shipped,Vintage Cars,UK,Medium
+696,2276.4,2004-11-25,Shipped,Vintage Cars,France,Small
+697,8884.8,2005-01-12,Resolved,Vintage Cars,USA,Large
+698,1331.1,2005-02-10,Shipped,Vintage Cars,Spain,Small
+699,3051.3,2005-04-22,On Hold,Vintage Cars,USA,Medium
+700,2288.52,2005-05-29,In Process,Vintage Cars,Australia,Small
+701,3772.61,2003-01-31,Shipped,Trucks and Buses,Spain,Medium
+702,4164.42,2003-04-01,Shipped,Trucks and Buses,France,Medium
+703,6295.95,2003-06-03,Shipped,Trucks and Buses,USA,Medium
+704,6287.66,2003-08-01,Shipped,Trucks and Buses,Finland,Medium
+705,5412.54,2003-09-21,Shipped,Trucks and Buses,Finland,Medium
+706,5984.14,2003-10-22,Shipped,Trucks and Buses,Singapore,Medium
+707,5891.04,2003-11-06,Shipped,Trucks and Buses,UK,Medium
+708,5984.14,2003-11-14,Shipped,Trucks and Buses,Spain,Medium
+709,3608.15,2003-11-25,Shipped,Trucks and Buses,USA,Medium
+710,5752.54,2003-12-09,Shipped,Trucks and Buses,USA,Medium
+711,3765.32,2004-03-11,Shipped,Trucks and Buses,USA,Medium
+712,2159.96,2004-05-05,Shipped,Trucks and Buses,Spain,Small
+713,3379.94,2004-06-15,Shipped,Trucks and Buses,Singapore,Medium
+714,5093.5,2004-07-20,Shipped,Trucks and Buses,USA,Medium
+715,5773.44,2004-08-19,Shipped,Trucks and Buses,USA,Medium
+716,4528.86,2004-09-08,Shipped,Trucks and Buses,USA,Medium
+717,4816.08,2004-10-13,Shipped,Trucks and Buses,USA,Medium
+718,3416.78,2004-10-22,Shipped,Trucks and Buses,Canada,Medium
+719,1236.84,2004-11-05,Shipped,Trucks and Buses,USA,Small
+720,5814.86,2004-11-19,On Hold,Trucks and Buses,Sweden,Medium
+721,5223.48,2004-12-01,Shipped,Trucks and Buses,USA,Medium
+722,728.4,2004-12-10,Shipped,Trucks and Buses,Spain,Small
+723,3949.0,2005-01-20,Shipped,Trucks and Buses,Australia,Medium
+724,3843.99,2005-02-22,Shipped,Trucks and Buses,Spain,Medium
+725,5498.08,2005-05-03,Shipped,Trucks and Buses,Spain,Medium
+726,3777.58,2005-05-31,In Process,Trucks and Buses,France,Medium
+727,3782.0,2003-01-09,Shipped,Vintage Cars,Germany,Medium
+728,3859.68,2003-03-18,Shipped,Vintage Cars,UK,Medium
+729,4431.84,2003-05-21,Shipped,Vintage Cars,USA,Medium
+730,4950.33,2003-09-12,Shipped,Vintage Cars,USA,Medium
+731,4299.7,2003-10-18,Shipped,Vintage Cars,USA,Medium
+732,4492.83,2003-11-05,Shipped,Vintage Cars,Italy,Medium
+733,2212.0,2003-11-12,Shipped,Vintage Cars,USA,Small
+734,4642.88,2003-11-21,Shipped,Vintage Cars,Australia,Medium
+735,3206.32,2003-12-02,Shipped,Vintage Cars,USA,Medium
+736,3604.23,2004-01-26,Shipped,Vintage Cars,Spain,Medium
+737,7017.76,2004-03-02,Shipped,Vintage Cars,France,Large
+738,6154.18,2004-04-26,Shipped,Vintage Cars,USA,Medium
+739,4750.8,2004-08-17,Shipped,Vintage Cars,Italy,Medium
+740,3822.92,2004-09-01,Shipped,Vintage Cars,Singapore,Medium
+741,2440.8,2004-10-11,Shipped,Vintage Cars,France,Small
+742,4729.36,2004-10-21,Shipped,Vintage Cars,USA,Medium
+743,12536.5,2004-11-04,Shipped,Vintage Cars,USA,Large
+744,2264.15,2004-11-17,Shipped,Vintage Cars,UK,Small
+745,3928.2,2004-11-25,Shipped,Vintage Cars,France,Medium
+746,3630.22,2004-12-09,Shipped,Vintage Cars,France,Medium
+747,4196.07,2005-01-12,Resolved,Vintage Cars,USA,Medium
+748,4931.6,2005-02-16,Shipped,Vintage Cars,Spain,Medium
+749,3068.69,2005-03-04,Shipped,Vintage Cars,USA,Medium
+750,785.64,2005-04-23,Shipped,Vintage Cars,Singapore,Small
+751,4977.0,2005-05-29,In Process,Vintage Cars,Australia,Medium
+752,1189.98,2003-01-29,Shipped,Trucks and Buses,Norway,Small
+753,3090.15,2003-04-01,Shipped,Trucks and Buses,France,Medium
+754,2795.86,2003-05-28,Shipped,Trucks and Buses,Spain,Small
+755,2851.54,2003-07-24,Shipped,Trucks and Buses,USA,Small
+756,2701.92,2003-09-21,Shipped,Trucks and Buses,Finland,Small
+757,2204.1,2003-10-22,Shipped,Trucks and Buses,Singapore,Small
+758,2840.48,2003-11-06,Shipped,Trucks and Buses,UK,Small
+759,2647.04,2003-11-14,Shipped,Trucks and Buses,Spain,Small
+760,3172.05,2003-11-25,Shipped,Trucks and Buses,France,Medium
+761,2585.93,2003-12-09,Shipped,Trucks and Buses,USA,Small
+762,2148.3,2004-02-04,Shipped,Trucks and Buses,Singapore,Small
+763,1667.4,2004-03-11,Shipped,Trucks and Buses,USA,Small
+764,1859.7,2004-05-05,Shipped,Trucks and Buses,Spain,Small
+765,1476.6,2004-06-15,Shipped,Trucks and Buses,Singapore,Small
+766,1732.0,2004-07-20,Shipped,Trucks and Buses,USA,Small
+767,1674.17,2004-08-19,Shipped,Trucks and Buses,USA,Small
+768,1500.98,2004-09-08,Shipped,Trucks and Buses,Sweden,Small
+769,2192.68,2004-10-13,Shipped,Trucks and Buses,USA,Small
+770,1797.58,2004-10-22,Shipped,Trucks and Buses,Canada,Small
+771,2142.35,2004-11-04,Shipped,Trucks and Buses,USA,Small
+772,2086.92,2004-11-19,On Hold,Trucks and Buses,Sweden,Small
+773,6834.5,2004-11-29,Shipped,Trucks and Buses,Australia,Medium
+774,2541.59,2004-12-10,Shipped,Trucks and Buses,USA,Small
+775,2130.92,2005-01-20,Shipped,Trucks and Buses,Australia,Small
+776,1701.7,2005-02-17,Shipped,Trucks and Buses,USA,Small
+777,1694.0,2005-03-09,Shipped,Trucks and Buses,Australia,Small
+778,2913.53,2005-05-03,Shipped,Trucks and Buses,Spain,Small
+779,935.18,2005-05-31,In Process,Trucks and Buses,France,Small
+780,3073.26,2003-02-17,Shipped,Planes,Italy,Medium
+781,2082.49,2003-04-29,Shipped,Planes,Australia,Small
+782,3394.23,2003-06-27,Shipped,Planes,Spain,Medium
+783,2559.6,2003-08-25,Shipped,Planes,USA,Small
+784,1490.16,2003-10-28,Shipped,Planes,USA,Small
+785,3844.0,2004-01-12,Shipped,Planes,Japan,Medium
+786,4724.91,2004-02-20,Shipped,Planes,Australia,Medium
+787,1824.72,2004-04-02,Shipped,Planes,Canada,Small
+788,2668.68,2004-05-11,Shipped,Planes,USA,Small
+789,2843.61,2004-06-28,Shipped,Planes,USA,Small
+790,3163.65,2004-07-23,Shipped,Planes,France,Medium
+791,2226.11,2004-08-21,Shipped,Planes,Norway,Small
+792,2069.75,2004-09-16,Shipped,Planes,Ireland,Small
+793,2235.33,2004-10-15,Shipped,Planes,USA,Small
+794,3116.43,2004-11-02,Shipped,Planes,USA,Medium
+795,4781.7,2004-11-10,Resolved,Planes,Denmark,Medium
+796,2810.7,2004-11-23,Shipped,Planes,Japan,Small
+797,3515.67,2004-12-04,Shipped,Planes,USA,Medium
+798,2909.34,2005-02-02,Shipped,Planes,Australia,Small
+799,1570.17,2005-03-01,Resolved,Planes,Spain,Small
+800,2613.92,2005-03-30,Shipped,Planes,France,Small
+801,3193.26,2005-04-03,On Hold,Planes,USA,Medium
+802,1482.6,2005-05-10,Shipped,Planes,Italy,Small
+803,2055.23,2003-02-24,Shipped,Motorcycles,USA,Small
+804,2674.9,2003-04-29,Shipped,Motorcycles,Australia,Small
+805,1853.4,2003-07-01,Shipped,Motorcycles,France,Small
+806,1490.1,2003-08-25,Shipped,Motorcycles,USA,Small
+807,2162.16,2003-10-10,Shipped,Motorcycles,USA,Small
+808,2814.28,2003-10-28,Shipped,Motorcycles,USA,Small
+809,1605.0,2003-11-11,Shipped,Motorcycles,France,Small
+810,2093.44,2003-11-18,Shipped,Motorcycles,Norway,Small
+811,1944.3,2003-12-01,Shipped,Motorcycles,USA,Small
+812,1986.8,2004-01-12,Shipped,Motorcycles,Japan,Small
+813,1695.96,2004-02-20,Shipped,Motorcycles,Australia,Small
+814,1281.56,2004-04-03,Shipped,Motorcycles,USA,Small
+815,1774.22,2004-05-18,Shipped,Motorcycles,USA,Small
+816,1997.5,2004-06-28,Shipped,Motorcycles,USA,Small
+817,2353.2,2004-07-23,Shipped,Motorcycles,France,Small
+818,981.2,2004-08-27,Shipped,Motorcycles,USA,Small
+819,1550.72,2004-09-27,Shipped,Motorcycles,France,Small
+820,1771.06,2004-10-15,Shipped,Motorcycles,USA,Small
+821,2213.4,2004-11-02,Shipped,Motorcycles,USA,Small
+822,5266.04,2004-11-15,Shipped,Motorcycles,USA,Medium
+823,1864.8,2004-11-23,Shipped,Motorcycles,Japan,Small
+824,1142.41,2005-01-05,Shipped,Motorcycles,USA,Small
+825,1172.6,2005-02-02,Shipped,Motorcycles,Australia,Small
+826,6981.0,2005-03-03,Shipped,Motorcycles,Sweden,Medium
+827,3064.6,2005-04-07,Shipped,Motorcycles,France,Medium
+828,2202.48,2005-05-13,Disputed,Motorcycles,Spain,Small
+829,3773.38,2003-01-09,Shipped,Vintage Cars,Germany,Medium
+830,5074.39,2003-03-18,Shipped,Vintage Cars,UK,Medium
+831,6483.46,2003-05-21,Shipped,Vintage Cars,Australia,Medium
+832,7956.46,2003-07-16,Shipped,Vintage Cars,Australia,Large
+833,4230.62,2003-09-12,Shipped,Vintage Cars,USA,Medium
+834,7209.12,2003-10-18,Shipped,Vintage Cars,USA,Large
+835,3452.68,2003-11-05,Shipped,Vintage Cars,Italy,Medium
+836,3047.73,2003-11-12,Shipped,Vintage Cars,USA,Medium
+837,3675.32,2003-11-21,Shipped,Vintage Cars,Australia,Medium
+838,7492.4,2003-12-03,Shipped,Vintage Cars,Spain,Large
+839,9534.5,2004-01-26,Shipped,Vintage Cars,Spain,Large
+840,5579.02,2004-03-02,Shipped,Vintage Cars,France,Medium
+841,5950.34,2004-04-29,Shipped,Vintage Cars,Spain,Medium
+842,3726.0,2004-06-04,Shipped,Vintage Cars,France,Medium
+843,4455.0,2004-08-17,Shipped,Vintage Cars,Italy,Medium
+844,8272.34,2004-09-03,Shipped,Vintage Cars,Norway,Large
+845,3577.6,2004-10-11,Shipped,Vintage Cars,France,Medium
+846,3881.25,2004-10-21,Shipped,Vintage Cars,USA,Medium
+847,5797.44,2004-11-04,Shipped,Vintage Cars,USA,Medium
+848,1264.08,2004-11-17,Shipped,Vintage Cars,UK,Small
+849,4815.3,2004-11-29,Shipped,Vintage Cars,Australia,Medium
+850,4462.2,2004-12-09,Shipped,Vintage Cars,France,Medium
+851,3033.28,2005-01-12,Resolved,Vintage Cars,USA,Medium
+852,990.78,2005-02-16,Shipped,Vintage Cars,Spain,Small
+853,2030.86,2005-03-04,Shipped,Vintage Cars,USA,Small
+854,5433.75,2005-05-29,In Process,Vintage Cars,USA,Medium
+855,3157.44,2003-03-10,Shipped,Classic Cars,USA,Medium
+856,5161.2,2003-05-20,Shipped,Classic Cars,France,Medium
+857,4346.76,2003-07-10,Shipped,Classic Cars,France,Medium
+858,3528.36,2003-09-11,Shipped,Classic Cars,Australia,Medium
+859,3187.8,2003-10-17,Shipped,Classic Cars,Denmark,Medium
+860,6023.16,2003-11-05,Shipped,Classic Cars,USA,Medium
+861,3884.76,2003-11-12,Shipped,Classic Cars,Norway,Medium
+862,4965.84,2003-11-20,Shipped,Classic Cars,USA,Medium
+863,4169.88,2003-12-02,Shipped,Classic Cars,USA,Medium
+864,4910.4,2004-01-16,Shipped,Classic Cars,Spain,Medium
+865,3231.36,2004-02-26,Shipped,Classic Cars,USA,Medium
+866,6853.44,2004-04-13,Shipped,Classic Cars,France,Medium
+867,5177.04,2004-06-01,Cancelled,Classic Cars,UK,Medium
+868,2824.8,2004-07-06,Shipped,Classic Cars,Italy,Small
+869,4324.32,2004-08-06,Shipped,Classic Cars,USA,Medium
+870,5052.96,2004-08-30,Shipped,Classic Cars,Switzerland,Medium
+871,3223.44,2003-10-05,Shipped,Classic Cars,Norway,Medium
+872,5278.68,2004-10-16,Shipped,Classic Cars,Spain,Medium
+873,2851.2,2004-11-04,Shipped,Classic Cars,USA,Small
+874,1687.4,2004-11-17,Shipped,Classic Cars,USA,Small
+875,1308.0,2004-11-24,Shipped,Classic Cars,France,Small
+876,6144.6,2005-01-10,Shipped,Classic Cars,Belgium,Medium
+877,5127.2,2005-02-10,Shipped,Classic Cars,Spain,Medium
+878,6386.16,2005-04-22,On Hold,Classic Cars,USA,Medium
+879,7695.6,2005-05-17,Shipped,Classic Cars,Austria,Large
+880,2242.89,2003-01-29,Shipped,Vintage Cars,Norway,Small
+881,2539.89,2003-03-24,Shipped,Vintage Cars,Sweden,Small
+882,2795.27,2003-05-28,Shipped,Vintage Cars,Spain,Small
+883,5545.76,2003-07-16,Shipped,Vintage Cars,Australia,Medium
+884,4285.46,2003-09-19,Shipped,Vintage Cars,Singapore,Medium
+885,3329.09,2003-10-20,Shipped,Vintage Cars,USA,Medium
+886,5592.22,2003-11-06,Shipped,Vintage Cars,Australia,Medium
+887,3298.55,2003-11-13,Shipped,Vintage Cars,USA,Medium
+888,2609.88,2003-11-21,Shipped,Vintage Cars,Australia,Small
+889,3336.29,2003-12-05,Shipped,Vintage Cars,Canada,Medium
+890,5510.05,2004-01-29,Shipped,Vintage Cars,USA,Medium
+891,2504.4,2004-03-10,Shipped,Vintage Cars,USA,Small
+892,3525.6,2004-04-29,Shipped,Vintage Cars,Spain,Medium
+893,4407.0,2004-06-14,Shipped,Vintage Cars,USA,Medium
+894,2983.44,2004-07-19,Shipped,Vintage Cars,Australia,Small
+895,5126.24,2004-08-17,Shipped,Vintage Cars,Italy,Medium
+896,5713.79,2004-09-08,Shipped,Vintage Cars,Sweden,Medium
+897,4613.8,2004-10-11,Shipped,Vintage Cars,France,Medium
+898,3711.1,2004-10-21,Shipped,Vintage Cars,USA,Medium
+899,3524.73,2004-11-04,Shipped,Vintage Cars,USA,Medium
+900,2795.27,2004-11-18,Shipped,Vintage Cars,USA,Small
+901,4814.4,2004-11-29,Shipped,Vintage Cars,Australia,Medium
+902,3572.33,2004-12-10,Shipped,Vintage Cars,USA,Medium
+903,4581.36,2005-01-20,Shipped,Vintage Cars,USA,Medium
+904,4319.76,2005-02-17,Shipped,Vintage Cars,USA,Medium
+905,1448.0,2005-03-09,Shipped,Vintage Cars,Australia,Small
+906,881.4,2005-05-30,In Process,Vintage Cars,Belgium,Small
+907,2011.1,2003-01-29,Shipped,Vintage Cars,Norway,Small
+908,1801.24,2003-03-25,Shipped,Vintage Cars,USA,Small
+909,3390.2,2003-05-28,Shipped,Vintage Cars,Spain,Medium
+910,1424.0,2003-07-16,Shipped,Vintage Cars,Australia,Small
+911,1499.1,2003-09-19,Shipped,Vintage Cars,Singapore,Small
+912,3358.08,2003-10-20,Shipped,Vintage Cars,USA,Medium
+913,1504.16,2003-11-05,Shipped,Vintage Cars,Italy,Small
+914,2655.12,2003-11-13,Shipped,Vintage Cars,USA,Small
+915,1244.16,2003-11-21,Shipped,Vintage Cars,Australia,Small
+916,1888.88,2003-12-05,Shipped,Vintage Cars,Canada,Small
+917,1820.01,2004-01-29,Shipped,Vintage Cars,USA,Small
+918,2866.95,2004-03-10,Shipped,Vintage Cars,USA,Small
+919,1394.16,2004-04-29,Shipped,Vintage Cars,Spain,Small
+920,2632.28,2004-06-14,Shipped,Vintage Cars,USA,Small
+921,2018.56,2004-07-16,Shipped,Vintage Cars,Austria,Small
+922,2954.53,2004-08-17,Shipped,Vintage Cars,Italy,Small
+923,1871.83,2004-09-08,Shipped,Vintage Cars,Sweden,Small
+924,1559.04,2004-10-11,Shipped,Vintage Cars,France,Small
+925,1880.2,2004-10-21,Shipped,Vintage Cars,USA,Small
+926,1224.67,2004-11-04,Shipped,Vintage Cars,USA,Small
+927,2979.08,2004-11-17,Shipped,Vintage Cars,UK,Small
+928,2208.64,2004-11-29,Shipped,Vintage Cars,Australia,Small
+929,3458.42,2004-12-10,Shipped,Vintage Cars,USA,Medium
+930,1237.88,2005-01-20,Shipped,Vintage Cars,USA,Small
+931,2723.2,2005-02-17,Shipped,Vintage Cars,USA,Small
+932,2218.52,2005-03-10,Shipped,Vintage Cars,Austria,Small
+933,1665.32,2005-05-30,In Process,Vintage Cars,Belgium,Small
+934,3421.04,2003-02-17,Shipped,Ships,Italy,Medium
+935,1878.66,2003-04-28,Shipped,Ships,Austria,Small
+936,3853.6,2003-06-16,Shipped,Ships,USA,Medium
+937,3442.64,2003-08-10,Shipped,Ships,USA,Medium
+938,3482.16,2003-10-06,Shipped,Ships,Finland,Medium
+939,3363.52,2003-10-23,Cancelled,Ships,Sweden,Medium
+940,3350.52,2003-11-08,Shipped,Ships,France,Medium
+941,2862.72,2003-11-14,Shipped,Ships,UK,Small
+942,4036.04,2003-11-26,Shipped,Ships,Spain,Medium
+943,2817.92,2004-01-09,Shipped,Ships,USA,Small
+944,4636.38,2004-02-19,Shipped,Ships,USA,Medium
+945,1553.58,2004-05-07,Cancelled,Ships,USA,Small
+946,2697.6,2004-06-24,Cancelled,Ships,Spain,Small
+947,3334.04,2004-07-21,Shipped,Ships,Belgium,Medium
+948,2059.26,2004-08-20,Shipped,Ships,Canada,Small
+949,2023.14,2004-09-15,Shipped,Ships,Germany,Small
+950,2586.64,2004-10-14,Shipped,Ships,USA,Small
+951,1987.02,2004-11-01,Shipped,Ships,UK,Small
+952,1146.5,2004-11-10,Resolved,Ships,Denmark,Small
+953,2312.24,2004-11-22,Shipped,Ships,Belgium,Small
+954,2793.71,2004-12-02,Shipped,Ships,Spain,Small
+955,1908.28,2005-01-31,Shipped,Ships,Finland,Small
+956,3441.37,2005-03-01,Resolved,Ships,Spain,Medium
+957,2023.28,2005-03-30,Shipped,Ships,France,Small
+958,2245.2,2005-04-01,Shipped,Ships,USA,Small
+959,3255.12,2005-05-06,On Hold,Ships,USA,Medium
+960,2539.5,2003-01-29,Shipped,Vintage Cars,Norway,Small
+961,4818.15,2003-03-25,Shipped,Vintage Cars,USA,Medium
+962,2921.7,2003-05-28,Shipped,Vintage Cars,Spain,Small
+963,1801.2,2003-07-16,Shipped,Vintage Cars,Australia,Small
+964,2804.36,2003-09-19,Shipped,Vintage Cars,Singapore,Small
+965,4900.8,2003-10-20,Shipped,Vintage Cars,USA,Medium
+966,2759.31,2003-11-05,Shipped,Vintage Cars,Italy,Small
+967,2488.2,2003-11-13,Shipped,Vintage Cars,USA,Small
+968,2769.89,2003-11-21,Shipped,Vintage Cars,Australia,Small
+969,3581.4,2003-12-05,Shipped,Vintage Cars,Canada,Medium
+970,5285.14,2004-01-29,Shipped,Vintage Cars,USA,Medium
+971,3181.53,2004-03-10,Shipped,Vintage Cars,USA,Medium
+972,3340.51,2004-04-29,Shipped,Vintage Cars,Spain,Medium
+973,3138.34,2004-06-14,Shipped,Vintage Cars,USA,Medium
+974,4775.08,2004-07-19,Shipped,Vintage Cars,Australia,Medium
+975,3006.43,2004-08-17,Shipped,Vintage Cars,Italy,Medium
+976,2866.26,2004-09-08,Shipped,Vintage Cars,Sweden,Small
+977,2232.62,2004-10-11,Shipped,Vintage Cars,France,Small
+978,4457.02,2004-10-21,Shipped,Vintage Cars,USA,Medium
+979,2257.92,2004-11-04,Shipped,Vintage Cars,USA,Small
+980,1592.0,2004-11-17,Shipped,Vintage Cars,UK,Small
+981,4948.2,2004-11-29,Shipped,Vintage Cars,Australia,Medium
+982,5160.76,2004-12-10,Shipped,Vintage Cars,USA,Medium
+983,1978.62,2005-01-20,Shipped,Vintage Cars,USA,Small
+984,4288.2,2005-02-17,Shipped,Vintage Cars,USA,Medium
+985,2520.68,2005-03-10,Shipped,Vintage Cars,Austria,Small
+986,1781.22,2005-05-30,In Process,Vintage Cars,Belgium,Small
+987,3065.04,2003-02-11,Shipped,Vintage Cars,Denmark,Medium
+988,3551.34,2003-04-16,Shipped,Vintage Cars,Singapore,Medium
+989,5544.02,2003-06-06,Shipped,Vintage Cars,Spain,Medium
+990,6034.33,2003-08-08,Shipped,Vintage Cars,USA,Medium
+991,3641.57,2003-09-28,Shipped,Vintage Cars,Spain,Medium
+992,6930.74,2003-10-21,Shipped,Vintage Cars,USA,Medium
+993,3675.63,2003-11-07,Shipped,Vintage Cars,Spain,Medium
+994,3442.04,2003-11-14,Shipped,Vintage Cars,USA,Medium
+995,6893.81,2003-11-26,Shipped,Vintage Cars,USA,Medium
+996,2622.48,2004-01-02,Shipped,Vintage Cars,France,Small
+997,4417.38,2004-02-18,Shipped,Vintage Cars,Belgium,Medium
+998,3606.02,2004-03-20,Shipped,Vintage Cars,UK,Medium
+999,3802.56,2004-05-07,Cancelled,Vintage Cars,USA,Medium
+1000,5026.4,2004-07-21,Shipped,Vintage Cars,Belgium,Medium
+1001,6695.53,2004-08-20,Shipped,Vintage Cars,USA,Medium
+1002,2819.28,2004-09-09,Shipped,Vintage Cars,Italy,Small
+1003,3759.04,2004-10-14,Shipped,Vintage Cars,UK,Medium
+1004,2731.8,2004-10-22,Shipped,Vintage Cars,Denmark,Small
+1005,1658.88,2004-11-05,Shipped,Vintage Cars,Norway,Small
+1006,5778.24,2004-11-20,Shipped,Vintage Cars,France,Medium
+1007,5191.12,2004-12-02,Shipped,Vintage Cars,Spain,Medium
+1008,3862.88,2005-01-26,Shipped,Vintage Cars,Japan,Medium
+1009,1476.48,2005-02-22,Shipped,Vintage Cars,Spain,Small
+1010,5273.73,2005-03-23,Shipped,Vintage Cars,USA,Medium
+1011,4872.03,2005-05-06,On Hold,Vintage Cars,USA,Medium
+1012,4556.99,2003-01-31,Shipped,Classic Cars,Spain,Medium
+1013,8257.0,2003-03-10,Shipped,Classic Cars,USA,Large
+1014,8209.44,2003-04-01,Shipped,Classic Cars,France,Large
+1015,3598.5,2003-05-08,Shipped,Classic Cars,France,Medium
+1016,3837.24,2003-06-03,Shipped,Classic Cars,USA,Medium
+1017,8331.61,2003-07-04,Shipped,Classic Cars,France,Large
+1018,4836.5,2003-08-01,Shipped,Classic Cars,Finland,Medium
+1019,5418.88,2003-09-11,Shipped,Classic Cars,Australia,Medium
+1020,3734.01,2003-09-21,Shipped,Classic Cars,Finland,Medium
+1021,3996.4,2003-10-11,Shipped,Classic Cars,USA,Medium
+1022,8754.69,2003-10-22,Shipped,Classic Cars,Singapore,Large
+1023,5481.45,2003-11-05,Shipped,Classic Cars,Canada,Medium
+1024,4419.89,2003-11-06,Shipped,Classic Cars,UK,Medium
+1025,6324.75,2003-11-12,Shipped,Classic Cars,Norway,Medium
+1026,4409.72,2003-11-14,Shipped,Classic Cars,Spain,Medium
+1027,3918.46,2003-11-20,Shipped,Classic Cars,USA,Medium
+1028,7620.5,2003-11-25,Shipped,Classic Cars,USA,Large
+1029,8291.04,2003-12-02,Shipped,Classic Cars,Spain,Large
+1030,3937.25,2003-12-09,Shipped,Classic Cars,USA,Medium
+1031,5554.4,2004-01-16,Shipped,Classic Cars,Spain,Medium
+1032,6407.86,2004-02-22,Shipped,Classic Cars,Switzerland,Medium
+1033,4172.52,2004-03-11,Shipped,Classic Cars,USA,Medium
+1034,7083.37,2004-04-12,Shipped,Classic Cars,Finland,Large
+1035,7132.68,2004-05-05,Shipped,Classic Cars,Spain,Large
+1036,6773.6,2004-06-01,Cancelled,Classic Cars,UK,Medium
+1037,3657.69,2004-06-15,Shipped,Classic Cars,Singapore,Medium
+1038,4812.55,2004-07-06,Shipped,Classic Cars,Italy,Medium
+1039,3928.6,2004-07-20,Shipped,Classic Cars,USA,Medium
+1040,6401.22,2004-08-06,Shipped,Classic Cars,USA,Medium
+1041,4191.25,2004-08-19,Shipped,Classic Cars,USA,Medium
+1042,5852.52,2004-08-30,Shipped,Classic Cars,Switzerland,Medium
+1043,2844.87,2004-09-08,Shipped,Classic Cars,USA,Small
+1044,4011.66,2003-10-05,Shipped,Classic Cars,Norway,Medium
+1045,7455.87,2004-10-13,Shipped,Classic Cars,USA,Large
+1046,8940.96,2004-10-16,Shipped,Classic Cars,Germany,Large
+1047,4572.25,2004-10-22,Shipped,Classic Cars,Canada,Medium
+1048,5700.09,2004-11-04,Shipped,Classic Cars,USA,Medium
+1049,3155.49,2004-11-05,Shipped,Classic Cars,USA,Medium
+1050,4170.69,2004-11-17,Shipped,Classic Cars,USA,Medium
+1051,2878.8,2004-11-19,On Hold,Classic Cars,Sweden,Small
+1052,5029.5,2004-11-24,Shipped,Classic Cars,Australia,Medium
+1053,7396.8,2004-12-01,Shipped,Classic Cars,USA,Large
+1054,2991.68,2004-12-10,Shipped,Classic Cars,Spain,Small
+1055,6275.72,2005-01-10,Shipped,Classic Cars,Belgium,Medium
+1056,1534.95,2005-01-20,Shipped,Classic Cars,Australia,Small
+1057,7264.53,2005-02-09,Shipped,Classic Cars,Finland,Large
+1058,6869.05,2005-02-22,Shipped,Classic Cars,Spain,Medium
+1059,3353.02,2005-03-15,Shipped,Classic Cars,Spain,Medium
+1060,8289.05,2005-04-14,Shipped,Classic Cars,France,Large
+1061,11887.8,2005-05-03,Shipped,Classic Cars,Spain,Large
+1062,5926.9,2005-05-17,Shipped,Classic Cars,Austria,Medium
+1063,3793.16,2005-05-31,In Process,Classic Cars,France,Medium
+1064,4330.1,2003-02-11,Shipped,Trains,Denmark,Medium
+1065,2011.8,2003-04-16,Shipped,Trains,Singapore,Small
+1066,4837.18,2003-06-06,Shipped,Trains,Spain,Medium
+1067,2151.82,2003-08-08,Shipped,Trains,USA,Small
+1068,2573.46,2003-09-28,Shipped,Trains,Spain,Small
+1069,5344.5,2003-10-22,Shipped,Trains,Singapore,Medium
+1070,3070.52,2003-11-07,Shipped,Trains,Spain,Medium
+1071,3952.83,2003-11-14,Shipped,Trains,USA,Medium
+1072,3564.75,2003-11-26,Shipped,Trains,USA,Medium
+1073,5614.56,2004-01-02,Shipped,Trains,France,Medium
+1074,1855.41,2004-02-18,Shipped,Trains,Belgium,Small
+1075,4598.4,2004-03-20,Shipped,Trains,UK,Medium
+1076,5082.42,2004-05-07,Cancelled,Trains,USA,Medium
+1077,5450.59,2004-07-21,Shipped,Trains,Belgium,Medium
+1078,4174.92,2004-08-20,Shipped,Trains,USA,Medium
+1079,2418.24,2004-09-09,Shipped,Trains,Italy,Small
+1080,3670.4,2004-10-14,Shipped,Trains,UK,Medium
+1081,2481.7,2004-10-22,Shipped,Trains,Denmark,Small
+1082,3807.68,2004-11-09,Shipped,Trains,Sweden,Medium
+1083,2230.41,2004-11-20,Shipped,Trains,France,Small
+1084,3814.64,2004-12-02,Shipped,Trains,Spain,Medium
+1085,2117.75,2005-01-26,Shipped,Trains,Japan,Small
+1086,3340.48,2005-02-22,Shipped,Trains,Spain,Medium
+1087,2154.0,2005-03-23,Shipped,Trains,USA,Small
+1088,5808.48,2005-05-06,On Hold,Trains,USA,Medium
+1089,1777.1,2003-03-03,Shipped,Classic Cars,Philippines,Small
+1090,1536.57,2003-05-08,Shipped,Classic Cars,France,Small
+1091,3510.0,2003-07-02,Shipped,Classic Cars,USA,Medium
+1092,3097.44,2003-09-05,Shipped,Classic Cars,USA,Medium
+1093,1705.41,2003-10-10,Shipped,Classic Cars,USA,Small
+1094,2264.32,2003-11-04,Shipped,Classic Cars,Australia,Small
+1095,2484.6,2003-11-12,Shipped,Classic Cars,Norway,Small
+1096,3415.68,2003-11-20,Shipped,Classic Cars,Germany,Medium
+1097,2839.32,2003-12-02,Shipped,Classic Cars,Spain,Small
+1098,2730.0,2004-01-15,Shipped,Classic Cars,France,Small
+1099,3540.53,2004-02-22,Shipped,Classic Cars,Switzerland,Medium
+1100,2999.97,2004-04-09,Shipped,Classic Cars,Denmark,Small
+1101,1527.8,2004-05-26,Shipped,Classic Cars,France,Small
+1102,3907.8,2004-07-02,Shipped,Classic Cars,Australia,Medium
+1103,2658.48,2004-08-02,Shipped,Classic Cars,USA,Small
+1104,3042.68,2004-08-30,Shipped,Classic Cars,Switzerland,Medium
+1105,3861.2,2003-10-04,Shipped,Classic Cars,Germany,Medium
+1106,2171.07,2004-10-16,Shipped,Classic Cars,Germany,Small
+1107,3403.08,2004-11-03,Shipped,Classic Cars,USA,Medium
+1108,2245.8,2004-11-15,Shipped,Classic Cars,USA,Small
+1109,1668.5,2004-11-24,Shipped,Classic Cars,Australia,Small
+1110,2773.8,2005-01-06,Shipped,Classic Cars,Finland,Small
+1111,2464.0,2005-02-10,Shipped,Classic Cars,Spain,Small
+1112,5491.6,2005-03-04,Shipped,Classic Cars,USA,Medium
+1113,4791.82,2003-01-29,Shipped,Vintage Cars,Norway,Medium
+1114,4178.85,2003-03-25,Shipped,Vintage Cars,USA,Medium
+1115,3128.92,2003-05-28,Shipped,Vintage Cars,Spain,Medium
+1116,3095.4,2003-07-16,Shipped,Vintage Cars,Australia,Medium
+1117,3958.5,2003-09-12,Shipped,Vintage Cars,USA,Medium
+1118,4991.44,2003-10-20,Shipped,Vintage Cars,USA,Medium
+1119,2761.96,2003-11-05,Shipped,Vintage Cars,Italy,Small
+1120,2848.23,2003-11-12,Shipped,Vintage Cars,USA,Small
+1121,2539.84,2003-11-21,Shipped,Vintage Cars,Australia,Small
+1122,2444.4,2003-12-05,Shipped,Vintage Cars,Canada,Small
+1123,4555.92,2004-01-29,Shipped,Vintage Cars,USA,Medium
+1124,3666.96,2004-03-02,Shipped,Vintage Cars,France,Medium
+1125,3035.88,2004-04-29,Shipped,Vintage Cars,Spain,Medium
+1126,2321.54,2004-06-14,Shipped,Vintage Cars,USA,Small
+1127,3474.46,2004-08-17,Shipped,Vintage Cars,Italy,Medium
+1128,2501.98,2004-09-07,Shipped,Vintage Cars,USA,Small
+1129,3958.46,2004-10-11,Shipped,Vintage Cars,France,Medium
+1130,3535.95,2004-10-21,Shipped,Vintage Cars,USA,Medium
+1131,3011.91,2004-11-05,Shipped,Vintage Cars,Germany,Medium
+1132,11336.7,2004-11-18,Shipped,Vintage Cars,USA,Large
+1133,2656.94,2004-11-29,Shipped,Vintage Cars,Australia,Small
+1134,2604.25,2004-12-10,Shipped,Vintage Cars,USA,Small
+1135,3288.6,2005-01-20,Shipped,Vintage Cars,USA,Medium
+1136,8935.5,2005-02-17,Shipped,Vintage Cars,USA,Large
+1137,4035.96,2005-03-10,Shipped,Vintage Cars,Austria,Medium
+1138,1875.09,2005-05-30,In Process,Vintage Cars,Belgium,Small
+1139,4049.56,2003-03-03,Shipped,Classic Cars,Philippines,Medium
+1140,2469.39,2003-05-08,Shipped,Classic Cars,France,Small
+1141,5432.7,2003-07-02,Shipped,Classic Cars,USA,Medium
+1142,4405.22,2003-09-05,Shipped,Classic Cars,USA,Medium
+1143,3638.0,2003-10-10,Shipped,Classic Cars,USA,Medium
+1144,4444.92,2003-11-04,Shipped,Classic Cars,Australia,Medium
+1145,3395.48,2003-11-12,Shipped,Classic Cars,Norway,Medium
+1146,3414.58,2003-11-20,Shipped,Classic Cars,Germany,Medium
+1147,5127.04,2003-12-02,Shipped,Classic Cars,Spain,Medium
+1148,3745.28,2004-01-15,Shipped,Classic Cars,France,Medium
+1149,4564.08,2004-02-22,Shipped,Classic Cars,Switzerland,Medium
+1150,6554.24,2004-04-09,Shipped,Classic Cars,Denmark,Medium
+1151,6749.83,2004-05-26,Shipped,Classic Cars,France,Medium
+1152,8427.02,2004-07-02,Shipped,Classic Cars,Australia,Large
+1153,3924.6,2004-08-02,Shipped,Classic Cars,USA,Medium
+1154,6761.6,2004-08-30,Shipped,Classic Cars,Switzerland,Medium
+1155,3786.49,2003-10-04,Shipped,Classic Cars,Germany,Medium
+1156,6266.12,2004-10-16,Shipped,Classic Cars,Germany,Medium
+1157,3491.0,2004-11-03,Shipped,Classic Cars,Sweden,Medium
+1158,4405.22,2004-11-16,Shipped,Classic Cars,Philippines,Medium
+1159,6548.3,2004-11-24,Shipped,Classic Cars,Australia,Medium
+1160,3177.91,2004-12-07,Shipped,Classic Cars,Spain,Medium
+1161,4142.64,2005-01-06,Shipped,Classic Cars,Finland,Medium
+1162,4149.07,2005-02-10,Shipped,Classic Cars,Spain,Medium
+1163,7397.0,2005-03-04,Shipped,Classic Cars,USA,Large
+1164,6241.6,2003-03-10,Shipped,Classic Cars,USA,Medium
+1165,5331.88,2003-05-20,Shipped,Classic Cars,France,Medium
+1166,5124.3,2003-07-10,Shipped,Classic Cars,France,Medium
+1167,3639.44,2003-09-11,Shipped,Classic Cars,Australia,Medium
+1168,5544.0,2003-10-17,Shipped,Classic Cars,Denmark,Medium
+1169,5493.12,2003-11-05,Shipped,Classic Cars,USA,Medium
+1170,5785.26,2003-11-12,Shipped,Classic Cars,Norway,Medium
+1171,5340.6,2003-11-20,Shipped,Classic Cars,USA,Medium
+1172,5735.8,2003-12-02,Shipped,Classic Cars,USA,Medium
+1173,6357.6,2004-01-16,Shipped,Classic Cars,Spain,Medium
+1174,7343.9,2004-02-26,Shipped,Classic Cars,USA,Large
+1175,5959.22,2004-04-13,Shipped,Classic Cars,Japan,Medium
+1176,4029.38,2004-06-01,Cancelled,Classic Cars,UK,Medium
+1177,5035.14,2004-07-06,Shipped,Classic Cars,Italy,Medium
+1178,4116.8,2004-08-06,Shipped,Classic Cars,USA,Medium
+1179,4310.55,2004-08-30,Shipped,Classic Cars,Switzerland,Medium
+1180,6446.7,2003-10-05,Shipped,Classic Cars,Norway,Medium
+1181,3616.64,2004-10-16,Shipped,Classic Cars,Spain,Medium
+1182,4232.76,2004-11-04,Shipped,Classic Cars,USA,Medium
+1183,1765.66,2004-11-17,Shipped,Classic Cars,USA,Small
+1184,3734.72,2004-11-24,Shipped,Classic Cars,France,Medium
+1185,4808.38,2005-01-12,Resolved,Classic Cars,USA,Medium
+1186,2266.56,2005-02-10,Shipped,Classic Cars,Spain,Small
+1187,10468.9,2005-04-15,Disputed,Classic Cars,Denmark,Large
+1188,5589.14,2005-05-17,Shipped,Classic Cars,Austria,Medium
+1189,2914.11,2003-03-03,Shipped,Motorcycles,Philippines,Small
+1190,1740.9,2003-05-08,Shipped,Motorcycles,France,Small
+1191,2266.2,2003-07-02,Shipped,Motorcycles,USA,Small
+1192,3155.58,2003-09-03,Shipped,Motorcycles,USA,Medium
+1193,1357.86,2003-10-10,Shipped,Motorcycles,USA,Small
+1194,2598.82,2003-11-04,Shipped,Motorcycles,Australia,Small
+1195,1057.56,2003-11-11,Shipped,Motorcycles,France,Small
+1196,3127.82,2003-11-20,Shipped,Motorcycles,Germany,Medium
+1197,2488.14,2004-01-15,Shipped,Motorcycles,France,Small
+1198,2220.72,2004-02-21,Shipped,Motorcycles,France,Small
+1199,1357.72,2004-04-05,Shipped,Motorcycles,USA,Small
+1200,1638.04,2004-05-26,Shipped,Motorcycles,France,Small
+1201,2626.08,2004-06-30,Shipped,Motorcycles,USA,Small
+1202,1661.88,2004-08-02,Shipped,Motorcycles,USA,Small
+1203,2173.6,2004-08-28,Shipped,Motorcycles,France,Small
+1204,2182.05,2004-09-30,Shipped,Motorcycles,Finland,Small
+1205,2819.88,2004-10-16,Shipped,Motorcycles,Germany,Small
+1206,2598.64,2004-11-03,Shipped,Motorcycles,USA,Small
+1207,2019.27,2004-11-16,Shipped,Motorcycles,Philippines,Small
+1208,1454.7,2004-11-24,Shipped,Motorcycles,Australia,Small
+1209,1657.57,2004-12-07,Shipped,Motorcycles,Spain,Small
+1210,2851.84,2005-01-06,Shipped,Motorcycles,Finland,Small
+1211,4609.64,2005-02-10,Shipped,Motorcycles,Spain,Medium
+1212,5079.96,2005-03-04,Shipped,Motorcycles,USA,Medium
+1213,1879.92,2005-04-08,Shipped,Motorcycles,UK,Small
+1214,4774.86,2003-02-17,Shipped,Vintage Cars,Italy,Medium
+1215,2687.04,2003-04-28,Shipped,Vintage Cars,Austria,Small
+1216,3423.75,2003-06-16,Shipped,Vintage Cars,USA,Medium
+1217,3455.76,2003-08-10,Shipped,Vintage Cars,USA,Medium
+1218,3622.97,2003-10-06,Shipped,Vintage Cars,Finland,Medium
+1219,3599.58,2003-10-23,Cancelled,Vintage Cars,Sweden,Medium
+1220,5386.56,2003-11-08,Shipped,Vintage Cars,France,Medium
+1221,4918.78,2003-11-14,Shipped,Vintage Cars,UK,Medium
+1222,2538.8,2003-11-26,Shipped,Vintage Cars,Spain,Small
+1223,2498.6,2004-01-09,Shipped,Vintage Cars,USA,Small
+1224,3858.75,2004-02-19,Shipped,Vintage Cars,USA,Medium
+1225,5600.5,2004-05-08,Shipped,Vintage Cars,USA,Medium
+1226,4103.46,2004-06-24,Cancelled,Vintage Cars,Spain,Medium
+1227,4287.5,2004-07-21,Shipped,Vintage Cars,Belgium,Medium
+1228,5795.54,2004-08-20,Shipped,Vintage Cars,Canada,Medium
+1229,1863.4,2004-09-15,Shipped,Vintage Cars,Germany,Small
+1230,4166.88,2004-10-14,Shipped,Vintage Cars,USA,Medium
+1231,4080.07,2004-11-01,Shipped,Vintage Cars,UK,Medium
+1232,3815.48,2004-11-12,Shipped,Vintage Cars,Italy,Medium
+1233,5526.45,2004-11-22,Shipped,Vintage Cars,Belgium,Medium
+1234,3374.6,2004-12-03,Shipped,Vintage Cars,UK,Medium
+1235,3024.5,2005-01-31,Shipped,Vintage Cars,Finland,Medium
+1236,1266.1,2005-03-01,Resolved,Vintage Cars,Spain,Small
+1237,4811.85,2005-03-30,Shipped,Vintage Cars,France,Medium
+1238,7307.42,2005-04-01,Shipped,Vintage Cars,USA,Large
+1239,6209.25,2005-05-09,Disputed,Vintage Cars,Australia,Medium
+1240,5348.5,2003-01-31,Shipped,Classic Cars,Spain,Medium
+1241,2780.58,2003-04-16,Shipped,Classic Cars,Singapore,Small
+1242,3447.0,2003-06-03,Shipped,Classic Cars,USA,Medium
+1243,3791.52,2003-08-08,Shipped,Classic Cars,USA,Medium
+1244,4524.1,2003-09-25,Shipped,Classic Cars,Australia,Medium
+1245,3337.6,2003-10-22,Shipped,Classic Cars,Singapore,Medium
+1246,5532.12,2003-11-06,Shipped,Classic Cars,Italy,Medium
+1247,5096.91,2003-11-14,Shipped,Classic Cars,USA,Medium
+1248,4537.08,2003-11-26,Shipped,Classic Cars,USA,Medium
+1249,6146.8,2003-12-09,Shipped,Classic Cars,USA,Medium
+1250,8258.0,2004-02-12,Shipped,Classic Cars,Ireland,Large
+1251,7238.28,2004-03-15,Shipped,Classic Cars,Germany,Large
+1252,6756.0,2004-05-05,Shipped,Classic Cars,Finland,Medium
+1253,3734.0,2004-07-20,Shipped,Classic Cars,USA,Medium
+1254,4674.8,2004-08-20,Shipped,Classic Cars,USA,Medium
+1255,7140.76,2004-09-08,Shipped,Classic Cars,USA,Large
+1256,3600.65,2004-10-14,Shipped,Classic Cars,UK,Medium
+1257,4206.74,2004-10-22,Shipped,Classic Cars,Denmark,Medium
+1258,5379.71,2004-11-05,Shipped,Classic Cars,USA,Medium
+1259,5679.36,2004-11-21,Shipped,Classic Cars,USA,Medium
+1260,4394.84,2004-12-01,Shipped,Classic Cars,USA,Medium
+1261,2528.25,2004-12-10,Shipped,Classic Cars,Spain,Small
+1262,7031.52,2005-01-26,Shipped,Classic Cars,Japan,Large
+1263,5340.9,2005-02-22,Shipped,Classic Cars,Spain,Medium
+1264,6376.58,2005-03-15,Shipped,Classic Cars,Spain,Medium
+1265,6896.75,2005-05-05,Shipped,Classic Cars,USA,Medium
+1266,1903.22,2003-01-06,Shipped,Vintage Cars,USA,Small
+1267,2499.56,2003-03-18,Shipped,Vintage Cars,UK,Small
+1268,3081.24,2003-05-21,Shipped,Vintage Cars,USA,Medium
+1269,3598.22,2003-09-11,Shipped,Vintage Cars,Australia,Medium
+1270,3912.09,2003-10-18,Shipped,Vintage Cars,USA,Medium
+1271,1584.66,2003-11-05,Shipped,Vintage Cars,Italy,Small
+1272,3942.72,2003-11-12,Shipped,Vintage Cars,USA,Medium
+1273,2341.2,2003-11-21,Shipped,Vintage Cars,Australia,Small
+1274,2482.11,2003-12-02,Shipped,Vintage Cars,USA,Small
+1275,3602.02,2004-01-22,Shipped,Vintage Cars,UK,Medium
+1276,3566.94,2004-03-02,Shipped,Vintage Cars,France,Medium
+1277,3787.98,2004-04-13,Shipped,Vintage Cars,France,Medium
+1278,3704.05,2004-08-17,Shipped,Vintage Cars,Italy,Medium
+1279,2834.65,2004-09-01,Shipped,Vintage Cars,Singapore,Small
+1280,3392.26,2003-10-06,Shipped,Vintage Cars,UK,Medium
+1281,3358.31,2004-10-16,Shipped,Vintage Cars,Spain,Medium
+1282,7310.0,2004-11-17,Shipped,Vintage Cars,UK,Large
+1283,2203.11,2004-11-25,Shipped,Vintage Cars,France,Small
+1284,2696.96,2005-01-12,Resolved,Vintage Cars,USA,Small
+1285,3376.64,2005-02-16,Shipped,Vintage Cars,Spain,Medium
+1286,541.14,2005-04-22,On Hold,Vintage Cars,USA,Small
+1287,6134.7,2005-05-29,In Process,Vintage Cars,Australia,Medium
+1288,3382.5,2003-02-11,Shipped,Vintage Cars,Denmark,Medium
+1289,2240.66,2003-04-16,Shipped,Vintage Cars,Singapore,Small
+1290,3962.88,2003-06-06,Shipped,Vintage Cars,Spain,Medium
+1291,1685.28,2003-08-08,Shipped,Vintage Cars,USA,Small
+1292,1834.36,2003-09-28,Shipped,Vintage Cars,Spain,Small
+1293,1916.98,2003-10-21,Shipped,Vintage Cars,USA,Small
+1294,2611.0,2003-11-07,Shipped,Vintage Cars,Spain,Small
+1295,3630.28,2003-11-14,Shipped,Vintage Cars,USA,Medium
+1296,5090.5,2003-11-26,Shipped,Vintage Cars,Spain,Medium
+1297,3949.65,2004-01-02,Shipped,Vintage Cars,France,Medium
+1298,3491.67,2004-02-18,Shipped,Vintage Cars,Belgium,Medium
+1299,2059.19,2004-03-20,Shipped,Vintage Cars,UK,Small
+1300,3170.16,2004-05-07,Cancelled,Vintage Cars,USA,Medium
+1301,1790.6,2004-06-17,Shipped,Vintage Cars,Canada,Small
+1302,2345.97,2004-07-21,Shipped,Vintage Cars,Belgium,Small
+1303,3580.88,2004-08-20,Shipped,Vintage Cars,Canada,Medium
+1304,4946.06,2004-09-09,Shipped,Vintage Cars,Italy,Medium
+1305,3525.6,2004-10-14,Shipped,Vintage Cars,UK,Medium
+1306,3602.16,2004-10-29,Shipped,Vintage Cars,France,Medium
+1307,4300.5,2004-11-09,Shipped,Vintage Cars,Sweden,Medium
+1308,4498.19,2004-11-21,Shipped,Vintage Cars,USA,Medium
+1309,3023.1,2004-12-02,Shipped,Vintage Cars,Spain,Medium
+1310,3562.49,2005-01-26,Shipped,Vintage Cars,Japan,Medium
+1311,1640.24,2005-02-22,Shipped,Vintage Cars,Spain,Small
+1312,4739.4,2005-03-23,Shipped,Vintage Cars,USA,Medium
+1313,1207.68,2005-05-06,On Hold,Vintage Cars,USA,Small
+1314,4228.2,2003-01-29,Shipped,Trucks and Buses,Norway,Medium
+1315,4815.45,2003-04-01,Shipped,Trucks and Buses,France,Medium
+1316,7083.0,2003-05-28,Shipped,Trucks and Buses,Spain,Large
+1317,4601.2,2003-07-24,Shipped,Trucks and Buses,USA,Medium
+1318,6467.02,2003-09-19,Shipped,Trucks and Buses,Singapore,Medium
+1319,5012.55,2003-10-21,Resolved,Trucks and Buses,Austria,Medium
+1320,5121.59,2003-11-06,Shipped,Trucks and Buses,UK,Medium
+1321,2441.04,2003-11-13,Shipped,Trucks and Buses,USA,Small
+1322,4262.08,2003-11-25,Shipped,Trucks and Buses,France,Medium
+1323,6658.02,2003-12-09,Shipped,Trucks and Buses,USA,Medium
+1324,4509.08,2004-02-04,Shipped,Trucks and Buses,Singapore,Medium
+1325,4716.23,2004-03-11,Shipped,Trucks and Buses,USA,Medium
+1326,2390.22,2004-05-04,Shipped,Trucks and Buses,USA,Small
+1327,4666.62,2004-06-15,Shipped,Trucks and Buses,Singapore,Medium
+1328,5383.08,2004-07-19,Shipped,Trucks and Buses,Australia,Medium
+1329,2482.25,2004-08-19,Shipped,Trucks and Buses,USA,Small
+1330,5288.64,2004-09-08,Shipped,Trucks and Buses,Sweden,Medium
+1331,2184.38,2004-10-13,Shipped,Trucks and Buses,USA,Small
+1332,2881.76,2004-10-22,Shipped,Trucks and Buses,Canada,Small
+1333,6203.06,2004-11-05,Shipped,Trucks and Buses,Germany,Medium
+1334,6763.47,2004-11-19,On Hold,Trucks and Buses,Sweden,Medium
+1335,5884.65,2004-11-29,Shipped,Trucks and Buses,Australia,Medium
+1336,3559.64,2004-12-10,Shipped,Trucks and Buses,USA,Medium
+1337,1668.37,2005-01-20,Shipped,Trucks and Buses,Australia,Small
+1338,4890.6,2005-02-17,Shipped,Trucks and Buses,USA,Medium
+1339,5235.72,2005-05-01,Shipped,Trucks and Buses,Canada,Medium
+1340,4325.16,2005-05-31,In Process,Trucks and Buses,France,Medium
+1341,1938.89,2003-01-29,Shipped,Vintage Cars,Norway,Small
+1342,2490.5,2003-03-26,Shipped,Vintage Cars,USA,Small
+1343,2314.69,2003-05-28,Shipped,Vintage Cars,Spain,Small
+1344,1254.83,2003-07-24,Shipped,Vintage Cars,USA,Small
+1345,1282.8,2003-09-19,Shipped,Vintage Cars,Singapore,Small
+1346,1345.75,2003-10-21,Resolved,Vintage Cars,Austria,Small
+1347,2194.22,2003-11-06,Shipped,Vintage Cars,Australia,Small
+1348,1972.0,2003-11-13,Shipped,Vintage Cars,USA,Small
+1349,1835.98,2003-11-25,Shipped,Vintage Cars,France,Small
+1350,1119.93,2003-12-05,Shipped,Vintage Cars,Canada,Small
+1351,2082.88,2004-01-29,Shipped,Vintage Cars,USA,Small
+1352,1569.75,2004-03-11,Shipped,Vintage Cars,USA,Small
+1353,2694.15,2004-05-04,Shipped,Vintage Cars,USA,Small
+1354,1257.27,2004-06-15,Shipped,Vintage Cars,Japan,Small
+1355,2567.84,2004-07-19,Shipped,Vintage Cars,Australia,Small
+1356,2634.28,2004-08-19,Shipped,Vintage Cars,USA,Small
+1357,1502.78,2004-09-08,Shipped,Vintage Cars,Sweden,Small
+1358,1676.2,2004-10-11,Shipped,Vintage Cars,France,Small
+1359,2217.15,2004-10-21,Shipped,Vintage Cars,USA,Small
+1360,6832.02,2004-11-05,Shipped,Vintage Cars,USA,Medium
+1361,1916.64,2004-11-18,Shipped,Vintage Cars,USA,Small
+1362,7110.8,2004-11-01,Shipped,Vintage Cars,Spain,Large
+1363,5302.8,2004-12-10,Shipped,Vintage Cars,Spain,Medium
+1364,2730.0,2005-01-20,Shipped,Vintage Cars,Australia,Small
+1365,7827.3,2005-02-17,Shipped,Vintage Cars,USA,Large
+1366,2095.45,2005-05-01,Shipped,Vintage Cars,Canada,Small
+1367,1556.62,2005-05-31,In Process,Vintage Cars,Spain,Small
+1368,5565.12,2003-03-03,Shipped,Classic Cars,Philippines,Medium
+1369,3583.16,2003-05-08,Shipped,Classic Cars,France,Medium
+1370,4705.18,2003-07-02,Shipped,Classic Cars,USA,Medium
+1371,4444.54,2003-09-03,Shipped,Classic Cars,USA,Medium
+1372,4618.88,2003-10-10,Shipped,Classic Cars,USA,Medium
+1373,4910.4,2003-11-04,Shipped,Classic Cars,Australia,Medium
+1374,5565.12,2003-11-11,Shipped,Classic Cars,France,Medium
+1375,4237.76,2003-11-20,Shipped,Classic Cars,Germany,Medium
+1376,5673.58,2004-01-15,Shipped,Classic Cars,France,Medium
+1377,5260.15,2004-02-22,Shipped,Classic Cars,Switzerland,Medium
+1378,6350.96,2004-04-09,Shipped,Classic Cars,Denmark,Medium
+1379,3559.4,2004-05-26,Shipped,Classic Cars,France,Medium
+1380,2410.6,2004-06-30,Shipped,Classic Cars,USA,Small
+1381,5713.92,2004-08-02,Shipped,Classic Cars,USA,Medium
+1382,4300.32,2004-08-30,Shipped,Classic Cars,Switzerland,Medium
+1383,7947.31,2004-09-30,Shipped,Classic Cars,Finland,Large
+1384,5356.8,2004-10-16,Shipped,Classic Cars,Germany,Medium
+1385,7901.1,2004-11-03,Shipped,Classic Cars,USA,Large
+1386,6101.0,2004-11-16,Shipped,Classic Cars,Philippines,Medium
+1387,6276.46,2004-11-24,Shipped,Classic Cars,Australia,Medium
+1388,4203.5,2004-12-07,Shipped,Classic Cars,Spain,Medium
+1389,1629.04,2005-01-06,Shipped,Classic Cars,Finland,Small
+1390,3289.86,2005-02-10,Shipped,Classic Cars,Spain,Medium
+1391,6862.94,2005-03-04,Shipped,Classic Cars,USA,Medium
+1392,2574.18,2003-03-18,Shipped,Classic Cars,UK,Small
+1393,1327.79,2003-05-21,Shipped,Classic Cars,USA,Small
+1394,2356.25,2003-09-11,Shipped,Classic Cars,Australia,Small
+1395,2013.5,2003-10-17,Shipped,Classic Cars,Denmark,Small
+1396,2807.22,2003-11-05,Shipped,Classic Cars,Italy,Small
+1397,3072.96,2003-11-12,Shipped,Classic Cars,USA,Medium
+1398,1906.5,2003-11-21,Shipped,Classic Cars,Australia,Small
+1399,3431.7,2003-12-02,Shipped,Classic Cars,USA,Medium
+1400,2084.75,2004-01-22,Shipped,Classic Cars,UK,Small
+1401,2136.01,2004-03-02,Shipped,Classic Cars,France,Small
+1402,2009.7,2004-04-13,Shipped,Classic Cars,France,Small
+1403,2719.8,2004-07-07,Shipped,Classic Cars,USA,Small
+1404,1575.08,2004-08-09,Shipped,Classic Cars,Spain,Small
+1405,1688.43,2004-09-01,Shipped,Classic Cars,Singapore,Small
+1406,1672.1,2003-10-06,Shipped,Classic Cars,UK,Small
+1407,1674.75,2004-10-16,Shipped,Classic Cars,Spain,Small
+1408,3472.98,2004-11-17,Shipped,Classic Cars,UK,Medium
+1409,1649.18,2004-11-25,Shipped,Classic Cars,France,Small
+1410,3751.0,2005-01-12,Resolved,Classic Cars,USA,Medium
+1411,4536.0,2005-02-16,Shipped,Classic Cars,Spain,Medium
+1412,4421.34,2005-04-22,On Hold,Classic Cars,USA,Medium
+1413,2078.28,2005-05-29,In Process,Classic Cars,Australia,Small
+1414,3069.0,2003-03-18,Shipped,Classic Cars,UK,Medium
+1415,1713.8,2003-05-21,Shipped,Classic Cars,USA,Small
+1416,1506.5,2003-09-11,Shipped,Classic Cars,Australia,Small
+1417,2692.12,2003-10-17,Shipped,Classic Cars,Denmark,Small
+1418,2422.08,2003-11-05,Shipped,Classic Cars,USA,Small
+1419,3488.34,2003-11-12,Shipped,Classic Cars,USA,Medium
+1420,2583.34,2003-11-20,Shipped,Classic Cars,USA,Small
+1421,1249.4,2003-12-02,Shipped,Classic Cars,USA,Small
+1422,3374.71,2004-01-16,Shipped,Classic Cars,Spain,Medium
+1423,1265.46,2004-02-26,Shipped,Classic Cars,USA,Small
+1424,1681.46,2004-04-13,Shipped,Classic Cars,France,Small
+1425,3204.0,2004-07-07,Shipped,Classic Cars,USA,Medium
+1426,2398.72,2004-08-09,Shipped,Classic Cars,Spain,Small
+1427,2381.04,2004-09-01,Shipped,Classic Cars,Singapore,Small
+1428,1944.54,2003-10-05,Shipped,Classic Cars,Norway,Small
+1429,2273.7,2004-10-16,Shipped,Classic Cars,Spain,Small
+1430,2116.5,2004-11-04,Shipped,Classic Cars,USA,Small
+1431,1307.32,2004-11-17,Shipped,Classic Cars,UK,Small
+1432,1726.37,2004-11-25,Shipped,Classic Cars,France,Small
+1433,1267.77,2005-01-12,Resolved,Classic Cars,USA,Small
+1434,3441.82,2005-02-16,Shipped,Classic Cars,Spain,Medium
+1435,1987.18,2005-04-22,On Hold,Classic Cars,USA,Small
+1436,3880.2,2005-05-29,In Process,Classic Cars,Australia,Medium
+1437,1942.15,2003-01-31,Shipped,Classic Cars,Spain,Small
+1438,3259.92,2003-04-04,Shipped,Classic Cars,USA,Medium
+1439,1213.8,2003-06-03,Shipped,Classic Cars,USA,Small
+1440,1086.6,2003-08-01,Shipped,Classic Cars,Finland,Small
+1441,1632.75,2003-09-25,Shipped,Classic Cars,Australia,Small
+1442,1734.0,2003-10-22,Shipped,Classic Cars,Singapore,Small
+1443,1857.06,2003-11-06,Shipped,Classic Cars,Italy,Small
+1444,1863.41,2003-11-14,Shipped,Classic Cars,Spain,Small
+1445,2924.68,2003-11-25,Shipped,Classic Cars,USA,Small
+1446,2294.18,2003-12-09,Shipped,Classic Cars,USA,Small
+1447,1457.82,2004-02-12,Shipped,Classic Cars,Ireland,Small
+1448,1955.88,2004-03-15,Shipped,Classic Cars,Germany,Small
+1449,2314.4,2004-05-05,Shipped,Classic Cars,Spain,Small
+1450,1310.96,2004-06-15,Shipped,Classic Cars,Singapore,Small
+1451,2913.3,2004-07-20,Shipped,Classic Cars,USA,Small
+1452,1357.78,2004-08-20,Shipped,Classic Cars,USA,Small
+1453,2150.0,2004-09-08,Shipped,Classic Cars,USA,Small
+1454,2783.25,2004-10-13,Shipped,Classic Cars,USA,Small
+1455,2339.92,2004-10-22,Shipped,Classic Cars,Denmark,Small
+1456,1729.0,2004-11-05,Shipped,Classic Cars,USA,Small
+1457,5972.4,2004-11-20,Shipped,Classic Cars,France,Medium
+1458,2275.2,2004-12-01,Shipped,Classic Cars,USA,Small
+1459,2673.44,2004-12-10,Shipped,Classic Cars,Spain,Small
+1460,2431.75,2005-01-23,Shipped,Classic Cars,USA,Small
+1461,2018.72,2005-02-22,Shipped,Classic Cars,Spain,Small
+1462,1558.99,2005-03-15,Shipped,Classic Cars,Spain,Small
+1463,1104.6,2005-05-03,Shipped,Classic Cars,Spain,Small
+1464,2575.1,2005-05-31,In Process,Classic Cars,France,Small
+1465,2845.75,2003-02-24,Shipped,Motorcycles,USA,Small
+1466,3431.75,2003-04-29,Shipped,Motorcycles,Australia,Medium
+1467,3273.9,2003-07-01,Shipped,Motorcycles,France,Medium
+1468,4119.4,2003-08-25,Shipped,Motorcycles,USA,Medium
+1469,5355.68,2003-10-10,Shipped,Motorcycles,USA,Medium
+1470,5747.5,2003-10-28,Shipped,Motorcycles,USA,Medium
+1471,5355.36,2003-11-11,Shipped,Motorcycles,France,Medium
+1472,2535.75,2003-11-18,Shipped,Motorcycles,Norway,Small
+1473,4351.23,2003-12-01,Shipped,Motorcycles,USA,Medium
+1474,2254.0,2004-01-15,Shipped,Motorcycles,France,Small
+1475,2921.28,2004-02-20,Shipped,Motorcycles,Australia,Small
+1476,2299.0,2004-04-05,Shipped,Motorcycles,USA,Small
+1477,2637.18,2004-05-18,Shipped,Motorcycles,USA,Small
+1478,4307.52,2004-06-28,Shipped,Motorcycles,USA,Medium
+1479,2153.76,2004-07-23,Shipped,Motorcycles,France,Small
+1480,3716.88,2004-08-27,Shipped,Motorcycles,USA,Medium
+1481,5455.76,2004-09-30,Shipped,Motorcycles,Finland,Medium
+1482,2650.62,2004-10-15,Shipped,Motorcycles,Norway,Small
+1483,6437.28,2004-11-02,Shipped,Motorcycles,USA,Medium
+1484,2633.4,2004-11-15,Shipped,Motorcycles,USA,Small
+1485,2278.53,2004-11-23,Shipped,Motorcycles,Japan,Small
+1486,4846.0,2005-01-05,Shipped,Motorcycles,USA,Medium
+1487,4197.1,2005-02-02,Shipped,Motorcycles,Australia,Medium
+1488,4597.65,2005-03-03,Shipped,Motorcycles,Sweden,Medium
+1489,5287.7,2005-04-08,Shipped,Motorcycles,UK,Medium
+1490,3550.05,2005-05-13,Disputed,Motorcycles,Spain,Medium
+1491,1721.73,2003-03-18,Shipped,Classic Cars,UK,Small
+1492,2993.5,2003-05-20,Shipped,Classic Cars,France,Small
+1493,1295.06,2003-07-10,Shipped,Classic Cars,France,Small
+1494,2671.95,2003-09-11,Shipped,Classic Cars,Australia,Small
+1495,1226.59,2003-10-17,Shipped,Classic Cars,Denmark,Small
+1496,1453.84,2003-11-05,Shipped,Classic Cars,USA,Small
+1497,1830.22,2003-11-12,Shipped,Classic Cars,Norway,Small
+1498,2530.01,2003-11-20,Shipped,Classic Cars,USA,Small
+1499,2241.45,2003-12-02,Shipped,Classic Cars,USA,Small
+1500,2399.85,2004-01-16,Shipped,Classic Cars,Spain,Small
+1501,1557.72,2004-02-26,Shipped,Classic Cars,USA,Small
+1502,845.25,2004-04-13,Shipped,Classic Cars,France,Small
+1503,1352.4,2004-07-06,Shipped,Classic Cars,Italy,Small
+1504,1584.8,2004-08-06,Shipped,Classic Cars,USA,Small
+1505,2616.0,2004-09-01,Shipped,Classic Cars,Singapore,Small
+1506,1129.04,2003-10-05,Shipped,Classic Cars,Norway,Small
+1507,2218.5,2004-10-16,Shipped,Classic Cars,Spain,Small
+1508,2028.48,2004-11-04,Shipped,Classic Cars,USA,Small
+1509,1759.2,2004-11-17,Shipped,Classic Cars,UK,Small
+1510,977.67,2004-11-24,Shipped,Classic Cars,France,Small
+1511,1463.0,2005-01-12,Resolved,Classic Cars,USA,Small
+1512,3970.56,2005-02-10,Shipped,Classic Cars,Spain,Medium
+1513,2576.0,2005-04-22,On Hold,Classic Cars,USA,Small
+1514,2233.69,2005-05-29,In Process,Classic Cars,Australia,Small
+1515,2481.64,2003-02-17,Shipped,Planes,Italy,Small
+1516,4651.53,2003-04-29,Shipped,Planes,Australia,Medium
+1517,3858.1,2003-06-27,Shipped,Planes,Spain,Medium
+1518,3501.6,2003-08-25,Shipped,Planes,USA,Medium
+1519,6433.7,2003-10-28,Shipped,Planes,USA,Medium
+1520,2658.96,2004-01-12,Shipped,Planes,Japan,Small
+1521,3608.76,2004-02-20,Shipped,Planes,Australia,Medium
+1522,2214.67,2004-04-02,Shipped,Planes,Canada,Small
+1523,2747.53,2004-05-11,Shipped,Planes,USA,Small
+1524,3310.92,2004-06-24,Cancelled,Planes,Spain,Medium
+1525,2380.0,2004-07-23,Shipped,Planes,France,Small
+1526,2310.88,2004-08-21,Shipped,Planes,Norway,Small
+1527,4061.76,2004-09-16,Shipped,Planes,Ireland,Medium
+1528,3493.7,2004-10-15,Shipped,Planes,USA,Medium
+1529,2872.25,2004-11-01,Shipped,Planes,UK,Small
+1530,4114.38,2004-11-12,Shipped,Planes,Italy,Medium
+1531,1063.65,2004-11-23,Shipped,Planes,Japan,Small
+1532,2008.44,2004-12-04,Shipped,Planes,USA,Small
+1533,4328.6,2005-02-02,Shipped,Planes,Australia,Medium
+1534,1376.43,2005-03-01,Resolved,Planes,Spain,Small
+1535,5552.16,2005-03-30,Shipped,Planes,France,Medium
+1536,3659.02,2005-04-03,On Hold,Planes,USA,Medium
+1537,4165.61,2005-05-10,Shipped,Planes,Italy,Medium
+1538,1404.0,2003-01-09,Shipped,Vintage Cars,Germany,Small
+1539,710.2,2003-03-18,Shipped,Vintage Cars,UK,Small
+1540,1702.8,2003-05-21,Shipped,Vintage Cars,USA,Small
+1541,1194.84,2003-09-12,Shipped,Vintage Cars,USA,Small
+1542,1007.14,2003-10-18,Shipped,Vintage Cars,USA,Small
+1543,977.43,2003-11-05,Shipped,Vintage Cars,Italy,Small
+1544,1436.76,2003-11-12,Shipped,Vintage Cars,USA,Small
+1545,759.46,2003-11-21,Shipped,Vintage Cars,Australia,Small
+1546,1189.44,2003-12-03,Shipped,Vintage Cars,Spain,Small
+1547,683.8,2004-01-26,Shipped,Vintage Cars,Spain,Small
+1548,1226.82,2004-03-02,Shipped,Vintage Cars,France,Small
+1549,974.82,2004-04-26,Shipped,Vintage Cars,USA,Small
+1550,577.6,2004-08-17,Shipped,Vintage Cars,Italy,Small
+1551,1106.93,2004-09-01,Shipped,Vintage Cars,Singapore,Small
+1552,694.6,2004-10-11,Shipped,Vintage Cars,France,Small
+1553,1152.06,2004-10-21,Shipped,Vintage Cars,USA,Small
+1554,2624.0,2004-11-04,Shipped,Vintage Cars,USA,Small
+1555,3685.95,2004-11-17,Shipped,Vintage Cars,UK,Medium
+1556,703.6,2004-11-25,Shipped,Vintage Cars,France,Small
+1557,9720.0,2004-12-09,Shipped,Vintage Cars,France,Large
+1558,834.67,2005-01-12,Resolved,Vintage Cars,USA,Small
+1559,2257.92,2005-02-16,Shipped,Vintage Cars,Spain,Small
+1560,8344.71,2005-03-09,Shipped,Vintage Cars,Australia,Large
+1561,1801.94,2005-04-23,Shipped,Vintage Cars,Singapore,Small
+1562,1209.6,2005-05-29,In Process,Vintage Cars,Australia,Small
+1563,3155.14,2003-02-24,Shipped,Motorcycles,USA,Medium
+1564,2848.86,2003-04-29,Shipped,Motorcycles,Australia,Small
+1565,3570.29,2003-07-01,Shipped,Motorcycles,France,Medium
+1566,3902.41,2003-08-25,Shipped,Motorcycles,USA,Medium
+1567,1474.66,2003-10-10,Shipped,Motorcycles,Norway,Small
+1568,2186.89,2003-10-28,Shipped,Motorcycles,USA,Small
+1569,1919.4,2003-11-11,Shipped,Motorcycles,France,Small
+1570,3656.0,2003-11-18,Shipped,Motorcycles,Norway,Medium
+1571,1847.0,2003-12-01,Shipped,Motorcycles,USA,Small
+1572,1851.0,2004-01-12,Shipped,Motorcycles,Japan,Small
+1573,2633.78,2004-02-20,Shipped,Motorcycles,Australia,Small
+1574,3153.6,2004-04-03,Shipped,Motorcycles,USA,Medium
+1575,2803.2,2004-05-11,Shipped,Motorcycles,USA,Small
+1576,2311.02,2004-06-28,Shipped,Motorcycles,USA,Small
+1577,2399.4,2004-07-23,Shipped,Motorcycles,France,Small
+1578,2733.12,2004-08-27,Shipped,Motorcycles,USA,Small
+1579,2096.32,2004-09-16,Shipped,Motorcycles,Ireland,Small
+1580,2971.34,2004-10-15,Shipped,Motorcycles,USA,Small
+1581,2257.58,2004-11-02,Shipped,Motorcycles,USA,Small
+1582,3493.91,2004-11-15,Shipped,Motorcycles,USA,Medium
+1583,4398.9,2004-11-24,Shipped,Motorcycles,Spain,Medium
+1584,3595.62,2005-01-06,Shipped,Motorcycles,Finland,Medium
+1585,2443.29,2005-02-03,Shipped,Motorcycles,France,Small
+1586,3988.6,2005-03-03,Shipped,Motorcycles,Sweden,Medium
+1587,5168.4,2005-04-07,Shipped,Motorcycles,France,Medium
+1588,2803.2,2005-05-10,Shipped,Motorcycles,Italy,Small
+1589,6341.21,2003-02-11,Shipped,Ships,Denmark,Medium
+1590,5189.78,2003-04-16,Shipped,Ships,Singapore,Medium
+1591,6027.75,2003-06-12,Shipped,Ships,UK,Medium
+1592,3366.0,2003-08-08,Shipped,Ships,USA,Medium
+1593,5456.4,2003-09-28,Shipped,Ships,Spain,Medium
+1594,3812.16,2003-10-23,Cancelled,Ships,Sweden,Medium
+1595,6083.0,2003-11-07,Shipped,Ships,Spain,Medium
+1596,3170.7,2003-11-14,Shipped,Ships,USA,Medium
+1597,4534.6,2003-11-26,Shipped,Ships,Spain,Medium
+1598,4301.15,2004-01-02,Shipped,Ships,France,Medium
+1599,6804.63,2004-02-18,Shipped,Ships,Belgium,Medium
+1600,5652.94,2004-03-20,Shipped,Ships,UK,Medium
+1601,6960.48,2004-05-07,Cancelled,Ships,USA,Medium
+1602,4512.6,2004-06-17,Shipped,Ships,Canada,Medium
+1603,2784.76,2004-07-21,Shipped,Ships,Belgium,Small
+1604,5316.36,2004-08-20,Shipped,Ships,Canada,Medium
+1605,2941.89,2004-09-09,Shipped,Ships,Italy,Small
+1606,3207.4,2004-10-14,Shipped,Ships,UK,Medium
+1607,4215.05,2004-10-29,Shipped,Ships,France,Medium
+1608,4333.29,2004-11-09,Shipped,Ships,Sweden,Medium
+1609,2087.13,2004-11-21,Shipped,Ships,USA,Small
+1610,1711.22,2004-12-02,Shipped,Ships,Spain,Small
+1611,3910.53,2005-01-26,Shipped,Ships,Japan,Medium
+1612,2255.12,2005-02-23,Shipped,Ships,USA,Small
+1613,5720.75,2005-03-23,Shipped,Ships,USA,Medium
+1614,3335.23,2005-05-06,On Hold,Ships,USA,Medium
+1615,2472.96,2003-01-09,Shipped,Vintage Cars,Germany,Small
+1616,1729.65,2003-03-18,Shipped,Vintage Cars,UK,Small
+1617,995.5,2003-05-21,Shipped,Vintage Cars,USA,Small
+1618,2414.72,2003-09-12,Shipped,Vintage Cars,USA,Small
+1619,1560.47,2003-10-18,Shipped,Vintage Cars,USA,Small
+1620,1112.94,2003-11-05,Shipped,Vintage Cars,Italy,Small
+1621,1138.94,2003-11-12,Shipped,Vintage Cars,USA,Small
+1622,1012.4,2003-11-21,Shipped,Vintage Cars,Australia,Small
+1623,913.92,2003-12-03,Shipped,Vintage Cars,Spain,Small
+1624,2349.06,2004-01-26,Shipped,Vintage Cars,Spain,Small
+1625,1161.12,2004-03-02,Shipped,Vintage Cars,France,Small
+1626,1764.75,2004-04-29,Shipped,Vintage Cars,Spain,Small
+1627,1690.9,2004-06-04,Shipped,Vintage Cars,France,Small
+1628,2137.05,2004-08-17,Shipped,Vintage Cars,Italy,Small
+1629,2177.1,2004-09-03,Shipped,Vintage Cars,Norway,Small
+1630,1734.48,2004-10-11,Shipped,Vintage Cars,France,Small
+1631,865.49,2004-10-21,Shipped,Vintage Cars,USA,Small
+1632,3500.1,2004-11-04,Shipped,Vintage Cars,USA,Medium
+1633,2223.52,2004-11-17,Shipped,Vintage Cars,UK,Small
+1634,2311.68,2004-11-25,Shipped,Vintage Cars,France,Small
+1635,828.36,2004-12-09,Shipped,Vintage Cars,France,Small
+1636,856.52,2005-01-12,Resolved,Vintage Cars,USA,Small
+1637,1845.45,2005-02-16,Shipped,Vintage Cars,Spain,Small
+1638,4042.08,2005-03-09,Shipped,Vintage Cars,Australia,Medium
+1639,1828.0,2005-05-29,In Process,Vintage Cars,USA,Small
+1640,3680.28,2003-01-29,Shipped,Trucks and Buses,Norway,Medium
+1641,2925.09,2003-04-01,Shipped,Trucks and Buses,France,Small
+1642,3415.77,2003-05-28,Shipped,Trucks and Buses,Spain,Medium
+1643,5105.14,2003-07-24,Shipped,Trucks and Buses,USA,Medium
+1644,5098.8,2003-09-21,Shipped,Trucks and Buses,Finland,Medium
+1645,4661.76,2003-10-22,Shipped,Trucks and Buses,Singapore,Medium
+1646,2969.96,2003-11-06,Shipped,Trucks and Buses,UK,Small
+1647,3496.32,2003-11-14,Shipped,Trucks and Buses,Spain,Medium
+1648,5760.93,2003-11-25,Shipped,Trucks and Buses,France,Medium
+1649,6819.04,2003-12-09,Shipped,Trucks and Buses,USA,Medium
+1650,3148.88,2004-02-04,Shipped,Trucks and Buses,Singapore,Medium
+1651,5704.32,2004-03-11,Shipped,Trucks and Buses,USA,Medium
+1652,3520.6,2004-05-05,Shipped,Trucks and Buses,Spain,Medium
+1653,5285.62,2004-06-15,Shipped,Trucks and Buses,Singapore,Medium
+1654,5605.05,2004-07-20,Shipped,Trucks and Buses,USA,Medium
+1655,2779.5,2004-08-19,Shipped,Trucks and Buses,USA,Small
+1656,5398.08,2004-09-08,Shipped,Trucks and Buses,Sweden,Medium
+1657,3189.6,2004-10-13,Shipped,Trucks and Buses,USA,Medium
+1658,5581.8,2004-10-22,Shipped,Trucks and Buses,Canada,Medium
+1659,3820.44,2004-11-05,Shipped,Trucks and Buses,USA,Medium
+1660,5528.04,2004-11-19,On Hold,Trucks and Buses,Sweden,Medium
+1661,5981.42,2004-11-01,Shipped,Trucks and Buses,Spain,Medium
+1662,5684.65,2004-12-10,Shipped,Trucks and Buses,Spain,Medium
+1663,3449.4,2005-01-23,Shipped,Trucks and Buses,USA,Medium
+1664,2654.4,2005-02-17,Shipped,Trucks and Buses,USA,Small
+1665,8498.0,2005-05-03,Shipped,Trucks and Buses,Spain,Large
+1666,5510.54,2005-05-31,In Process,Trucks and Buses,France,Medium
+1667,2060.45,2003-03-03,Shipped,Motorcycles,Philippines,Small
+1668,2460.16,2003-05-07,Shipped,Motorcycles,France,Small
+1669,1787.56,2003-07-02,Shipped,Motorcycles,USA,Small
+1670,1645.65,2003-08-25,Shipped,Motorcycles,USA,Small
+1671,2169.18,2003-10-10,Shipped,Motorcycles,USA,Small
+1672,2816.18,2003-11-04,Shipped,Motorcycles,Australia,Small
+1673,2521.05,2003-11-11,Shipped,Motorcycles,France,Small
+1674,3199.98,2003-11-19,Shipped,Motorcycles,Spain,Medium
+1675,1338.12,2004-01-15,Shipped,Motorcycles,France,Small
+1676,2972.58,2004-02-21,Shipped,Motorcycles,France,Small
+1677,2070.9,2004-04-05,Shipped,Motorcycles,USA,Small
+1678,3092.6,2004-05-26,Shipped,Motorcycles,France,Medium
+1679,2408.7,2004-06-30,Shipped,Motorcycles,USA,Small
+1680,3472.54,2004-08-02,Shipped,Motorcycles,USA,Medium
+1681,2263.28,2004-08-27,Shipped,Motorcycles,USA,Small
+1682,2194.17,2004-09-30,Shipped,Motorcycles,Finland,Small
+1683,1346.4,2004-10-15,Shipped,Motorcycles,Norway,Small
+1684,2533.63,2004-11-03,Shipped,Motorcycles,USA,Small
+1685,3403.26,2004-11-16,Shipped,Motorcycles,Philippines,Medium
+1686,3307.2,2004-11-24,Shipped,Motorcycles,Austria,Medium
+1687,2896.65,2004-12-07,Shipped,Motorcycles,Spain,Small
+1688,2632.89,2005-01-06,Shipped,Motorcycles,Finland,Small
+1689,2046.0,2005-02-03,Shipped,Motorcycles,France,Small
+1690,2279.55,2005-03-04,Shipped,Motorcycles,USA,Small
+1691,2150.55,2005-04-08,Shipped,Motorcycles,UK,Small
+1692,3360.45,2003-03-18,Shipped,Classic Cars,UK,Medium
+1693,2326.4,2003-05-21,Shipped,Classic Cars,USA,Small
+1694,1545.6,2003-09-11,Shipped,Classic Cars,Australia,Small
+1695,2144.6,2003-10-17,Shipped,Classic Cars,Denmark,Small
+1696,1639.22,2003-11-05,Shipped,Classic Cars,USA,Small
+1697,2649.6,2003-11-12,Shipped,Classic Cars,USA,Small
+1698,3845.6,2003-11-20,Shipped,Classic Cars,USA,Medium
+1699,4527.04,2003-12-02,Shipped,Classic Cars,USA,Medium
+1700,3966.3,2004-01-16,Shipped,Classic Cars,Spain,Medium
+1701,4142.58,2004-03-02,Shipped,Classic Cars,France,Medium
+1702,4441.5,2004-04-13,Shipped,Classic Cars,France,Medium
+1703,3315.12,2004-07-07,Shipped,Classic Cars,USA,Medium
+1704,3918.53,2004-08-09,Shipped,Classic Cars,Spain,Medium
+1705,2830.45,2004-09-01,Shipped,Classic Cars,Singapore,Small
+1706,5298.86,2003-10-06,Shipped,Classic Cars,UK,Medium
+1707,2620.8,2004-10-16,Shipped,Classic Cars,Spain,Small
+1708,2181.0,2004-11-04,Shipped,Classic Cars,USA,Small
+1709,3382.08,2004-11-17,Shipped,Classic Cars,UK,Medium
+1710,2876.75,2004-11-29,Shipped,Classic Cars,USA,Small
+1711,4107.2,2005-01-19,Shipped,Classic Cars,USA,Medium
+1712,1350.0,2005-02-16,Shipped,Classic Cars,Spain,Small
+1713,7182.0,2005-04-22,On Hold,Classic Cars,USA,Large
+1714,3933.93,2005-05-29,In Process,Classic Cars,Australia,Medium
+1715,1742.4,2003-01-31,Shipped,Classic Cars,Spain,Small
+1716,721.44,2003-04-01,Shipped,Classic Cars,France,Small
+1717,1489.41,2003-06-03,Shipped,Classic Cars,USA,Small
+1718,891.03,2003-08-01,Shipped,Classic Cars,Finland,Small
+1719,1209.3,2003-09-21,Shipped,Classic Cars,Finland,Small
+1720,859.14,2003-10-22,Shipped,Classic Cars,Singapore,Small
+1721,1151.44,2003-11-06,Shipped,Classic Cars,UK,Small
+1722,1336.44,2003-11-14,Shipped,Classic Cars,Spain,Small
+1723,905.28,2003-11-25,Shipped,Classic Cars,USA,Small
+1724,1247.4,2003-12-09,Shipped,Classic Cars,USA,Small
+1725,846.51,2004-02-10,Shipped,Classic Cars,USA,Small
+1726,1085.04,2004-03-11,Shipped,Classic Cars,USA,Small
+1727,1767.43,2004-05-05,Shipped,Classic Cars,Spain,Small
+1728,1030.44,2004-06-15,Shipped,Classic Cars,Singapore,Small
+1729,1585.36,2004-07-20,Shipped,Classic Cars,USA,Small
+1730,813.2,2004-08-19,Shipped,Classic Cars,USA,Small
+1731,1172.34,2004-09-08,Shipped,Classic Cars,USA,Small
+1732,1510.56,2004-10-13,Shipped,Classic Cars,USA,Small
+1733,1448.07,2004-10-22,Shipped,Classic Cars,Denmark,Small
+1734,3338.1,2004-11-05,Shipped,Classic Cars,USA,Medium
+1735,1225.29,2004-11-19,Shipped,Classic Cars,USA,Small
+1736,1336.68,2004-12-01,Shipped,Classic Cars,USA,Small
+1737,2985.84,2004-12-10,Shipped,Classic Cars,Spain,Small
+1738,5545.8,2005-01-23,Shipped,Classic Cars,USA,Medium
+1739,6089.6,2005-02-22,Shipped,Classic Cars,Spain,Medium
+1740,1789.4,2005-03-15,Shipped,Classic Cars,Spain,Small
+1741,1082.1,2005-05-03,Shipped,Classic Cars,Spain,Small
+1742,1030.44,2005-05-31,In Process,Classic Cars,France,Small
+1743,3659.32,2003-02-17,Shipped,Planes,Italy,Medium
+1744,2443.6,2003-04-28,Shipped,Planes,Austria,Small
+1745,2349.9,2003-06-16,Shipped,Planes,USA,Small
+1746,1646.19,2003-08-10,Shipped,Planes,USA,Small
+1747,1670.26,2003-10-06,Shipped,Planes,Finland,Small
+1748,1467.48,2003-10-23,Cancelled,Planes,Sweden,Small
+1749,2748.56,2003-11-08,Shipped,Planes,France,Small
+1750,1522.4,2003-11-14,Shipped,Planes,UK,Small
+1751,3255.36,2003-11-27,Shipped,Planes,Philippines,Medium
+1752,3535.03,2004-01-09,Shipped,Planes,USA,Medium
+1753,2608.96,2004-02-19,Shipped,Planes,USA,Small
+1754,1356.4,2004-05-08,Shipped,Planes,USA,Small
+1755,1611.36,2004-06-24,Cancelled,Planes,Spain,Small
+1756,2603.2,2004-07-21,Shipped,Planes,USA,Small
+1757,2219.7,2004-08-21,Shipped,Planes,Norway,Small
+1758,1496.25,2004-09-15,Shipped,Planes,Germany,Small
+1759,1884.0,2004-10-14,Shipped,Planes,USA,Small
+1760,2166.14,2004-11-01,Shipped,Planes,UK,Small
+1761,2828.16,2004-11-12,Shipped,Planes,Italy,Small
+1762,6214.45,2004-11-23,Shipped,Planes,Japan,Medium
+1763,1867.0,2004-12-03,Shipped,Planes,UK,Small
+1764,2676.72,2005-01-31,Shipped,Planes,Finland,Small
+1765,2182.44,2005-03-01,Resolved,Planes,Spain,Small
+1766,1611.4,2005-03-30,Shipped,Planes,France,Small
+1767,1479.84,2005-04-01,Shipped,Planes,USA,Small
+1768,1424.22,2005-05-09,Disputed,Planes,Australia,Small
+1769,5942.28,2003-03-18,Shipped,Classic Cars,UK,Medium
+1770,2348.75,2003-05-21,Shipped,Classic Cars,USA,Small
+1771,4392.12,2003-09-11,Shipped,Classic Cars,Australia,Medium
+1772,2759.75,2003-10-17,Shipped,Classic Cars,Denmark,Small
+1773,2728.03,2003-11-05,Shipped,Classic Cars,Italy,Small
+1774,2395.8,2003-11-12,Shipped,Classic Cars,USA,Small
+1775,3052.33,2003-11-20,Shipped,Classic Cars,USA,Medium
+1776,4242.0,2003-12-02,Shipped,Classic Cars,USA,Medium
+1777,2790.45,2004-01-22,Shipped,Classic Cars,UK,Small
+1778,4340.49,2004-03-02,Shipped,Classic Cars,France,Medium
+1779,2762.2,2004-04-13,Shipped,Classic Cars,France,Small
+1780,4645.72,2004-07-07,Shipped,Classic Cars,USA,Medium
+1781,5580.96,2004-08-09,Shipped,Classic Cars,Spain,Medium
+1782,6539.04,2004-09-01,Shipped,Classic Cars,Singapore,Medium
+1783,5548.95,2003-10-06,Shipped,Classic Cars,UK,Medium
+1784,4595.41,2004-10-16,Shipped,Classic Cars,Spain,Medium
+1785,1859.44,2004-11-17,Shipped,Classic Cars,UK,Small
+1786,2093.76,2004-11-29,Shipped,Classic Cars,USA,Small
+1787,4223.13,2005-01-19,Shipped,Classic Cars,USA,Medium
+1788,1596.76,2005-02-16,Shipped,Classic Cars,Spain,Small
+1789,5820.35,2005-04-22,On Hold,Classic Cars,USA,Medium
+1790,5296.5,2005-05-29,In Process,Classic Cars,Australia,Medium
+1791,930.9,2003-03-10,Shipped,Classic Cars,USA,Small
+1792,1207.44,2003-05-08,Shipped,Classic Cars,France,Small
+1793,717.4,2003-07-02,Shipped,Classic Cars,USA,Small
+1794,1066.75,2003-09-05,Shipped,Classic Cars,USA,Small
+1795,1554.0,2003-10-11,Shipped,Classic Cars,USA,Small
+1796,1277.64,2003-11-05,Shipped,Classic Cars,Canada,Small
+1797,1578.79,2003-11-12,Shipped,Classic Cars,Norway,Small
+1798,917.7,2003-11-20,Shipped,Classic Cars,USA,Small
+1799,777.0,2003-12-02,Shipped,Classic Cars,Spain,Small
+1800,1476.28,2004-01-16,Shipped,Classic Cars,Spain,Small
+1801,1538.46,2004-02-22,Shipped,Classic Cars,Switzerland,Small
+1802,891.2,2004-04-12,Shipped,Classic Cars,Finland,Small
+1803,1706.8,2004-06-01,Cancelled,Classic Cars,UK,Small
+1804,1373.6,2004-07-06,Shipped,Classic Cars,Italy,Small
+1805,1205.59,2004-08-06,Shipped,Classic Cars,USA,Small
+1806,1427.4,2004-08-30,Shipped,Classic Cars,Switzerland,Small
+1807,1649.28,2003-10-05,Shipped,Classic Cars,Norway,Small
+1808,1383.03,2004-10-16,Shipped,Classic Cars,Germany,Small
+1809,1229.51,2004-11-04,Shipped,Classic Cars,USA,Small
+1810,1140.48,2004-11-17,Shipped,Classic Cars,USA,Small
+1811,1575.6,2004-11-24,Shipped,Classic Cars,Australia,Small
+1812,1386.72,2004-12-07,Shipped,Classic Cars,Spain,Small
+1813,5018.4,2005-01-12,Resolved,Classic Cars,USA,Medium
+1814,5856.85,2005-02-10,Shipped,Classic Cars,Spain,Medium
+1815,4894.73,2005-03-04,Shipped,Classic Cars,USA,Medium
+1816,2094.32,2005-04-14,Shipped,Classic Cars,France,Small
+1817,640.05,2005-05-17,Shipped,Classic Cars,Austria,Small
+1818,3193.52,2003-02-11,Shipped,Vintage Cars,Denmark,Medium
+1819,3066.7,2003-04-28,Shipped,Vintage Cars,Austria,Medium
+1820,3883.11,2003-06-12,Shipped,Vintage Cars,UK,Medium
+1821,4814.25,2003-08-08,Shipped,Vintage Cars,USA,Medium
+1822,2826.27,2003-10-02,Shipped,Vintage Cars,USA,Small
+1823,1593.2,2003-10-23,Cancelled,Vintage Cars,Sweden,Small
+1824,3266.1,2003-11-07,Shipped,Vintage Cars,Spain,Medium
+1825,2453.55,2003-11-14,Shipped,Vintage Cars,USA,Small
+1826,3910.4,2003-11-26,Shipped,Vintage Cars,Spain,Medium
+1827,1788.0,2004-01-02,Shipped,Vintage Cars,France,Small
+1828,3328.07,2004-02-19,Shipped,Vintage Cars,USA,Medium
+1829,3788.4,2004-03-29,Shipped,Vintage Cars,USA,Medium
+1830,3053.7,2004-05-07,Cancelled,Vintage Cars,USA,Medium
+1831,2005.74,2004-06-17,Shipped,Vintage Cars,Canada,Small
+1832,2796.12,2004-07-21,Shipped,Vintage Cars,Belgium,Small
+1833,3159.96,2004-08-20,Shipped,Vintage Cars,Canada,Medium
+1834,3908.62,2004-09-10,Shipped,Vintage Cars,USA,Medium
+1835,2606.48,2004-10-14,Shipped,Vintage Cars,UK,Small
+1836,2081.76,2004-10-29,Shipped,Vintage Cars,France,Small
+1837,3519.85,2004-11-09,Shipped,Vintage Cars,Sweden,Medium
+1838,10758.0,2004-11-23,Shipped,Vintage Cars,Japan,Large
+1839,3021.0,2004-12-02,Shipped,Vintage Cars,Spain,Medium
+1840,1891.56,2005-01-31,Shipped,Vintage Cars,Finland,Small
+1841,4208.41,2005-02-23,Shipped,Vintage Cars,USA,Medium
+1842,2246.4,2005-03-23,Shipped,Vintage Cars,USA,Small
+1843,6107.4,2005-05-06,On Hold,Vintage Cars,USA,Medium
+1844,1987.74,2003-03-18,Shipped,Classic Cars,UK,Small
+1845,4068.96,2003-05-21,Shipped,Classic Cars,USA,Medium
+1846,2282.22,2003-09-11,Shipped,Classic Cars,Australia,Small
+1847,1541.0,2003-10-17,Shipped,Classic Cars,Denmark,Small
+1848,1951.92,2003-11-05,Shipped,Classic Cars,USA,Small
+1849,3107.61,2003-11-12,Shipped,Classic Cars,USA,Medium
+1850,2328.64,2003-11-20,Shipped,Classic Cars,USA,Small
+1851,3184.8,2003-12-02,Shipped,Classic Cars,USA,Medium
+1852,2149.74,2004-01-16,Shipped,Classic Cars,Spain,Small
+1853,3184.8,2004-03-02,Shipped,Classic Cars,France,Medium
+1854,2114.58,2004-04-13,Shipped,Classic Cars,France,Small
+1855,4256.56,2004-07-07,Shipped,Classic Cars,USA,Medium
+1856,2344.98,2004-08-09,Shipped,Classic Cars,Spain,Small
+1857,2328.66,2004-09-01,Shipped,Classic Cars,Singapore,Small
+1858,3575.04,2003-10-06,Shipped,Classic Cars,UK,Medium
+1859,2076.0,2004-10-16,Shipped,Classic Cars,Spain,Small
+1860,3305.25,2004-11-04,Shipped,Classic Cars,USA,Medium
+1861,1538.55,2004-11-17,Shipped,Classic Cars,UK,Small
+1862,3325.92,2004-11-29,Shipped,Classic Cars,USA,Medium
+1863,3662.52,2005-01-19,Shipped,Classic Cars,USA,Medium
+1864,3478.64,2005-02-16,Shipped,Classic Cars,Spain,Medium
+1865,1057.29,2005-04-22,On Hold,Classic Cars,USA,Small
+1866,3385.9,2005-05-29,In Process,Classic Cars,Australia,Medium
+1867,1892.1,2003-03-03,Shipped,Classic Cars,Philippines,Small
+1868,1707.14,2003-05-08,Shipped,Classic Cars,France,Small
+1869,1785.51,2003-07-02,Shipped,Classic Cars,USA,Small
+1870,2057.4,2003-09-05,Shipped,Classic Cars,USA,Small
+1871,3490.0,2003-10-10,Shipped,Classic Cars,USA,Medium
+1872,1707.14,2003-11-04,Shipped,Classic Cars,Australia,Small
+1873,1506.96,2003-11-12,Shipped,Classic Cars,Norway,Small
+1874,2880.48,2003-11-20,Shipped,Classic Cars,Germany,Small
+1875,2206.6,2003-12-02,Shipped,Classic Cars,Spain,Small
+1876,2351.04,2004-01-15,Shipped,Classic Cars,France,Small
+1877,1205.04,2004-02-22,Shipped,Classic Cars,Switzerland,Small
+1878,2935.15,2004-04-09,Shipped,Classic Cars,Denmark,Small
+1879,1263.84,2004-06-01,Cancelled,Classic Cars,UK,Small
+1880,2935.15,2004-07-06,Shipped,Classic Cars,Italy,Small
+1881,1224.6,2004-08-02,Shipped,Classic Cars,USA,Small
+1882,1359.4,2004-08-30,Shipped,Classic Cars,Switzerland,Small
+1883,1822.18,2003-10-04,Shipped,Classic Cars,Germany,Small
+1884,2163.72,2004-10-16,Shipped,Classic Cars,Germany,Small
+1885,1591.98,2004-11-03,Shipped,Classic Cars,Sweden,Small
+1886,3078.5,2004-11-17,Shipped,Classic Cars,USA,Medium
+1887,2997.6,2004-11-24,Shipped,Classic Cars,Australia,Small
+1888,2747.8,2004-12-07,Shipped,Classic Cars,Spain,Small
+1889,2447.76,2005-01-06,Shipped,Classic Cars,Finland,Small
+1890,1910.84,2005-02-10,Shipped,Classic Cars,Spain,Small
+1891,2430.64,2005-03-04,Shipped,Classic Cars,USA,Small
+1892,2896.3,2005-05-17,Shipped,Classic Cars,Austria,Small
+1893,1630.6,2003-02-17,Shipped,Vintage Cars,Italy,Small
+1894,1459.6,2003-04-28,Shipped,Vintage Cars,Austria,Small
+1895,1716.22,2003-06-16,Shipped,Vintage Cars,USA,Small
+1896,2560.47,2003-08-10,Shipped,Vintage Cars,USA,Small
+1897,1900.26,2003-10-06,Shipped,Vintage Cars,Finland,Small
+1898,2019.84,2003-10-23,Cancelled,Vintage Cars,Sweden,Small
+1899,1988.28,2003-11-08,Shipped,Vintage Cars,France,Small
+1900,1449.84,2003-11-14,Shipped,Vintage Cars,UK,Small
+1901,1935.09,2003-11-27,Shipped,Vintage Cars,Philippines,Small
+1902,2793.24,2004-01-09,Shipped,Vintage Cars,USA,Small
+1903,3025.05,2004-02-19,Shipped,Vintage Cars,USA,Medium
+1904,1742.5,2004-05-08,Shipped,Vintage Cars,USA,Small
+1905,3236.1,2004-06-24,Cancelled,Vintage Cars,Spain,Medium
+1906,1735.92,2004-07-21,Shipped,Vintage Cars,USA,Small
+1907,2795.13,2004-08-21,Shipped,Vintage Cars,Norway,Small
+1908,1671.52,2004-09-15,Shipped,Vintage Cars,Germany,Small
+1909,1576.74,2004-10-14,Shipped,Vintage Cars,USA,Small
+1910,3615.71,2004-11-01,Shipped,Vintage Cars,UK,Medium
+1911,1459.6,2004-11-12,Shipped,Vintage Cars,Italy,Small
+1912,2891.01,2004-11-23,Shipped,Vintage Cars,Japan,Small
+1913,2598.44,2004-12-03,Shipped,Vintage Cars,UK,Small
+1914,3871.92,2004-12-17,Shipped,Vintage Cars,Australia,Medium
+1915,3036.0,2005-01-31,Shipped,Vintage Cars,Finland,Medium
+1916,2231.6,2005-03-01,Resolved,Vintage Cars,Spain,Small
+1917,2436.78,2005-03-30,Shipped,Vintage Cars,France,Small
+1918,2173.6,2005-04-01,Shipped,Vintage Cars,USA,Small
+1919,1254.6,2005-05-09,Disputed,Vintage Cars,Australia,Small
+1920,3724.42,2003-03-18,Shipped,Classic Cars,UK,Medium
+1921,5203.0,2003-05-21,Shipped,Classic Cars,USA,Medium
+1922,3469.5,2003-09-11,Shipped,Classic Cars,Australia,Medium
+1923,3148.2,2003-10-17,Shipped,Classic Cars,Denmark,Medium
+1924,2167.22,2003-11-05,Shipped,Classic Cars,USA,Small
+1925,6244.07,2003-11-12,Shipped,Classic Cars,USA,Medium
+1926,5566.0,2003-11-20,Shipped,Classic Cars,USA,Medium
+1927,4368.96,2003-12-02,Shipped,Classic Cars,USA,Medium
+1928,4039.26,2004-01-16,Shipped,Classic Cars,Spain,Medium
+1929,4420.32,2004-02-26,Shipped,Classic Cars,USA,Medium
+1930,2341.71,2004-04-13,Shipped,Classic Cars,France,Small
+1931,5110.98,2004-07-07,Shipped,Classic Cars,USA,Medium
+1932,6168.0,2004-08-09,Shipped,Classic Cars,Spain,Medium
+1933,4873.26,2004-09-01,Shipped,Classic Cars,Singapore,Medium
+1934,2120.14,2003-10-05,Shipped,Classic Cars,Norway,Small
+1935,4236.14,2004-10-16,Shipped,Classic Cars,Spain,Medium
+1936,1888.95,2004-11-04,Shipped,Classic Cars,USA,Small
+1937,1152.58,2004-11-17,Shipped,Classic Cars,UK,Small
+1938,2492.88,2004-11-29,Shipped,Classic Cars,USA,Small
+1939,1991.6,2005-01-19,Shipped,Classic Cars,USA,Small
+1940,3953.18,2005-02-16,Shipped,Classic Cars,Spain,Medium
+1941,3729.39,2005-04-22,On Hold,Classic Cars,USA,Medium
+1942,2617.16,2005-05-29,In Process,Classic Cars,Australia,Small
+1943,3983.5,2003-02-11,Shipped,Vintage Cars,Denmark,Medium
+1944,3169.95,2003-04-28,Shipped,Vintage Cars,Austria,Medium
+1945,3899.5,2003-06-12,Shipped,Vintage Cars,UK,Medium
+1946,1851.73,2003-08-10,Shipped,Vintage Cars,USA,Small
+1947,2513.41,2003-10-06,Shipped,Vintage Cars,Finland,Small
+1948,2431.94,2003-10-23,Cancelled,Vintage Cars,Sweden,Small
+1949,1514.52,2003-11-08,Shipped,Vintage Cars,France,Small
+1950,3079.44,2003-11-14,Shipped,Vintage Cars,UK,Medium
+1951,1900.36,2003-11-26,Shipped,Vintage Cars,Spain,Small
+1952,1974.06,2004-01-09,Shipped,Vintage Cars,USA,Small
+1953,3703.46,2004-02-19,Shipped,Vintage Cars,USA,Medium
+1954,1755.13,2004-05-07,Cancelled,Vintage Cars,USA,Small
+1955,4273.29,2004-06-24,Cancelled,Vintage Cars,Spain,Medium
+1956,3984.96,2004-07-21,Shipped,Vintage Cars,Belgium,Medium
+1957,2407.68,2004-08-20,Shipped,Vintage Cars,Canada,Small
+1958,1697.3,2004-09-15,Shipped,Vintage Cars,Germany,Small
+1959,2011.02,2004-10-14,Shipped,Vintage Cars,USA,Small
+1960,2306.25,2004-11-01,Shipped,Vintage Cars,UK,Small
+1961,1845.0,2004-11-09,Shipped,Vintage Cars,Sweden,Small
+1962,2493.12,2004-11-23,Shipped,Vintage Cars,Japan,Small
+1963,1508.5,2004-12-02,Shipped,Vintage Cars,Spain,Small
+1964,2394.3,2005-01-31,Shipped,Vintage Cars,Finland,Small
+1965,3164.98,2005-02-28,Shipped,Vintage Cars,USA,Medium
+1966,3351.09,2005-03-23,Shipped,Vintage Cars,USA,Medium
+1967,3064.32,2005-04-01,Shipped,Vintage Cars,USA,Medium
+1968,3891.81,2005-05-06,On Hold,Vintage Cars,USA,Medium
+1969,5448.8,2003-03-03,Shipped,Classic Cars,Philippines,Medium
+1970,5494.97,2003-05-08,Shipped,Classic Cars,France,Medium
+1971,6336.07,2003-07-02,Shipped,Classic Cars,USA,Medium
+1972,2906.97,2003-09-05,Shipped,Classic Cars,USA,Small
+1973,4767.7,2003-10-11,Shipped,Classic Cars,USA,Medium
+1974,3819.56,2003-11-04,Shipped,Classic Cars,Austria,Medium
+1975,3861.75,2003-11-12,Shipped,Classic Cars,Norway,Medium
+1976,6319.35,2003-11-20,Shipped,Classic Cars,USA,Medium
+1977,6996.42,2003-12-02,Shipped,Classic Cars,Spain,Medium
+1978,6949.67,2004-01-16,Shipped,Classic Cars,Spain,Medium
+1979,4550.0,2004-02-22,Shipped,Classic Cars,Switzerland,Medium
+1980,4479.63,2004-04-12,Shipped,Classic Cars,Finland,Medium
+1981,5148.0,2004-06-01,Cancelled,Classic Cars,UK,Medium
+1982,2932.08,2004-07-06,Shipped,Classic Cars,Italy,Small
+1983,3159.75,2004-08-06,Shipped,Classic Cars,USA,Medium
+1984,4297.32,2004-08-30,Shipped,Classic Cars,Switzerland,Medium
+1985,7723.5,2003-10-05,Shipped,Classic Cars,Norway,Large
+1986,5497.65,2004-10-16,Shipped,Classic Cars,Germany,Medium
+1987,4052.88,2004-11-04,Shipped,Classic Cars,USA,Medium
+1988,3135.93,2004-11-17,Shipped,Classic Cars,USA,Medium
+1989,5013.54,2004-11-24,Shipped,Classic Cars,Australia,Medium
+1990,5302.72,2004-12-07,Shipped,Classic Cars,Spain,Medium
+1991,2931.98,2005-01-06,Shipped,Classic Cars,Finland,Small
+1992,1757.91,2005-02-10,Shipped,Classic Cars,Spain,Small
+1993,6763.05,2005-03-04,Shipped,Classic Cars,USA,Medium
+1994,11739.7,2005-04-14,Shipped,Classic Cars,France,Large
+1995,9240.0,2005-05-17,Shipped,Classic Cars,Austria,Large
+1996,3241.5,2003-02-17,Shipped,Planes,Italy,Medium
+1997,1968.12,2003-04-28,Shipped,Planes,Austria,Small
+1998,4094.5,2003-06-16,Shipped,Planes,USA,Medium
+1999,1853.32,2003-08-10,Shipped,Planes,USA,Small
+2000,3392.84,2003-10-06,Shipped,Planes,Finland,Medium
+2001,1971.54,2003-10-28,Shipped,Planes,USA,Small
+2002,2169.9,2003-11-08,Shipped,Planes,France,Small
+2003,2846.17,2003-11-27,Shipped,Planes,Philippines,Small
+2004,2018.4,2004-01-12,Shipped,Planes,Japan,Small
+2005,2718.72,2004-02-19,Shipped,Planes,USA,Small
+2006,1981.65,2004-04-02,Shipped,Planes,Canada,Small
+2007,3002.4,2004-05-11,Shipped,Planes,USA,Medium
+2008,2948.16,2004-06-24,Cancelled,Planes,Spain,Small
+2009,3357.49,2004-07-23,Shipped,Planes,France,Medium
+2010,1175.16,2004-08-21,Shipped,Planes,Norway,Small
+2011,2292.8,2004-09-15,Shipped,Planes,Germany,Small
+2012,3286.49,2004-10-15,Shipped,Planes,USA,Medium
+2013,2333.7,2004-11-01,Shipped,Planes,UK,Small
+2014,2675.05,2004-11-12,Shipped,Planes,Italy,Small
+2015,4361.4,2004-11-23,Shipped,Planes,Japan,Medium
+2016,2018.58,2004-12-03,Shipped,Planes,UK,Small
+2017,3710.98,2004-12-17,Shipped,Planes,Australia,Medium
+2018,2847.0,2005-01-31,Shipped,Planes,Finland,Small
+2019,3006.12,2005-03-01,Resolved,Planes,Spain,Medium
+2020,2797.84,2005-03-30,Shipped,Planes,France,Small
+2021,3843.2,2005-04-03,On Hold,Planes,USA,Medium
+2022,1351.08,2005-05-10,Shipped,Planes,Italy,Small
+2023,1689.03,2003-01-06,Shipped,Vintage Cars,USA,Small
+2024,1654.56,2003-03-18,Shipped,Vintage Cars,UK,Small
+2025,1528.58,2003-05-21,Shipped,Vintage Cars,USA,Small
+2026,1013.48,2003-09-12,Shipped,Vintage Cars,USA,Small
+2027,1442.26,2003-10-18,Shipped,Vintage Cars,USA,Small
+2028,1163.05,2003-11-05,Shipped,Vintage Cars,Italy,Small
+2029,971.98,2003-11-12,Shipped,Vintage Cars,USA,Small
+2030,902.66,2003-11-21,Shipped,Vintage Cars,Australia,Small
+2031,1295.97,2003-12-02,Shipped,Vintage Cars,USA,Small
+2032,1534.72,2004-01-26,Shipped,Vintage Cars,Spain,Small
+2033,1185.3,2004-03-02,Shipped,Vintage Cars,France,Small
+2034,1698.78,2004-04-20,Shipped,Vintage Cars,USA,Small
+2035,1381.05,2004-08-17,Shipped,Vintage Cars,Italy,Small
+2036,1340.46,2004-09-01,Shipped,Vintage Cars,Singapore,Small
+2037,965.04,2004-10-06,Shipped,Vintage Cars,Spain,Small
+2038,1093.99,2004-10-21,Shipped,Vintage Cars,USA,Small
+2039,3166.84,2004-11-17,Shipped,Vintage Cars,UK,Medium
+2040,2143.68,2004-11-29,Shipped,Vintage Cars,USA,Small
+2041,1717.64,2005-01-19,Shipped,Vintage Cars,USA,Small
+2042,4086.29,2005-02-16,Shipped,Vintage Cars,Spain,Medium
+2043,553.95,2005-04-22,Shipped,Vintage Cars,Japan,Small
+2044,652.35,2005-05-29,In Process,Vintage Cars,Australia,Small
+2045,2921.62,2003-01-31,Shipped,Classic Cars,Spain,Small
+2046,5568.64,2003-04-04,Shipped,Classic Cars,USA,Medium
+2047,1939.8,2003-06-03,Shipped,Classic Cars,USA,Small
+2048,3784.8,2003-08-01,Shipped,Classic Cars,Finland,Medium
+2049,2802.09,2003-09-25,Shipped,Classic Cars,Australia,Small
+2050,2384.64,2003-10-22,Shipped,Classic Cars,Singapore,Small
+2051,2915.66,2003-11-06,Shipped,Classic Cars,Italy,Small
+2052,5795.72,2003-11-14,Shipped,Classic Cars,Spain,Medium
+2053,3699.88,2003-11-25,Shipped,Classic Cars,USA,Medium
+2054,2980.6,2003-12-09,Shipped,Classic Cars,USA,Small
+2055,5032.74,2004-02-12,Shipped,Classic Cars,Ireland,Medium
+2056,4737.15,2004-03-15,Shipped,Classic Cars,Germany,Medium
+2057,6311.2,2004-05-05,Shipped,Classic Cars,Spain,Medium
+2058,3070.54,2004-07-20,Shipped,Classic Cars,USA,Medium
+2059,4797.39,2004-08-20,Shipped,Classic Cars,USA,Medium
+2060,3832.38,2004-09-08,Shipped,Classic Cars,USA,Medium
+2061,4641.48,2004-10-13,Shipped,Classic Cars,USA,Medium
+2062,4000.26,2004-10-22,Shipped,Classic Cars,Denmark,Medium
+2063,5325.76,2004-11-05,Shipped,Classic Cars,Norway,Medium
+2064,4618.69,2004-11-20,Shipped,Classic Cars,France,Medium
+2065,3182.97,2004-12-01,Shipped,Classic Cars,USA,Medium
+2066,2603.04,2004-12-15,Shipped,Classic Cars,France,Small
+2067,1408.96,2005-01-23,Shipped,Classic Cars,USA,Small
+2068,1972.11,2005-02-22,Shipped,Classic Cars,Spain,Small
+2069,5207.75,2005-03-15,Shipped,Classic Cars,Spain,Medium
+2070,4253.2,2005-05-03,Shipped,Classic Cars,Spain,Medium
+2071,2873.0,2003-01-29,Shipped,Vintage Cars,Norway,Small
+2072,2253.68,2003-03-25,Shipped,Vintage Cars,USA,Small
+2073,3576.12,2003-05-28,Shipped,Vintage Cars,Spain,Medium
+2074,3276.13,2003-07-16,Shipped,Vintage Cars,Australia,Medium
+2075,1811.4,2003-09-12,Shipped,Vintage Cars,USA,Small
+2076,3845.1,2003-10-20,Shipped,Vintage Cars,USA,Medium
+2077,2571.14,2003-11-05,Shipped,Vintage Cars,Italy,Small
+2078,5035.11,2003-11-13,Shipped,Vintage Cars,USA,Medium
+2079,2279.0,2003-11-21,Shipped,Vintage Cars,Australia,Small
+2080,3213.87,2003-12-05,Shipped,Vintage Cars,Canada,Medium
+2081,3532.23,2004-01-29,Shipped,Vintage Cars,USA,Medium
+2082,3406.59,2004-03-10,Shipped,Vintage Cars,USA,Medium
+2083,3467.2,2004-04-29,Shipped,Vintage Cars,Spain,Medium
+2084,3628.94,2004-06-14,Shipped,Vintage Cars,USA,Medium
+2085,4674.72,2004-07-16,Shipped,Vintage Cars,Austria,Medium
+2086,1656.69,2004-08-17,Shipped,Vintage Cars,Italy,Small
+2087,5171.4,2004-09-07,Shipped,Vintage Cars,USA,Medium
+2088,3342.57,2004-10-11,Shipped,Vintage Cars,France,Medium
+2089,4884.88,2004-10-21,Shipped,Vintage Cars,USA,Medium
+2090,6267.69,2004-11-05,Shipped,Vintage Cars,USA,Medium
+2091,4424.16,2004-11-18,Shipped,Vintage Cars,USA,Medium
+2092,1962.09,2004-11-01,Shipped,Vintage Cars,Spain,Small
+2093,6847.0,2004-12-10,Shipped,Vintage Cars,Spain,Medium
+2094,3476.8,2005-01-20,Shipped,Vintage Cars,USA,Medium
+2095,4592.61,2005-02-17,Shipped,Vintage Cars,USA,Medium
+2096,2208.92,2005-05-30,In Process,Vintage Cars,Belgium,Small
+2097,1657.76,2003-02-17,Shipped,Planes,Italy,Small
+2098,2479.21,2003-04-29,Shipped,Planes,Australia,Small
+2099,3565.92,2003-06-27,Shipped,Planes,Spain,Medium
+2100,2797.41,2003-08-25,Shipped,Planes,USA,Small
+2101,3756.0,2003-10-28,Shipped,Planes,USA,Medium
+2102,2840.0,2004-01-12,Shipped,Planes,Japan,Small
+2103,1716.26,2004-02-20,Shipped,Planes,Australia,Small
+2104,3245.6,2004-04-02,Shipped,Planes,Canada,Medium
+2105,2760.94,2004-05-11,Shipped,Planes,USA,Small
+2106,1808.4,2004-06-28,Shipped,Planes,USA,Small
+2107,1682.37,2004-07-23,Shipped,Planes,France,Small
+2108,1491.0,2004-08-21,Shipped,Planes,Norway,Small
+2109,1666.35,2004-09-16,Shipped,Planes,Ireland,Small
+2110,3666.08,2004-10-15,Shipped,Planes,USA,Medium
+2111,2916.2,2004-11-02,Shipped,Planes,USA,Small
+2112,2616.98,2004-11-12,Shipped,Planes,Italy,Small
+2113,3390.8,2004-11-24,Shipped,Planes,Spain,Medium
+2114,3146.5,2004-12-04,Shipped,Planes,USA,Medium
+2115,1561.5,2004-12-17,Shipped,Planes,Australia,Small
+2116,10039.6,2005-02-03,Shipped,Planes,France,Large
+2117,3167.0,2005-03-01,Resolved,Planes,Spain,Medium
+2118,3521.25,2005-03-30,Shipped,Planes,France,Medium
+2119,4219.28,2005-04-03,On Hold,Planes,USA,Medium
+2120,3581.76,2005-05-10,Shipped,Planes,Italy,Medium
+2121,2130.01,2003-03-03,Shipped,Classic Cars,Philippines,Small
+2122,2063.06,2003-05-08,Shipped,Classic Cars,France,Small
+2123,2008.13,2003-07-02,Shipped,Classic Cars,USA,Small
+2124,2004.77,2003-09-05,Shipped,Classic Cars,USA,Small
+2125,1543.3,2003-10-10,Shipped,Classic Cars,USA,Small
+2126,2269.92,2003-11-04,Shipped,Classic Cars,Australia,Small
+2127,1991.92,2003-11-11,Shipped,Classic Cars,France,Small
+2128,2916.76,2003-11-20,Shipped,Classic Cars,Germany,Small
+2129,2027.52,2004-01-15,Shipped,Classic Cars,France,Small
+2130,3235.18,2004-02-22,Shipped,Classic Cars,Switzerland,Medium
+2131,2062.94,2004-04-09,Shipped,Classic Cars,Denmark,Small
+2132,3317.78,2004-05-26,Shipped,Classic Cars,France,Medium
+2133,3913.69,2004-06-30,Shipped,Classic Cars,USA,Medium
+2134,3608.64,2004-08-02,Shipped,Classic Cars,USA,Medium
+2135,3524.8,2004-08-30,Shipped,Classic Cars,Switzerland,Medium
+2136,2586.88,2004-09-30,Shipped,Classic Cars,Finland,Small
+2137,4753.49,2004-10-16,Shipped,Classic Cars,Germany,Medium
+2138,3684.67,2004-11-03,Shipped,Classic Cars,USA,Medium
+2139,5715.4,2004-11-17,Shipped,Classic Cars,USA,Medium
+2140,3098.7,2004-11-24,Shipped,Classic Cars,France,Medium
+2141,2670.92,2004-12-07,Shipped,Classic Cars,Spain,Small
+2142,5154.41,2005-01-06,Shipped,Classic Cars,Finland,Medium
+2143,4894.17,2005-02-10,Shipped,Classic Cars,Spain,Medium
+2144,2472.6,2005-03-04,Shipped,Classic Cars,USA,Small
+2145,3224.31,2003-01-29,Shipped,Trucks and Buses,Norway,Medium
+2146,3667.52,2003-04-01,Shipped,Trucks and Buses,France,Medium
+2147,4141.33,2003-05-28,Shipped,Trucks and Buses,Spain,Medium
+2148,2829.58,2003-07-24,Shipped,Trucks and Buses,USA,Small
+2149,3068.55,2003-09-21,Shipped,Trucks and Buses,Finland,Medium
+2150,2634.96,2003-10-21,Resolved,Trucks and Buses,Austria,Small
+2151,2436.72,2003-11-06,Shipped,Trucks and Buses,UK,Small
+2152,4607.36,2003-11-14,Shipped,Trucks and Buses,Spain,Medium
+2153,3598.99,2003-11-25,Shipped,Trucks and Buses,France,Medium
+2154,3964.1,2003-12-09,Shipped,Trucks and Buses,USA,Medium
+2155,2244.9,2004-02-04,Shipped,Trucks and Buses,Singapore,Small
+2156,2793.0,2004-03-11,Shipped,Trucks and Buses,USA,Small
+2157,4133.64,2004-05-04,Shipped,Trucks and Buses,USA,Medium
+2158,3900.6,2004-06-15,Shipped,Trucks and Buses,Singapore,Medium
+2159,2743.04,2004-07-19,Shipped,Trucks and Buses,Australia,Small
+2160,2402.07,2004-08-19,Shipped,Trucks and Buses,USA,Small
+2161,2178.54,2004-09-08,Shipped,Trucks and Buses,Sweden,Small
+2162,3155.04,2004-10-13,Shipped,Trucks and Buses,USA,Medium
+2163,2366.28,2004-10-22,Shipped,Trucks and Buses,Canada,Small
+2164,1963.6,2004-11-05,Shipped,Trucks and Buses,USA,Small
+2165,4746.28,2004-11-19,Shipped,Trucks and Buses,USA,Medium
+2166,6386.94,2004-11-01,Shipped,Trucks and Buses,Spain,Medium
+2167,4428.0,2004-12-10,Shipped,Trucks and Buses,Spain,Medium
+2168,4044.04,2005-01-23,Shipped,Trucks and Buses,USA,Medium
+2169,2708.42,2005-02-17,Shipped,Trucks and Buses,USA,Small
+2170,2904.72,2005-05-01,Shipped,Trucks and Buses,Canada,Small
+2171,3553.88,2005-05-31,In Process,Trucks and Buses,France,Medium
+2172,1858.0,2003-02-24,Shipped,Motorcycles,USA,Small
+2173,2461.36,2003-04-29,Shipped,Motorcycles,Australia,Small
+2174,2642.01,2003-06-27,Shipped,Motorcycles,Spain,Small
+2175,3098.7,2003-08-25,Shipped,Motorcycles,USA,Medium
+2176,3244.36,2003-10-28,Shipped,Motorcycles,USA,Medium
+2177,4351.16,2003-11-18,Shipped,Motorcycles,Norway,Medium
+2178,3675.86,2004-01-12,Shipped,Motorcycles,Japan,Medium
+2179,2475.27,2004-02-20,Shipped,Motorcycles,Australia,Small
+2180,4177.49,2004-04-02,Shipped,Motorcycles,Canada,Medium
+2181,3282.28,2004-05-11,Shipped,Motorcycles,USA,Medium
+2182,2477.21,2004-06-28,Shipped,Motorcycles,USA,Small
+2183,1883.93,2004-07-23,Shipped,Motorcycles,France,Small
+2184,3658.93,2004-08-27,Shipped,Motorcycles,USA,Medium
+2185,2856.88,2004-09-16,Shipped,Motorcycles,Ireland,Small
+2186,1917.84,2004-10-15,Shipped,Motorcycles,USA,Small
+2187,5305.36,2004-11-02,Shipped,Motorcycles,USA,Medium
+2188,2875.95,2004-11-15,Shipped,Motorcycles,USA,Small
+2189,6482.85,2004-11-24,Shipped,Motorcycles,Spain,Medium
+2190,3733.82,2004-12-04,Shipped,Motorcycles,USA,Medium
+2191,6576.5,2005-01-06,Shipped,Motorcycles,Finland,Medium
+2192,6353.27,2005-02-03,Shipped,Motorcycles,France,Medium
+2193,4175.6,2005-03-02,Shipped,Motorcycles,Singapore,Medium
+2194,4992.61,2005-04-03,On Hold,Motorcycles,USA,Medium
+2195,4764.6,2005-05-10,Shipped,Motorcycles,Italy,Medium
+2196,1173.15,2003-03-03,Shipped,Motorcycles,Philippines,Small
+2197,1384.46,2003-05-08,Shipped,Motorcycles,France,Small
+2198,1327.59,2003-07-02,Shipped,Motorcycles,USA,Small
+2199,1109.8,2003-08-25,Shipped,Motorcycles,USA,Small
+2200,1239.0,2003-10-10,Shipped,Motorcycles,USA,Small
+2201,1035.58,2003-11-04,Shipped,Motorcycles,Australia,Small
+2202,1545.64,2003-11-11,Shipped,Motorcycles,France,Small
+2203,1517.54,2003-11-19,Shipped,Motorcycles,Spain,Small
+2204,1731.84,2004-01-15,Shipped,Motorcycles,France,Small
+2205,1695.49,2004-02-21,Shipped,Motorcycles,France,Small
+2206,1045.98,2004-04-05,Shipped,Motorcycles,USA,Small
+2207,1738.08,2004-05-26,Shipped,Motorcycles,France,Small
+2208,651.8,2004-06-30,Shipped,Motorcycles,USA,Small
+2209,988.47,2004-08-02,Shipped,Motorcycles,USA,Small
+2210,1518.11,2004-08-27,Shipped,Motorcycles,USA,Small
+2211,1013.76,2004-09-30,Shipped,Motorcycles,Finland,Small
+2212,1549.8,2004-10-16,Shipped,Motorcycles,Germany,Small
+2213,1108.38,2004-11-03,Shipped,Motorcycles,USA,Small
+2214,4102.56,2004-11-17,Shipped,Motorcycles,USA,Medium
+2215,3713.16,2004-11-24,Shipped,Motorcycles,France,Medium
+2216,1513.54,2004-12-07,Shipped,Motorcycles,Spain,Small
+2217,2317.44,2005-01-06,Shipped,Motorcycles,France,Small
+2218,3298.4,2005-02-10,Shipped,Motorcycles,Spain,Medium
+2219,1826.96,2005-03-04,Shipped,Motorcycles,USA,Small
+2220,1206.9,2005-04-08,Shipped,Motorcycles,UK,Small
+2221,1666.7,2003-01-31,Shipped,Trucks and Buses,Spain,Small
+2222,1560.44,2003-04-01,Shipped,Trucks and Buses,France,Small
+2223,2337.75,2003-06-03,Shipped,Trucks and Buses,USA,Small
+2224,1103.76,2003-08-01,Shipped,Trucks and Buses,Finland,Small
+2225,2617.85,2003-09-21,Shipped,Trucks and Buses,Finland,Small
+2226,2207.52,2003-10-22,Shipped,Trucks and Buses,Singapore,Small
+2227,3165.5,2003-11-06,Shipped,Trucks and Buses,UK,Medium
+2228,2071.41,2003-11-14,Shipped,Trucks and Buses,Spain,Small
+2229,1385.28,2003-11-25,Shipped,Trucks and Buses,USA,Small
+2230,1621.62,2003-12-09,Shipped,Trucks and Buses,USA,Small
+2231,1931.65,2004-02-10,Shipped,Trucks and Buses,USA,Small
+2232,1244.53,2004-03-11,Shipped,Trucks and Buses,USA,Small
+2233,1704.5,2004-05-05,Shipped,Trucks and Buses,Spain,Small
+2234,1753.2,2004-06-15,Shipped,Trucks and Buses,Singapore,Small
+2235,1666.7,2004-07-20,Shipped,Trucks and Buses,USA,Small
+2236,1710.89,2004-08-19,Shipped,Trucks and Buses,USA,Small
+2237,2326.5,2004-09-08,Shipped,Trucks and Buses,USA,Small
+2238,2316.0,2004-10-13,Shipped,Trucks and Buses,USA,Small
+2239,1727.1,2004-10-22,Shipped,Trucks and Buses,Canada,Small
+2240,8844.12,2004-11-05,Shipped,Trucks and Buses,Norway,Large
+2241,2424.0,2004-11-19,Shipped,Trucks and Buses,USA,Small
+2242,1535.49,2004-12-01,Shipped,Trucks and Buses,USA,Small
+2243,6358.68,2004-12-15,Shipped,Trucks and Buses,France,Medium
+2244,1329.4,2005-01-23,Shipped,Trucks and Buses,USA,Small
+2245,1701.76,2005-02-22,Shipped,Trucks and Buses,Spain,Small
+2246,2259.72,2005-03-15,Shipped,Trucks and Buses,Spain,Small
+2247,925.3,2005-05-03,Shipped,Trucks and Buses,Spain,Small
+2248,482.13,2005-05-31,In Process,Trucks and Buses,France,Small
+2249,3227.63,2003-01-31,Shipped,Trains,Spain,Medium
+2250,1711.26,2003-04-11,Shipped,Trains,Belgium,Small
+2251,2054.36,2003-06-03,Shipped,Trains,USA,Small
+2252,3131.94,2003-08-08,Shipped,Trains,USA,Medium
+2253,1681.35,2003-09-25,Shipped,Trains,Australia,Small
+2254,2351.36,2003-10-22,Shipped,Trains,Singapore,Small
+2255,1408.0,2003-11-06,Shipped,Trains,Italy,Small
+2256,2445.6,2003-11-14,Shipped,Trains,Spain,Small
+2257,1804.44,2003-11-25,Shipped,Trains,USA,Small
+2258,2544.75,2003-12-09,Shipped,Trains,USA,Small
+2259,1056.4,2004-02-12,Shipped,Trains,Ireland,Small
+2260,2801.4,2004-03-15,Shipped,Trains,Germany,Small
+2261,1988.4,2004-05-05,Shipped,Trains,Finland,Small
+2262,2908.35,2004-07-20,Shipped,Trains,USA,Small
+2263,2147.4,2004-08-20,Shipped,Trains,USA,Small
+2264,2099.63,2004-09-08,Shipped,Trains,USA,Small
+2265,2315.18,2004-10-14,Shipped,Trains,UK,Small
+2266,2327.15,2004-10-22,Shipped,Trains,Denmark,Small
+2267,5377.4,2004-11-05,Shipped,Trains,Norway,Medium
+2268,2626.01,2004-11-20,Shipped,Trains,France,Small
+2269,4406.4,2004-12-02,Shipped,Trains,Spain,Medium
+2270,4301.22,2004-12-15,Shipped,Trains,France,Medium
+2271,2986.5,2005-01-23,Shipped,Trains,USA,Small
+2272,1587.08,2005-02-22,Shipped,Trains,Spain,Small
+2273,1808.4,2005-03-15,Shipped,Trains,Spain,Small
+2274,1193.04,2005-05-05,Shipped,Trains,USA,Small
+2275,3403.35,2003-01-29,Shipped,Trucks and Buses,Norway,Medium
+2276,1575.96,2003-03-26,Shipped,Trucks and Buses,USA,Small
+2277,1630.2,2003-05-28,Shipped,Trucks and Buses,Spain,Small
+2278,1701.28,2003-07-24,Shipped,Trucks and Buses,USA,Small
+2279,2850.82,2003-09-19,Shipped,Trucks and Buses,Singapore,Small
+2280,2692.06,2003-10-21,Resolved,Trucks and Buses,Austria,Small
+2281,2174.42,2003-11-06,Shipped,Trucks and Buses,UK,Small
+2282,3167.36,2003-11-13,Shipped,Trucks and Buses,USA,Medium
+2283,2142.66,2003-11-25,Shipped,Trucks and Buses,France,Small
+2284,2117.52,2003-12-05,Shipped,Trucks and Buses,Canada,Small
+2285,2419.95,2004-02-04,Shipped,Trucks and Buses,Singapore,Small
+2286,2191.2,2004-03-11,Shipped,Trucks and Buses,USA,Small
+2287,3043.04,2004-05-04,Shipped,Trucks and Buses,USA,Medium
+2288,1228.2,2004-06-15,Shipped,Trucks and Buses,Japan,Small
+2289,1330.35,2004-07-19,Shipped,Trucks and Buses,Australia,Small
+2290,2792.52,2004-08-19,Shipped,Trucks and Buses,USA,Small
+2291,2296.0,2004-09-08,Shipped,Trucks and Buses,Sweden,Small
+2292,2629.44,2004-10-11,Shipped,Trucks and Buses,France,Small
+2293,1912.16,2004-10-22,Shipped,Trucks and Buses,Canada,Small
+2294,8209.44,2004-11-05,Shipped,Trucks and Buses,USA,Large
+2295,2431.77,2004-11-18,Shipped,Trucks and Buses,USA,Small
+2296,3139.99,2004-11-01,Shipped,Trucks and Buses,Spain,Medium
+2297,5669.64,2004-12-10,Shipped,Trucks and Buses,Spain,Medium
+2298,3160.25,2005-01-20,Shipped,Trucks and Buses,Australia,Medium
+2299,6799.68,2005-02-17,Shipped,Trucks and Buses,USA,Medium
+2300,1867.32,2005-05-01,Shipped,Trucks and Buses,Canada,Small
+2301,2702.04,2005-05-31,In Process,Trucks and Buses,Spain,Small
+2302,2406.36,2003-02-17,Shipped,Vintage Cars,Italy,Small
+2303,2094.67,2003-04-29,Shipped,Vintage Cars,Australia,Small
+2304,2797.9,2003-06-27,Shipped,Vintage Cars,Spain,Small
+2305,1637.2,2003-08-13,Shipped,Vintage Cars,Belgium,Small
+2306,2281.91,2003-10-28,Shipped,Vintage Cars,USA,Small
+2307,2307.24,2004-01-12,Shipped,Vintage Cars,Japan,Small
+2308,1320.8,2004-02-20,Shipped,Vintage Cars,Australia,Small
+2309,2642.82,2004-04-02,Shipped,Vintage Cars,Canada,Small
+2310,3061.0,2004-05-11,Shipped,Vintage Cars,USA,Medium
+2311,3164.4,2004-06-24,Cancelled,Vintage Cars,Spain,Medium
+2312,1791.16,2004-07-23,Shipped,Vintage Cars,France,Small
+2313,4093.0,2004-08-21,Shipped,Vintage Cars,Norway,Medium
+2314,2234.4,2004-09-16,Shipped,Vintage Cars,Ireland,Small
+2315,3037.84,2004-10-15,Shipped,Vintage Cars,USA,Medium
+2316,1419.84,2004-11-01,Shipped,Vintage Cars,UK,Small
+2317,1948.08,2004-11-12,Shipped,Vintage Cars,Italy,Small
+2318,2307.24,2004-11-24,Shipped,Vintage Cars,Spain,Small
+2319,1780.4,2004-12-04,Shipped,Vintage Cars,USA,Small
+2320,3544.17,2004-12-17,Shipped,Vintage Cars,Australia,Medium
+2321,3619.44,2005-02-03,Shipped,Vintage Cars,France,Medium
+2322,3918.95,2005-03-03,Shipped,Vintage Cars,USA,Medium
+2323,1483.02,2005-03-30,Shipped,Vintage Cars,France,Small
+2324,4819.26,2005-04-03,On Hold,Vintage Cars,USA,Medium
+2325,1591.72,2005-05-10,Shipped,Vintage Cars,Italy,Small
+2326,3669.78,2003-03-03,Shipped,Motorcycles,Philippines,Medium
+2327,2168.5,2003-05-07,Shipped,Motorcycles,France,Small
+2328,2694.0,2003-07-02,Shipped,Motorcycles,USA,Small
+2329,3251.34,2003-08-25,Shipped,Motorcycles,USA,Medium
+2330,2347.15,2003-10-10,Shipped,Motorcycles,USA,Small
+2331,3920.88,2003-11-04,Shipped,Motorcycles,Australia,Medium
+2332,2514.6,2003-11-11,Shipped,Motorcycles,France,Small
+2333,3600.24,2003-11-19,Shipped,Motorcycles,Spain,Medium
+2334,4040.03,2004-01-15,Shipped,Motorcycles,France,Medium
+2335,3336.9,2004-02-21,Shipped,Motorcycles,France,Medium
+2336,3113.64,2004-04-05,Shipped,Motorcycles,USA,Medium
+2337,2832.0,2004-05-26,Shipped,Motorcycles,France,Small
+2338,3330.98,2004-06-30,Shipped,Motorcycles,USA,Medium
+2339,4304.64,2004-08-02,Shipped,Motorcycles,USA,Medium
+2340,2600.26,2004-08-27,Shipped,Motorcycles,USA,Small
+2341,4382.16,2004-09-30,Shipped,Motorcycles,Finland,Medium
+2342,4235.0,2004-10-15,Shipped,Motorcycles,Norway,Medium
+2343,2626.8,2004-11-03,Shipped,Motorcycles,USA,Small
+2344,5026.56,2004-11-17,Shipped,Motorcycles,USA,Medium
+2345,2201.62,2004-11-24,Shipped,Motorcycles,Austria,Small
+2346,4326.8,2004-12-07,Shipped,Motorcycles,Spain,Medium
+2347,3425.18,2005-01-07,Shipped,Motorcycles,USA,Medium
+2348,4701.88,2005-02-03,Shipped,Motorcycles,France,Medium
+2349,2204.1,2005-03-04,Shipped,Motorcycles,USA,Small
+2350,5189.4,2005-04-08,Shipped,Motorcycles,UK,Medium
+2351,1565.85,2003-02-17,Shipped,Vintage Cars,Italy,Small
+2352,2480.38,2003-04-29,Shipped,Vintage Cars,Australia,Small
+2353,1355.13,2003-06-27,Shipped,Vintage Cars,Spain,Small
+2354,1246.44,2003-08-10,Shipped,Vintage Cars,USA,Small
+2355,820.4,2003-10-08,Shipped,Vintage Cars,Spain,Small
+2356,2492.64,2003-10-28,Shipped,Vintage Cars,USA,Small
+2357,1113.6,2003-12-01,Shipped,Vintage Cars,USA,Small
+2358,1763.86,2004-01-12,Shipped,Vintage Cars,Japan,Small
+2359,1896.66,2004-02-20,Shipped,Vintage Cars,Australia,Small
+2360,1449.35,2004-04-02,Shipped,Vintage Cars,Canada,Small
+2361,1869.48,2004-05-11,Shipped,Vintage Cars,USA,Small
+2362,1860.53,2004-06-24,Cancelled,Vintage Cars,Spain,Small
+2363,1724.82,2004-07-23,Shipped,Vintage Cars,France,Small
+2364,1713.69,2004-08-21,Shipped,Vintage Cars,Norway,Small
+2365,1259.44,2004-09-15,Shipped,Vintage Cars,Germany,Small
+2366,2051.08,2004-10-15,Shipped,Vintage Cars,USA,Small
+2367,1617.38,2004-11-01,Shipped,Vintage Cars,UK,Small
+2368,1765.62,2004-11-12,Shipped,Vintage Cars,Italy,Small
+2369,2024.8,2004-11-24,Shipped,Vintage Cars,Spain,Small
+2370,3288.4,2004-12-04,Shipped,Vintage Cars,USA,Medium
+2371,2725.47,2004-12-17,Shipped,Vintage Cars,Australia,Small
+2372,3224.2,2005-02-03,Shipped,Vintage Cars,France,Medium
+2373,3211.38,2005-03-03,Shipped,Vintage Cars,USA,Medium
+2374,1796.34,2005-03-30,Shipped,Vintage Cars,France,Small
+2375,1979.6,2005-04-03,On Hold,Vintage Cars,USA,Small
+2376,1921.41,2005-05-10,Shipped,Vintage Cars,Italy,Small
+2377,3705.24,2003-01-31,Shipped,Trucks and Buses,Spain,Medium
+2378,2843.91,2003-04-04,Shipped,Trucks and Buses,USA,Small
+2379,6176.42,2003-06-03,Shipped,Trucks and Buses,USA,Medium
+2380,5500.44,2003-08-01,Shipped,Trucks and Buses,Finland,Medium
+2381,3220.1,2003-09-21,Shipped,Trucks and Buses,Finland,Medium
+2382,4556.16,2003-10-22,Shipped,Trucks and Buses,Singapore,Medium
+2383,3114.89,2003-11-06,Shipped,Trucks and Buses,Italy,Medium
+2384,4948.2,2003-11-14,Shipped,Trucks and Buses,Spain,Medium
+2385,5161.17,2003-11-25,Shipped,Trucks and Buses,USA,Medium
+2386,2657.76,2003-12-09,Shipped,Trucks and Buses,USA,Small
+2387,3983.05,2004-02-12,Shipped,Trucks and Buses,Ireland,Medium
+2388,3974.94,2004-03-15,Shipped,Trucks and Buses,Germany,Medium
+2389,2928.42,2004-05-05,Shipped,Trucks and Buses,Spain,Small
+2390,3054.57,2004-06-15,Shipped,Trucks and Buses,Singapore,Medium
+2391,3345.26,2004-07-20,Shipped,Trucks and Buses,USA,Medium
+2392,4310.72,2004-08-20,Shipped,Trucks and Buses,USA,Medium
+2393,4983.14,2004-09-08,Shipped,Trucks and Buses,USA,Medium
+2394,4618.32,2004-10-13,Shipped,Trucks and Buses,USA,Medium
+2395,3403.12,2004-10-22,Shipped,Trucks and Buses,Denmark,Medium
+2396,5190.42,2004-11-05,Shipped,Trucks and Buses,Norway,Medium
+2397,3141.57,2004-11-20,Shipped,Trucks and Buses,France,Medium
+2398,2213.4,2004-12-02,Shipped,Trucks and Buses,Spain,Small
+2399,4896.7,2004-12-15,Shipped,Trucks and Buses,France,Medium
+2400,2714.4,2005-01-23,Shipped,Trucks and Buses,USA,Small
+2401,3087.05,2005-02-22,Shipped,Trucks and Buses,Spain,Medium
+2402,5692.96,2005-03-17,Shipped,Trucks and Buses,France,Medium
+2403,3460.86,2005-05-03,Shipped,Trucks and Buses,Spain,Medium
+2404,1895.94,2005-05-31,In Process,Trucks and Buses,France,Small
+2405,1705.92,2003-01-31,Shipped,Trains,Spain,Small
+2406,1033.41,2003-04-16,Shipped,Trains,Singapore,Small
+2407,3179.52,2003-06-03,Shipped,Trains,USA,Medium
+2408,2091.18,2003-08-08,Shipped,Trains,USA,Small
+2409,1779.71,2003-09-28,Shipped,Trains,Spain,Small
+2410,2537.64,2003-10-22,Shipped,Trains,Singapore,Small
+2411,2448.72,2003-11-06,Shipped,Trains,Italy,Small
+2412,972.4,2003-11-14,Shipped,Trains,USA,Small
+2413,2856.14,2003-11-26,Shipped,Trains,USA,Small
+2414,1968.3,2004-01-02,Shipped,Trains,France,Small
+2415,2056.2,2004-02-12,Shipped,Trains,Ireland,Small
+2416,2242.02,2004-03-15,Shipped,Trains,Germany,Small
+2417,3128.65,2004-05-05,Shipped,Trains,Finland,Medium
+2418,2443.26,2004-07-20,Shipped,Trains,USA,Small
+2419,2470.86,2004-08-20,Shipped,Trains,USA,Small
+2420,1927.45,2004-09-08,Shipped,Trains,USA,Small
+2421,2051.56,2004-10-14,Shipped,Trains,UK,Small
+2422,2337.38,2004-10-22,Shipped,Trains,Denmark,Small
+2423,5932.96,2004-11-05,Shipped,Trains,Norway,Medium
+2424,2296.77,2004-11-21,Shipped,Trains,USA,Small
+2425,6490.88,2004-12-02,Shipped,Trains,Spain,Medium
+2426,1623.25,2004-12-15,Shipped,Trains,France,Small
+2427,1405.92,2005-01-26,Shipped,Trains,Japan,Small
+2428,2282.28,2005-02-22,Shipped,Trains,Spain,Small
+2429,8977.05,2005-03-17,Shipped,Trains,France,Large
+2430,3256.35,2005-05-05,Shipped,Trains,USA,Medium
+2431,2821.66,2003-03-03,Shipped,Motorcycles,Philippines,Small
+2432,3293.4,2003-05-07,Shipped,Motorcycles,France,Medium
+2433,4224.0,2003-07-02,Shipped,Motorcycles,USA,Medium
+2434,3091.68,2003-08-25,Shipped,Motorcycles,USA,Medium
+2435,2219.6,2003-10-10,Shipped,Motorcycles,USA,Small
+2436,3866.4,2003-11-04,Shipped,Motorcycles,Australia,Medium
+2437,1964.76,2003-11-11,Shipped,Motorcycles,France,Small
+2438,2668.8,2003-11-19,Shipped,Motorcycles,Spain,Small
+2439,3222.0,2004-01-15,Shipped,Motorcycles,France,Medium
+2440,3864.5,2004-02-21,Shipped,Motorcycles,France,Medium
+2441,1366.8,2004-04-05,Shipped,Motorcycles,USA,Small
+2442,3475.68,2004-05-26,Shipped,Motorcycles,France,Medium
+2443,4206.5,2004-06-30,Shipped,Motorcycles,USA,Medium
+2444,1486.38,2004-08-02,Shipped,Motorcycles,USA,Small
+2445,3077.88,2004-08-27,Shipped,Motorcycles,USA,Medium
+2446,3544.2,2004-09-30,Shipped,Motorcycles,Finland,Medium
+2447,2483.04,2004-10-15,Shipped,Motorcycles,Norway,Small
+2448,3478.05,2004-11-03,Shipped,Motorcycles,USA,Medium
+2449,3657.8,2004-11-17,Shipped,Motorcycles,USA,Medium
+2450,4682.36,2004-11-24,Shipped,Motorcycles,Austria,Medium
+2451,3937.7,2004-12-09,Shipped,Motorcycles,France,Medium
+2452,4984.32,2005-01-07,Shipped,Motorcycles,USA,Medium
+2453,5406.66,2005-02-03,Shipped,Motorcycles,France,Medium
+2454,3491.18,2005-03-04,Shipped,Motorcycles,USA,Medium
+2455,2118.54,2005-04-08,Shipped,Motorcycles,UK,Small
+2456,2897.47,2003-02-11,Shipped,Ships,Denmark,Small
+2457,1916.75,2003-04-28,Shipped,Ships,Austria,Small
+2458,1860.0,2003-06-12,Shipped,Ships,UK,Small
+2459,2624.0,2003-08-08,Shipped,Ships,USA,Small
+2460,2780.81,2003-09-28,Shipped,Ships,Spain,Small
+2461,3239.62,2003-10-23,Cancelled,Ships,Sweden,Medium
+2462,1824.0,2003-11-07,Shipped,Ships,Spain,Small
+2463,1134.0,2003-11-14,Shipped,Ships,USA,Small
+2464,1487.41,2003-11-26,Shipped,Ships,Spain,Small
+2465,2837.46,2004-01-02,Shipped,Ships,France,Small
+2466,1942.77,2004-02-19,Shipped,Ships,USA,Small
+2467,2544.12,2004-03-29,Shipped,Ships,USA,Small
+2468,2568.24,2004-05-07,Cancelled,Ships,USA,Small
+2469,2108.0,2004-06-17,Shipped,Ships,Canada,Small
+2470,1372.14,2004-07-21,Shipped,Ships,Belgium,Small
+2471,3540.15,2004-08-20,Shipped,Ships,Canada,Medium
+2472,1958.84,2004-09-10,Shipped,Ships,USA,Small
+2473,2700.0,2004-10-14,Shipped,Ships,UK,Small
+2474,2542.0,2004-10-29,Shipped,Ships,France,Small
+2475,2340.0,2004-11-09,Shipped,Ships,Sweden,Small
+2476,2816.44,2004-11-23,Shipped,Ships,Japan,Small
+2477,3526.82,2004-12-02,Shipped,Ships,Spain,Medium
+2478,4627.92,2005-01-31,Shipped,Ships,Finland,Medium
+2479,1933.5,2005-02-28,Shipped,Ships,USA,Small
+2480,2600.13,2005-03-23,Shipped,Ships,USA,Small
+2481,2639.58,2005-05-06,On Hold,Ships,USA,Small
+2482,3312.97,2003-02-17,Shipped,Planes,Italy,Medium
+2483,3863.87,2003-04-29,Shipped,Planes,Australia,Medium
+2484,1863.36,2003-06-27,Shipped,Planes,Spain,Small
+2485,3945.96,2003-08-10,Shipped,Planes,USA,Medium
+2486,4954.08,2003-10-08,Shipped,Planes,Spain,Medium
+2487,2762.2,2003-10-28,Shipped,Planes,USA,Small
+2488,3989.76,2003-12-01,Shipped,Planes,USA,Medium
+2489,1649.55,2004-01-12,Shipped,Planes,Japan,Small
+2490,2534.75,2004-02-20,Shipped,Planes,Australia,Small
+2491,2580.25,2004-04-02,Shipped,Planes,Canada,Small
+2492,2831.54,2004-05-11,Shipped,Planes,USA,Small
+2493,3361.2,2004-06-24,Cancelled,Planes,Spain,Medium
+2494,2864.32,2004-07-23,Shipped,Planes,France,Small
+2495,1994.88,2004-08-21,Shipped,Planes,Norway,Small
+2496,4296.6,2004-09-15,Shipped,Planes,Germany,Medium
+2497,2224.95,2004-10-15,Shipped,Planes,USA,Small
+2498,2795.14,2004-11-01,Shipped,Planes,UK,Small
+2499,2762.1,2004-11-12,Shipped,Planes,Italy,Small
+2500,2658.0,2004-11-24,Shipped,Planes,Spain,Small
+2501,5043.87,2004-12-04,Shipped,Planes,USA,Medium
+2502,1210.8,2004-12-17,Shipped,Planes,Australia,Small
+2503,3029.19,2005-02-03,Shipped,Planes,France,Medium
+2504,10066.6,2005-03-03,Shipped,Planes,USA,Large
+2505,4121.43,2005-03-30,Shipped,Planes,France,Medium
+2506,1135.31,2005-04-03,On Hold,Planes,USA,Small
+2507,2100.82,2005-05-10,Shipped,Planes,Italy,Small
+2508,2034.35,2003-02-11,Shipped,Ships,Denmark,Small
+2509,3027.84,2003-04-16,Shipped,Ships,Singapore,Medium
+2510,3104.0,2003-06-06,Shipped,Ships,Spain,Medium
+2511,3612.43,2003-08-08,Shipped,Ships,USA,Medium
+2512,2711.88,2003-09-28,Shipped,Ships,Spain,Small
+2513,3013.97,2003-10-21,Shipped,Ships,USA,Medium
+2514,2738.54,2003-11-07,Shipped,Ships,Spain,Small
+2515,2832.0,2003-11-14,Shipped,Ships,USA,Small
+2516,4720.0,2003-11-26,Shipped,Ships,USA,Medium
+2517,3222.0,2004-01-02,Shipped,Ships,France,Medium
+2518,2231.0,2004-02-18,Shipped,Ships,Belgium,Small
+2519,2296.84,2004-03-20,Shipped,Ships,UK,Small
+2520,4157.2,2004-05-07,Cancelled,Ships,USA,Medium
+2521,2146.2,2004-07-21,Shipped,Ships,Belgium,Small
+2522,3724.23,2004-08-20,Shipped,Ships,USA,Medium
+2523,2084.81,2004-09-09,Shipped,Ships,Italy,Small
+2524,3488.78,2004-10-14,Shipped,Ships,UK,Medium
+2525,1753.06,2004-10-22,Shipped,Ships,Denmark,Small
+2526,3469.2,2004-11-10,Resolved,Ships,Denmark,Medium
+2527,2530.8,2004-11-21,Shipped,Ships,USA,Small
+2528,2924.32,2004-12-02,Shipped,Ships,Spain,Small
+2529,4496.8,2005-01-26,Shipped,Ships,Japan,Medium
+2530,6397.44,2005-02-23,Shipped,Ships,USA,Medium
+2531,2577.6,2005-03-28,Shipped,Ships,France,Small
+2532,3533.62,2005-05-06,On Hold,Ships,USA,Medium
+2533,3177.3,2003-02-17,Shipped,Ships,Italy,Medium
+2534,2730.06,2003-04-28,Shipped,Ships,Austria,Small
+2535,1891.78,2003-06-16,Shipped,Ships,USA,Small
+2536,2612.48,2003-08-10,Shipped,Ships,USA,Small
+2537,2925.76,2003-10-06,Shipped,Ships,Finland,Small
+2538,2940.02,2003-10-23,Cancelled,Ships,Sweden,Small
+2539,3293.24,2003-11-08,Shipped,Ships,France,Medium
+2540,2389.68,2003-11-14,Shipped,Ships,UK,Small
+2541,2172.48,2003-11-26,Shipped,Ships,Spain,Small
+2542,2927.43,2004-01-09,Shipped,Ships,USA,Small
+2543,2659.54,2004-02-19,Shipped,Ships,USA,Small
+2544,3838.0,2004-05-08,Shipped,Ships,USA,Medium
+2545,4142.16,2004-06-24,Cancelled,Ships,Spain,Medium
+2546,2172.48,2004-07-21,Shipped,Ships,USA,Small
+2547,1882.8,2004-08-20,Shipped,Ships,Canada,Small
+2548,3477.86,2004-09-15,Shipped,Ships,Germany,Medium
+2549,3323.84,2004-10-14,Shipped,Ships,USA,Medium
+2550,4195.8,2004-11-01,Shipped,Ships,UK,Medium
+2551,4156.58,2004-11-12,Shipped,Ships,Italy,Medium
+2552,3918.75,2004-11-23,Shipped,Ships,Japan,Medium
+2553,2352.67,2004-12-03,Shipped,Ships,USA,Small
+2554,1089.36,2004-12-17,Shipped,Ships,Australia,Small
+2555,2701.12,2005-01-31,Shipped,Ships,Finland,Small
+2556,2487.04,2005-03-01,Resolved,Ships,Spain,Small
+2557,3910.32,2005-03-30,Shipped,Ships,France,Medium
+2558,4038.8,2005-04-01,Shipped,Ships,USA,Medium
+2559,3070.4,2005-05-09,Disputed,Ships,Australia,Medium
+2560,3763.46,2003-02-17,Shipped,Planes,Italy,Medium
+2561,2584.8,2003-04-29,Shipped,Planes,Australia,Small
+2562,4427.6,2003-06-16,Shipped,Planes,USA,Medium
+2563,2152.02,2003-08-10,Shipped,Planes,USA,Small
+2564,2353.4,2003-10-06,Shipped,Planes,Finland,Small
+2565,3431.39,2003-10-28,Shipped,Planes,USA,Medium
+2566,1930.5,2003-11-08,Shipped,Planes,France,Small
+2567,4774.56,2003-11-27,Shipped,Planes,Philippines,Medium
+2568,2592.72,2004-01-12,Shipped,Planes,Japan,Small
+2569,3246.75,2004-02-19,Shipped,Planes,USA,Medium
+2570,3372.5,2004-04-02,Shipped,Planes,Canada,Medium
+2571,3909.15,2004-05-11,Shipped,Planes,USA,Medium
+2572,2994.75,2004-06-24,Cancelled,Planes,Spain,Small
+2573,4472.52,2004-07-23,Shipped,Planes,France,Medium
+2574,4576.95,2004-08-21,Shipped,Planes,Norway,Medium
+2575,2441.04,2004-09-15,Shipped,Planes,Germany,Small
+2576,3106.25,2004-10-15,Shipped,Planes,USA,Medium
+2577,2706.41,2004-11-01,Shipped,Planes,UK,Small
+2578,4021.53,2004-11-12,Shipped,Planes,Italy,Medium
+2579,4826.25,2004-11-24,Shipped,Planes,Spain,Medium
+2580,4935.28,2004-12-03,Shipped,Planes,USA,Medium
+2581,2754.7,2004-12-17,Shipped,Planes,Australia,Small
+2582,3856.71,2005-02-03,Shipped,Planes,France,Medium
+2583,3102.08,2005-03-01,Resolved,Planes,Spain,Medium
+2584,1908.72,2005-03-30,Shipped,Planes,France,Small
+2585,7543.75,2005-04-03,On Hold,Planes,USA,Large
+2586,2457.18,2005-05-10,Shipped,Planes,Italy,Small
+2587,2038.87,2003-02-11,Shipped,Ships,Denmark,Small
+2588,2499.26,2003-04-28,Shipped,Ships,Austria,Small
+2589,3838.05,2003-06-12,Shipped,Ships,UK,Medium
+2590,2643.99,2003-08-10,Shipped,Ships,USA,Small
+2591,2315.88,2003-10-02,Shipped,Ships,USA,Small
+2592,3225.06,2003-10-23,Cancelled,Ships,Sweden,Medium
+2593,2451.84,2003-11-07,Shipped,Ships,Spain,Small
+2594,2254.98,2003-11-14,Shipped,Ships,USA,Small
+2595,3939.5,2003-11-26,Shipped,Ships,Spain,Medium
+2596,3424.7,2004-01-02,Shipped,Ships,France,Medium
+2597,2914.2,2004-02-19,Shipped,Ships,USA,Small
+2598,2389.6,2004-03-29,Shipped,Ships,USA,Small
+2599,2428.48,2004-05-07,Cancelled,Ships,USA,Small
+2600,3021.48,2004-06-17,Shipped,Ships,Canada,Medium
+2601,2610.72,2004-07-21,Shipped,Ships,Belgium,Small
+2602,3091.19,2004-08-20,Shipped,Ships,Canada,Medium
+2603,2576.2,2004-09-10,Shipped,Ships,USA,Small
+2604,3232.31,2004-10-14,Shipped,Ships,UK,Medium
+2605,3573.6,2004-11-01,Shipped,Ships,UK,Medium
+2606,2022.51,2004-11-10,Resolved,Ships,Denmark,Small
+2607,3717.5,2004-11-23,Shipped,Ships,Japan,Medium
+2608,2185.15,2004-12-02,Shipped,Ships,Spain,Small
+2609,2883.53,2005-01-31,Shipped,Ships,Finland,Small
+2610,5017.57,2005-03-01,Resolved,Ships,Spain,Medium
+2611,1463.0,2005-03-28,Shipped,Ships,France,Small
+2612,2352.59,2005-05-06,On Hold,Ships,USA,Small
+2613,4460.82,2003-01-29,Shipped,Classic Cars,Norway,Medium
+2614,4758.18,2003-04-01,Shipped,Classic Cars,France,Medium
+2615,4597.2,2003-05-28,Shipped,Classic Cars,Spain,Medium
+2616,4114.8,2003-07-24,Shipped,Classic Cars,USA,Medium
+2617,2104.0,2003-09-19,Shipped,Classic Cars,Singapore,Small
+2618,3195.27,2003-10-21,Resolved,Classic Cars,Austria,Medium
+2619,3611.16,2003-11-06,Shipped,Classic Cars,UK,Medium
+2620,2000.77,2003-11-13,Shipped,Classic Cars,USA,Small
+2621,2314.26,2003-11-25,Shipped,Classic Cars,France,Small
+2622,3871.89,2003-12-05,Shipped,Classic Cars,Canada,Medium
+2623,2728.0,2004-02-04,Shipped,Classic Cars,Singapore,Small
+2624,5614.0,2004-03-11,Shipped,Classic Cars,USA,Medium
+2625,4628.8,2004-05-04,Shipped,Classic Cars,USA,Medium
+2626,3641.4,2004-06-15,Shipped,Classic Cars,Japan,Medium
+2627,4048.0,2004-07-19,Shipped,Classic Cars,Australia,Medium
+2628,2321.46,2004-08-19,Shipped,Classic Cars,USA,Small
+2629,3256.96,2004-09-08,Shipped,Classic Cars,Sweden,Medium
+2630,4208.0,2004-10-11,Shipped,Classic Cars,France,Medium
+2631,2973.9,2004-10-22,Shipped,Classic Cars,Canada,Small
+2632,4248.3,2004-11-05,Shipped,Classic Cars,USA,Medium
+2633,9558.8,2004-11-20,Shipped,Classic Cars,France,Large
+2634,2650.56,2004-11-01,Shipped,Classic Cars,Spain,Small
+2635,3761.37,2004-12-10,Shipped,Classic Cars,Spain,Medium
+2636,4301.34,2005-01-23,Shipped,Classic Cars,USA,Medium
+2637,1864.56,2005-02-17,Shipped,Classic Cars,USA,Small
+2638,3576.8,2005-05-01,Shipped,Classic Cars,Canada,Medium
+2639,3722.32,2005-05-31,In Process,Classic Cars,Spain,Medium
+2640,3986.56,2003-02-17,Shipped,Planes,Italy,Medium
+2641,3417.12,2003-04-29,Shipped,Planes,Australia,Medium
+2642,2691.09,2003-06-27,Shipped,Planes,Spain,Small
+2643,2752.6,2003-08-25,Shipped,Planes,USA,Small
+2644,4527.72,2003-10-28,Shipped,Planes,USA,Medium
+2645,3957.05,2003-11-18,Shipped,Planes,Norway,Medium
+2646,2818.0,2004-01-12,Shipped,Planes,Japan,Small
+2647,3199.86,2004-02-20,Shipped,Planes,Australia,Medium
+2648,2402.75,2004-04-02,Shipped,Planes,Canada,Small
+2649,6055.72,2004-05-11,Shipped,Planes,USA,Medium
+2650,5465.16,2004-06-28,Shipped,Planes,USA,Medium
+2651,6378.72,2004-07-23,Shipped,Planes,France,Medium
+2652,5392.8,2004-08-27,Shipped,Planes,USA,Medium
+2653,3986.5,2004-09-16,Shipped,Planes,Ireland,Medium
+2654,4009.23,2004-10-15,Shipped,Planes,USA,Medium
+2655,7119.0,2004-11-02,Shipped,Planes,USA,Large
+2656,4072.2,2004-11-12,Shipped,Planes,Italy,Medium
+2657,4094.51,2004-11-24,Shipped,Planes,Spain,Medium
+2658,3302.4,2004-12-04,Shipped,Planes,USA,Medium
+2659,3186.48,2004-12-17,Shipped,Planes,Australia,Medium
+2660,1668.25,2005-02-03,Shipped,Planes,France,Small
+2661,7154.5,2005-03-03,Shipped,Planes,USA,Large
+2662,2810.83,2005-03-30,Shipped,Planes,France,Small
+2663,2018.31,2005-04-03,On Hold,Planes,USA,Small
+2664,5642.83,2005-05-10,Shipped,Planes,Italy,Medium
+2665,3273.6,2003-02-17,Shipped,Planes,Italy,Medium
+2666,3268.0,2003-04-29,Shipped,Planes,Australia,Medium
+2667,2688.0,2003-08-10,Shipped,Planes,USA,Small
+2668,3715.2,2003-10-06,Shipped,Planes,Finland,Medium
+2669,4608.0,2003-10-28,Shipped,Planes,USA,Medium
+2670,3131.2,2003-12-01,Shipped,Planes,USA,Medium
+2671,2678.4,2004-01-12,Shipped,Planes,Japan,Small
+2672,1747.2,2004-02-20,Shipped,Planes,Australia,Small
+2673,2944.0,2004-04-02,Shipped,Planes,Canada,Small
+2674,2956.8,2004-05-11,Shipped,Planes,USA,Small
+2675,2052.0,2004-06-24,Cancelled,Planes,Spain,Small
+2676,3164.8,2004-07-23,Shipped,Planes,France,Medium
+2677,1740.0,2004-08-21,Shipped,Planes,Norway,Small
+2678,1777.6,2004-09-15,Shipped,Planes,Germany,Small
+2679,1831.2,2004-10-15,Shipped,Planes,USA,Small
+2680,3609.6,2004-11-01,Shipped,Planes,UK,Medium
+2681,2112.0,2004-11-12,Shipped,Planes,Italy,Small
+2682,3644.12,2004-11-24,Shipped,Planes,Austria,Medium
+2683,3523.85,2004-12-04,Shipped,Planes,USA,Medium
+2684,5001.92,2004-12-17,Shipped,Planes,Australia,Medium
+2685,5208.72,2005-02-03,Shipped,Planes,France,Medium
+2686,3018.88,2005-03-01,Resolved,Planes,Spain,Medium
+2687,1902.4,2005-03-30,Shipped,Planes,France,Small
+2688,7084.0,2005-04-03,On Hold,Planes,USA,Large
+2689,2620.8,2005-05-10,Shipped,Planes,Italy,Small
+2690,3164.46,2003-02-11,Shipped,Ships,Denmark,Medium
+2691,4219.2,2003-04-21,Shipped,Ships,Spain,Medium
+2692,3828.3,2003-06-12,Shipped,Ships,UK,Medium
+2693,2334.99,2003-08-08,Shipped,Ships,USA,Small
+2694,4407.5,2003-09-28,Shipped,Ships,Spain,Medium
+2695,2812.8,2003-10-23,Cancelled,Ships,Sweden,Small
+2696,4055.04,2003-11-07,Shipped,Ships,Spain,Medium
+2697,3891.66,2003-11-14,Shipped,Ships,USA,Medium
+2698,2488.32,2003-11-26,Shipped,Ships,Spain,Small
+2699,4447.4,2004-01-02,Shipped,Ships,France,Medium
+2700,4187.22,2004-02-19,Shipped,Ships,USA,Medium
+2701,4615.68,2004-03-20,Shipped,Ships,UK,Medium
+2702,3245.4,2004-05-07,Cancelled,Ships,USA,Medium
+2703,2203.75,2004-06-17,Shipped,Ships,Canada,Small
+2704,3446.0,2004-07-21,Shipped,Ships,Belgium,Medium
+2705,1939.3,2004-08-20,Shipped,Ships,Canada,Small
+2706,3473.78,2004-09-10,Shipped,Ships,USA,Medium
+2707,2884.8,2004-10-14,Shipped,Ships,UK,Small
+2708,2670.65,2004-10-29,Shipped,Ships,France,Small
+2709,3440.0,2004-11-10,Resolved,Ships,Denmark,Medium
+2710,2770.78,2004-11-21,Shipped,Ships,USA,Small
+2711,2397.54,2004-12-02,Shipped,Ships,Spain,Small
+2712,3275.56,2005-01-31,Shipped,Ships,Finland,Medium
+2713,4143.6,2005-03-01,Resolved,Ships,Spain,Medium
+2714,5192.64,2005-03-28,Shipped,Ships,France,Medium
+2715,3029.04,2005-05-06,On Hold,Ships,USA,Medium
+2716,2556.18,2003-02-11,Shipped,Ships,Denmark,Small
+2717,3753.9,2003-04-16,Shipped,Ships,Singapore,Medium
+2718,2562.3,2003-06-12,Shipped,Ships,UK,Small
+2719,3245.58,2003-08-08,Shipped,Ships,USA,Medium
+2720,2204.6,2003-09-28,Shipped,Ships,Spain,Small
+2721,3003.0,2003-10-23,Cancelled,Ships,Sweden,Medium
+2722,2526.48,2003-11-07,Shipped,Ships,Spain,Small
+2723,1747.9,2003-11-14,Shipped,Ships,USA,Small
+2724,3267.25,2003-11-26,Shipped,Ships,Spain,Medium
+2725,2818.53,2004-01-02,Shipped,Ships,France,Small
+2726,2955.54,2004-02-19,Shipped,Ships,USA,Small
+2727,2885.05,2004-03-20,Shipped,Ships,UK,Small
+2728,3162.95,2004-05-07,Cancelled,Ships,USA,Medium
+2729,4071.5,2004-06-17,Shipped,Ships,Canada,Medium
+2730,2969.46,2004-07-21,Shipped,Ships,Belgium,Small
+2731,3396.44,2004-08-20,Shipped,Ships,Canada,Medium
+2732,4692.6,2004-09-10,Shipped,Ships,USA,Medium
+2733,3515.7,2004-10-14,Shipped,Ships,UK,Medium
+2734,3380.69,2004-10-29,Shipped,Ships,France,Medium
+2735,3204.57,2004-11-10,Resolved,Ships,Denmark,Medium
+2736,2588.04,2004-11-21,Shipped,Ships,USA,Small
+2737,2854.75,2004-12-02,Shipped,Ships,Spain,Small
+2738,4025.6,2005-01-31,Shipped,Ships,Finland,Medium
+2739,2864.4,2005-03-01,Resolved,Ships,Spain,Small
+2740,3789.72,2005-03-28,Shipped,Ships,France,Medium
+2741,2439.99,2005-05-06,On Hold,Ships,USA,Small
+2742,2949.12,2003-02-17,Shipped,Planes,Italy,Small
+2743,1539.72,2003-04-28,Shipped,Planes,Austria,Small
+2744,2213.38,2003-06-16,Shipped,Planes,USA,Small
+2745,2919.58,2003-08-10,Shipped,Planes,USA,Small
+2746,3778.28,2003-10-06,Shipped,Planes,Finland,Medium
+2747,3233.49,2003-10-28,Shipped,Planes,USA,Medium
+2748,3431.25,2003-11-08,Shipped,Planes,France,Medium
+2749,2546.8,2003-11-27,Shipped,Planes,Philippines,Small
+2750,2953.86,2004-01-12,Shipped,Planes,Japan,Small
+2751,3183.29,2004-02-19,Shipped,Planes,USA,Medium
+2752,2466.7,2004-04-02,Shipped,Planes,Canada,Small
+2753,2363.22,2004-05-11,Shipped,Planes,USA,Small
+2754,2487.45,2004-06-24,Cancelled,Planes,Spain,Small
+2755,2249.05,2004-07-23,Shipped,Planes,France,Small
+2756,2061.12,2004-08-21,Shipped,Planes,Norway,Small
+2757,4071.14,2004-09-15,Shipped,Planes,Germany,Medium
+2758,2656.29,2004-10-15,Shipped,Planes,USA,Small
+2759,2736.36,2004-11-01,Shipped,Planes,UK,Small
+2760,3348.93,2004-11-12,Shipped,Planes,Italy,Medium
+2761,2893.0,2004-11-23,Shipped,Planes,Japan,Small
+2762,1661.22,2004-12-03,Shipped,Planes,USA,Small
+2763,4277.35,2004-12-17,Shipped,Planes,Australia,Medium
+2764,2502.9,2005-01-31,Shipped,Planes,Finland,Small
+2765,3801.6,2005-03-01,Resolved,Planes,Spain,Medium
+2766,3144.96,2005-03-30,Shipped,Planes,France,Medium
+2767,2031.4,2005-04-03,On Hold,Planes,USA,Small
+2768,2674.17,2005-05-10,Shipped,Planes,Italy,Small
+2769,2526.72,2003-02-17,Shipped,Planes,Italy,Small
+2770,1348.76,2003-04-28,Shipped,Planes,Austria,Small
+2771,875.91,2003-06-16,Shipped,Planes,USA,Small
+2772,1874.05,2003-08-10,Shipped,Planes,USA,Small
+2773,1671.44,2003-10-06,Shipped,Planes,Finland,Small
+2774,1668.4,2003-10-23,Cancelled,Planes,Sweden,Small
+2775,2301.75,2003-11-08,Shipped,Planes,France,Small
+2776,1459.92,2003-11-14,Shipped,Planes,UK,Small
+2777,1209.59,2003-11-26,Shipped,Planes,Spain,Small
+2778,2145.12,2004-01-09,Shipped,Planes,USA,Small
+2779,1416.39,2004-02-19,Shipped,Planes,USA,Small
+2780,1843.52,2004-05-08,Shipped,Planes,USA,Small
+2781,1199.31,2004-06-24,Cancelled,Planes,Spain,Small
+2782,1875.2,2004-07-21,Shipped,Planes,USA,Small
+2783,2477.23,2004-08-20,Shipped,Planes,Canada,Small
+2784,948.99,2004-09-15,Shipped,Planes,Germany,Small
+2785,1823.42,2004-10-14,Shipped,Planes,USA,Small
+2786,1485.8,2004-11-01,Shipped,Planes,UK,Small
+2787,3789.72,2004-11-15,Shipped,Planes,USA,Medium
+2788,2060.37,2004-11-23,Shipped,Planes,Japan,Small
+2789,2579.36,2004-12-03,Shipped,Planes,USA,Small
+2790,2189.6,2004-12-17,Shipped,Planes,Australia,Small
+2791,1624.25,2005-01-31,Shipped,Planes,Finland,Small
+2792,4357.5,2005-03-01,Resolved,Planes,Spain,Medium
+2793,1367.48,2005-03-30,Shipped,Planes,France,Small
+2794,1122.4,2005-04-01,Shipped,Planes,USA,Small
+2795,2419.62,2005-05-09,Disputed,Planes,Australia,Small
+2796,1419.5,2003-02-11,Shipped,Ships,Denmark,Small
+2797,2184.0,2003-04-16,Shipped,Ships,Singapore,Small
+2798,2079.04,2003-06-12,Shipped,Ships,UK,Small
+2799,1724.97,2003-08-08,Shipped,Ships,USA,Small
+2800,3003.0,2003-09-28,Shipped,Ships,Spain,Medium
+2801,1846.42,2003-10-23,Cancelled,Ships,Sweden,Small
+2802,2009.2,2003-11-07,Shipped,Ships,Spain,Small
+2803,1804.04,2003-11-14,Shipped,Ships,USA,Small
+2804,2109.66,2003-11-26,Shipped,Ships,Spain,Small
+2805,2682.96,2004-01-02,Shipped,Ships,France,Small
+2806,2280.24,2004-02-19,Shipped,Ships,USA,Small
+2807,1192.56,2004-03-20,Shipped,Ships,UK,Small
+2808,1506.96,2004-05-07,Cancelled,Ships,USA,Small
+2809,1472.62,2004-06-17,Shipped,Ships,Canada,Small
+2810,1696.82,2004-07-21,Shipped,Ships,Belgium,Small
+2811,1693.56,2004-08-20,Shipped,Ships,Canada,Small
+2812,1921.92,2004-09-09,Shipped,Ships,Italy,Small
+2813,2082.85,2004-10-14,Shipped,Ships,UK,Small
+2814,2227.6,2004-10-29,Shipped,Ships,France,Small
+2815,3209.38,2004-11-10,Resolved,Ships,Denmark,Medium
+2816,4080.72,2004-11-21,Shipped,Ships,USA,Medium
+2817,2244.4,2004-12-02,Shipped,Ships,Spain,Small
+2818,3978.51,2005-01-31,Shipped,Ships,Finland,Medium
+2819,5417.57,2005-03-01,Resolved,Ships,Spain,Medium
+2820,2116.16,2005-03-28,Shipped,Ships,France,Small
+2821,3079.44,2005-05-06,On Hold,Ships,USA,Medium
